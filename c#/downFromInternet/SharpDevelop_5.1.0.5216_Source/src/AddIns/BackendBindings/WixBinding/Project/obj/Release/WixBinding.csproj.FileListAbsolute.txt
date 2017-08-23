@@ -1,0 +1,14 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\DefaultLicense.rtf
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\WixBinding.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixFile.xft
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixDialog.xft
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixProject.xpt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\SetupDialogControlLibrary.sdcl
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\WixDialog.xft
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIFeatureTreeProject.xpt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIInstallDirProject.xpt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIMinimalProject.xpt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIMondoProject.xpt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\WixBinding\WixBinding.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\WixBinding\Project\obj\Release\WixBinding.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\WixBinding\Project\obj\Release\WixBinding.dll

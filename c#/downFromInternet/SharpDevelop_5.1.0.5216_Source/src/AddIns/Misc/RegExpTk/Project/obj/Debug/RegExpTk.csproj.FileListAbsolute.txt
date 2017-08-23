@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\RegExpTk\RegExpTk.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\RegExpTk\RegExpTk.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\RegExpTk\RegExpTk.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.pdb

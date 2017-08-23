@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\FormsDesigner\FormsDesigner.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\FormsDesigner.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\GeneralOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\GridOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\LocalizationModelOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\GeneralOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\GridOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\Src\Gui\OptionPanels\LocalizationModelOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\FormsDesigner_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\FormsDesigner.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\ICSharpCode.FormsDesigner.Gui.ImageResourceEditorDialog.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\FormsDesigner.csproj.GenerateResource.Cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Release\FormsDesigner.dll

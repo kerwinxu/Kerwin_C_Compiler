@@ -1,0 +1,8 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\UnitTesting\UnitTesting.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\UnitTesting.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\Options\UnitTestingOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\UnitTesting_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\UnitTesting_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\Options\UnitTestingOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\UnitTesting.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\UnitTesting\obj\Release\UnitTesting.dll

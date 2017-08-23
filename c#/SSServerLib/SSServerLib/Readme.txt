@@ -1,0 +1,1 @@
+﻿Sample ans strong server 

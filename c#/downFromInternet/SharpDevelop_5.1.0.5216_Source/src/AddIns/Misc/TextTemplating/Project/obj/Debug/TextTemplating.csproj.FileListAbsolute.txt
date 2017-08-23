@@ -1,0 +1,8 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\TextTemplating\Templates\CSharp.TextTemplate.xft
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\TextTemplating\Templates\VB.TextTemplate.xft
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\TextTemplating\TextTemplating.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\TextTemplating\TextTemplating.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\TextTemplating\TextTemplating.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\TextTemplating\Project\obj\Debug\TextTemplating.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\TextTemplating\Project\obj\Debug\TextTemplating.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\TextTemplating\Project\obj\Debug\TextTemplating.pdb

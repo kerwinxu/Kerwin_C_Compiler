@@ -1,0 +1,9 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\SharpDevelopReporting\ICSharpCode.Reporting.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\SharpDevelopReporting\ICSharpCode.Reporting.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\ICSharpCode.Reporting.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\Src\Wpf\WpfReportViewer\WpfReportViewer.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\Src\Wpf\WpfReportViewer\WpfReportViewer.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\ICSharpCode.Reporting_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\ICSharpCode.Reporting.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\ICSharpCode.Reporting.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\Reporting\ICSharpCode.Reporting\obj\Debug\ICSharpCode.Reporting.pdb

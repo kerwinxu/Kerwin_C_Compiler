@@ -1,0 +1,16 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeQuality\CodeQuality.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeQuality\ICSharpCode.CodeQuality.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeQuality\ICSharpCode.CodeQuality.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\CodeQuality.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\NodeDescription.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\NodeDescription.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\DependencyMatrixView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\MainView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\ICSharpCode.CodeQuality_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\ICSharpCode.CodeQuality_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\DependencyMatrixView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\Gui\MainView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\ICSharpCode.CodeQuality.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\ICSharpCode.CodeQuality.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\ICSharpCode.CodeQuality.pdb

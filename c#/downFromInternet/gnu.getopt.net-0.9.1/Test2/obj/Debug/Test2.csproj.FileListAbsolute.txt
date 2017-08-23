@@ -1,0 +1,14 @@
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\Test2.exe
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\Test2.pdb
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\obj\Debug\Test2.exe
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\obj\Debug\Test2.pdb
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\Gnu.Getopt2.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\Gnu.Getopt2.pdb
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\cs\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\de\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\fr\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\hu\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\ja\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\nl\Gnu.Getopt2.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Test2\bin\Debug\no\Gnu.Getopt2.resources.dll

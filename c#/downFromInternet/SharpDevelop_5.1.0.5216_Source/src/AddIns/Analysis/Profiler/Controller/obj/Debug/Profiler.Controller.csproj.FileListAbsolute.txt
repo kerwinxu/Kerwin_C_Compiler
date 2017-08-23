@@ -1,0 +1,6 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.xml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Controller\obj\Debug\Profiler.Controller.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Controller\obj\Debug\ICSharpCode.Profiler.Controller.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Controller\obj\Debug\ICSharpCode.Profiler.Controller.pdb

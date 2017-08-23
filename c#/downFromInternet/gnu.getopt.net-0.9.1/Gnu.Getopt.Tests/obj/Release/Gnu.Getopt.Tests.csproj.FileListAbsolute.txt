@@ -1,0 +1,15 @@
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\Gnu.Getopt.Tests.exe.config
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\Gnu.Getopt.Tests.exe
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\Gnu.Getopt.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\nunit.framework.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\Gnu.Getopt.xml
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\nunit.framework.xml
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\cs\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\de\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\fr\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\hu\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\ja\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\nl\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\bin\Release\no\Gnu.Getopt.resources.dll
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\obj\Release\Gnu.Getopt.Tests.csprojResolveAssemblyReference.cache
+E:\360file\Program\c#\downFromInternet\gnu.getopt.net-0.9.1\Gnu.Getopt.Tests\obj\Release\Gnu.Getopt.Tests.exe

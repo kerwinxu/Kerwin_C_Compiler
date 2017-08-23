@@ -1,0 +1,7 @@
+Product, //div[@class='card']
+company_name,//a[@class='company']/@title
+email,//div[@class='email']/@title
+webside,//a[@class='company']/@href
+name,//a[@class='name']/@title
+tel,//div[@class='card-back']/div/div/div[3]/span[2]/@title
+Mobile,//div[@class='card-back']/div/div/div[5]/span[2]/@title

@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb

@@ -1,0 +1,5 @@
+E:\project\c#\我自己编写的类库\jsonlib\jsonlib\bin\Debug\jsonlib.dll
+E:\project\c#\我自己编写的类库\jsonlib\jsonlib\bin\Debug\jsonlib.pdb
+E:\project\c#\我自己编写的类库\jsonlib\jsonlib\obj\Debug\jsonlib.csprojResolveAssemblyReference.cache
+E:\project\c#\我自己编写的类库\jsonlib\jsonlib\obj\Debug\jsonlib.dll
+E:\project\c#\我自己编写的类库\jsonlib\jsonlib\obj\Debug\jsonlib.pdb

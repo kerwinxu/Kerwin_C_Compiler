@@ -1,0 +1,8 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\SharpDevelop.TargetingPack.targets
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\SharpDevelop.CodeAnalysis.targets
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\SharpDevelop.CheckMSBuild35Features.targets
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Build.Tasks.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Build.Tasks.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.pdb

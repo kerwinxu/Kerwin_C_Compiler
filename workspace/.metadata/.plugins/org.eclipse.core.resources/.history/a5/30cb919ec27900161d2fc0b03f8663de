@@ -1,0 +1,29 @@
+坦克基础知识，内容摘选自： http://blog.csdn.net/model_cz/article/details/5455883
+在Robocode中，坦克分为3个部件: 身体(Body)、炮塔(Gun)、雷达(Radar)。
+因此，在Robot类(还记得吗，它是任何坦克的父类)中，有对这些部件操作的方法。
+要查看Robocode提供的API，可以在robocode目录下的javadoc下找到，也可以在Robocode程序的帮助菜单中找到:
+对于Body来说，Robot类提供了4个方法:
+	ahead (double distance)  //向前移动指定距离
+	back (double distance)    //向后移动指定距离
+	turnLeft (double degrees)  //左转指定角度
+	turnRight (double degrees) //右转指定角度
+对于Gun来说，提供了两个旋转方法和一个开火方法:
+	turnGunLeft 、turnGunRight
+	fire (double power)  //开炮，参数power指定开炮能量(0-3)，关于开炮能量和其它参数的关系我们后面的文章会讨论到
+对于Radar来说，提供了两个旋转方法:
+	turnRadarLeft、turnRadarRight.
+在默认情况下，车身旋转会带动炮塔转动，炮塔转都会带动雷达转动。
+在Robot类中，还提供了一些事件处理方法，下面列出最重要的一些:
+	onScannedRobot (ScannedRobotEvent event) //当雷达扫描到敌人的时候触发此事件
+	onBulletHit (BulletHitEvent event) //当你收到敌人攻击时，会触发此事件
+最后要强调一点是，你往往需要在run方法中写一个死循环来重复的执行你指定的动作，在死循环前，你可以做些初始化动作，如:
+setColors(Color.red,Color.blue,Color.green); //设置Body、GUn、Radar颜色 
+while(true) { 
+    // Replace the next 4 lines with any behavior you would like 
+    ahead(100); 
+    turnGunRight(360); 
+    back(100); 
+    turnGunRight(360); 
+}
+另外，还需要注意的是，Robot类中提供的所有动作方法都是阻塞式的。比方说，ahead(100)方法必须要等坦克执行完移动动作后，才会返回。
+有了这些知识，你已经能做一个“笨笨的”坦克了。动手试试吧！

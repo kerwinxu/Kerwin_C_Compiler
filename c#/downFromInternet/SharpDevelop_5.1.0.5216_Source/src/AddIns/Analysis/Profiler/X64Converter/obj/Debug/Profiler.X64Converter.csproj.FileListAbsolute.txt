@@ -1,0 +1,6 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\Profiler.X64Converter.exe.config
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\Profiler.X64Converter.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\Profiler.X64Converter.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.pdb

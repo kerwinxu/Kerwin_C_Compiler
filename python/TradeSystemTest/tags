@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AMOUNT	.\TradeSystemBase.py	/^    AMOUNT = u"金额"$/;"	variable	class:TradeSystemBase
+CLOSE	.\TradeSystemBase.py	/^    CLOSE = u"收盘"$/;"	variable	class:TradeSystemBase
+EMA_INIT	.\TradeSystemBase.py	/^    def EMA_INIT(self, a):$/;"	member	class:TradeSystemBase	access:public
+HIGH	.\TradeSystemBase.py	/^    HIGH = u"最高"$/;"	variable	class:TradeSystemBase
+LOW	.\TradeSystemBase.py	/^    LOW = u"最低"$/;"	variable	class:TradeSystemBase
+MA	.\TradeSystemBase.py	/^    def MA(self, n, c):$/;"	member	class:TradeSystemBase	access:public
+OPEN	.\TradeSystemBase.py	/^    OPEN = u"开盘"$/;"	variable	class:TradeSystemBase
+TIMEDATE	.\TradeSystemBase.py	/^    TIMEDATE = u"时间"$/;"	variable	class:TradeSystemBase
+TradeSystemBase	.\TradeSystemBase.py	/^class TradeSystemBase:$/;"	class	inherits:
+VOLUME	.\TradeSystemBase.py	/^    VOLUME = u"总手"$/;"	variable	class:TradeSystemBase
+X	.\learn_Tensorflow_1.py	/^X=tf.placeholder(tf.float32, [None,time_step,input_size])    #每批次输入网络的tensor$/;"	variable
+Y	.\learn_Tensorflow_1.py	/^Y=tf.placeholder(tf.float32, [None,time_step,output_size])   #每批次tensor对应的标签$/;"	variable
+batch_size	.\learn_Tensorflow_1.py	/^batch_size=60     #每一批次训练多少个样例$/;"	variable
+biases	.\learn_Tensorflow_1.py	/^biases={$/;"	variable
+c	.\TradeSystemBase.py	/^    c = TradeSystemBase()$/;"	variable	class:TradeSystemBase
+data	.\learn_Tensorflow_1.py	/^data=data[::-1]      #反转，使数据按照日期先后顺序排列$/;"	variable
+data	.\learn_Tensorflow_1.py	/^data=np.array(df['最高'])   #获取最高价序列$/;"	variable
+df	.\learn_Tensorflow_1.py	/^df=pd.read_csv("Table.xls", encoding='gbk', sep='\\t')     #读入股票数据$/;"	variable
+getKShapeData	.\TradeSystemBase.py	/^    def getKShapeData(self, strFileName, encoding='gbk', sep='\\t'):$/;"	member	class:TradeSystemBase	access:public
+input_size	.\learn_Tensorflow_1.py	/^input_size=1      #输入层维度$/;"	variable
+lr	.\learn_Tensorflow_1.py	/^lr=0.0006         #学习率$/;"	variable
+lstm	.\learn_Tensorflow_1.py	/^def lstm(batch):      #参数：输入网络批次数目$/;"	function	access:public
+matplotlib	.\learn_Tensorflow_1.py	/^import matplotlib.pyplot as plt$/;"	namespace
+normalize_data	.\learn_Tensorflow_1.py	/^normalize_data=(data-np.mean(data))\/np.std(data)  #标准化$/;"	variable
+normalize_data	.\learn_Tensorflow_1.py	/^normalize_data=normalize_data[:,np.newaxis]       #增加维度$/;"	variable
+np	.\learn_Tensorflow_1.py	/^import numpy as np$/;"	namespace
+output_size	.\learn_Tensorflow_1.py	/^output_size=1     #输出层维度$/;"	variable
+pandas	.\TradeSystemBase.py	/^import pandas$/;"	namespace
+pd	.\learn_Tensorflow_1.py	/^import pandas as pd$/;"	namespace
+plt	.\learn_Tensorflow_1.py	/^import matplotlib.pyplot as plt$/;"	namespace
+prediction	.\learn_Tensorflow_1.py	/^def prediction():$/;"	function	access:public
+project_opened	.\.ropeproject\config.py	/^def project_opened(project):$/;"	function	access:public
+rnn_unit	.\learn_Tensorflow_1.py	/^rnn_unit=10       #hidden layer units$/;"	variable
+setKShapeData	.\TradeSystemBase.py	/^    def setKShapeData(self, _kshapedata):$/;"	member	class:TradeSystemBase	access:public
+set_prefs	.\.ropeproject\config.py	/^def set_prefs(prefs):$/;"	function	access:public
+tf	.\learn_Tensorflow_1.py	/^import tensorflow as tf$/;"	namespace
+time_step	.\learn_Tensorflow_1.py	/^time_step=20      #时间步$/;"	variable
+train_lstm	.\learn_Tensorflow_1.py	/^def train_lstm():$/;"	function	access:public
+weights	.\learn_Tensorflow_1.py	/^weights={$/;"	variable
+x	.\learn_Tensorflow_1.py	/^    x=normalize_data[i:i+time_step]$/;"	variable
+y	.\learn_Tensorflow_1.py	/^    y=normalize_data[i+1:i+time_step+1]$/;"	variable

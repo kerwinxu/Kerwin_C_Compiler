@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\AddinScout\AddInScout.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\AddinScout\AddinScout.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\AddinScout\AddinScout.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.pdb

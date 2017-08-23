@@ -1,0 +1,7 @@
+E:\project\c#\学习Csharp\学习Csharp\bin\Debug\学习Csharp.exe.config
+E:\Program\c#\学习Csharp\学习Csharp\bin\Debug\学习Csharp.exe.config
+E:\Program\c#\学习Csharp\学习Csharp\bin\Debug\学习Csharp.exe
+E:\Program\c#\学习Csharp\学习Csharp\bin\Debug\学习Csharp.pdb
+E:\Program\c#\学习Csharp\学习Csharp\obj\Debug\学习Csharp.csprojResolveAssemblyReference.cache
+E:\Program\c#\学习Csharp\学习Csharp\obj\Debug\学习Csharp.exe
+E:\Program\c#\学习Csharp\学习Csharp\obj\Debug\学习Csharp.pdb

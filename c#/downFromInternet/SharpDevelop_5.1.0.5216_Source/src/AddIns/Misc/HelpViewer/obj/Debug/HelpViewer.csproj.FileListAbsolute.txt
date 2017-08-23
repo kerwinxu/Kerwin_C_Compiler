@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\HelpViewer\HelpViewer.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\HelpViewer\HelpViewer.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\HelpViewer\HelpViewer.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Controls\SearchPadControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Controls\TocPadControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Help3OptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Controls\SearchPadControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Controls\TocPadControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\Source\Help3OptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\HelpViewer_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\HelpViewer.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\HelpViewer.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\HelpViewer\obj\Debug\HelpViewer.pdb

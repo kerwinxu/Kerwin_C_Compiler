@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\UsageDataCollector.AddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\CollectedDataView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\CollectedDataView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\OptionPage.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\StartPageMessage.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\UsageDataCollector.AddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\UsageDataCollector.AddIn_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\OptionPage.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\StartPageMessage.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\UsageDataCollector.AddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Release\UsageDataCollector.AddIn.dll

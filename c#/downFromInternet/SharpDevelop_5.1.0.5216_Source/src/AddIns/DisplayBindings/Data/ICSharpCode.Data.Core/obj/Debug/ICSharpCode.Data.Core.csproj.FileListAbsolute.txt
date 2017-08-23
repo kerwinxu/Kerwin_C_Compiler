@@ -1,0 +1,7 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Debug\ICSharpCode.Data.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Debug\ICSharpCode.Data.Core.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Debug\ICSharpCode.Data.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Debug\ICSharpCode.Data.Core.Properties.Resources.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Debug\ICSharpCode.Data.Core.csproj.GenerateResource.Cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Debug\ICSharpCode.Data.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Debug\ICSharpCode.Data.Core.pdb

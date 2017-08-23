@@ -1,0 +1,8 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\GitAddIn.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\GitAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\Src\GitOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\GitAddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\GitAddIn_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\Src\GitOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\GitAddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Release\GitAddIn.dll

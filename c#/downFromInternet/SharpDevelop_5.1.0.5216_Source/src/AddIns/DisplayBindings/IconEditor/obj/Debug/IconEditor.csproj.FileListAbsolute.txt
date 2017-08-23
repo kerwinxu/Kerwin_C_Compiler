@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\IconEditor\IconEditor.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditor.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\IconEditor\obj\Debug\ICSharpCode.IconEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\IconEditor\obj\Debug\ICSharpCode.IconEditor.pdb

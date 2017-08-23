@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head><link rel="stylesheet" type="text/css" href="description/Combined.css,0:HeaderFooterSprite,0:Header.NonMtps;/Areas/Centers/Themes/StandardDevCenter/Content:0&amp;amp;hashKey=CBE7DDB23F41FCBF062896CA8DDBE947" xmlns="http://www.w3.org/1999/xhtml" />
+<link type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml" />
+<link rel="stylesheet" type="text/css" href="description/9e116645-9d9a-4566-82a8-7b29a5b324f1Combined.css,0:HeaderFooterSprite,0:Footer.NonMtps,1:LinkList;/Areas/Centers/Themes/StandardDevCenter/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=F576C687BC536B84D6E5B3246EE39B49" xmlns="http://www.w3.org/1999/xhtml" />
+<link type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>如何自定义Outlook窗体</title>
+        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" />
+        <link href="description/iframedescription.css" rel="Stylesheet" type="text/css" />
+        <script src="description/offline.js" type="text/javascript"></script>
+        <style type="text/css">
+            #projectInfo {
+                overflow: auto;
+            }
+            #longDesc {
+                clear:both;
+                margin: 25px 0 10px 0;
+            }
+
+            #SampleIndexList{
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+<body>
+    <div id="offlineDescription">
+        <h1>如何自定义Outlook窗体</h1>
+        <br/>
+        <div id="projectInfo">
+            <div class="section">
+                    <div class="itemBarLong tagsContainer">
+                        <label for="技术">技术</label>
+                        <div id="技术">
+                            VSTO, Outlook 2010
+                        </div>
+                    </div>
+                    <div class="itemBarLong tagsContainer">
+                        <label for="主题">主题</label>
+                        <div id="主题">
+                            VSTO, Outlook, Form Region
+                        </div>
+                    </div>
+                <div class="itemBarLong">
+                    <label for="Platforms">Platforms</label>
+                    <div id="Platforms">
+                        Desktop
+                    </div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="Requirements">Requirements</label>
+                    <div id="Requirements">
+                        
+                    </div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Primary language</label>
+                    <div id="LastUpdated">zh-CN</div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">上次更新日期</label>
+                    <div id="LastUpdated">2013/4/18</div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="License">许可证</label>
+                    <div id="License">
+                        <a href="license.rtf">Apache 许可证 2.0 版</a></div>
+                </div>
+                <div class="itemBar">
+                    <div class="viewonlinecont">
+                        <a data-link="online" href="http://code.msdn.microsoft.com/Outlook-49ae7cac">在线查看此示例</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                   
+<script type="text/javascript">
+    function initializePage() {
+        var otherTabClass = 'otherTab';
+        var hiddenPreClass = 'hidden';
+
+        var htmlDecode = function(encodedData) {
+            var decodedData = "";
+            if (encodedData) {
+                var div = document.createElement('div');
+                div.innerHTML = encodedData;
+                decodedData = div.firstChild.nodeValue.replace( /\\r\\n/ig , '\r\n');
+            }
+            return decodedData;
+        };
+                
+        Galleries.iterateElem(Galleries.findElem(null, 'div', 'scriptcode'), function (index, scriptBlock) {
+            var titleElem = Galleries.findElem(scriptBlock, 'div', 'title')[0];
+            var labelElems = Galleries.findElem(titleElem, 'span');
+            if (labelElems.length == 0) {
+                labelElems = titleElem;
+            }
+            var languageSpans = Galleries.findElem(scriptBlock, 'span', 'hidden');
+            var pres = Galleries.findElem(scriptBlock, 'pre');
+            if (languageSpans.length > 0 && pres.length > 1) {
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    var languageSpan = languageSpans[index];
+                            
+                    elem.code = codePre.innerHTML.replace( /(\r(\n)?)|((\r)?\n)/ig , '\\r\\n');
+                            
+                    codePre.className = codePre.className.replace(hiddenPreClass, '');
+                            
+                    languageSpan.parentNode.removeChild(languageSpan);
+                });
+
+                pres = Galleries.findElem(scriptBlock, 'pre');
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    if (index == 0) {
+                        scriptBlock.activeTab = 0;
+                    }
+                    else {
+                        labelSpan.className += otherTabClass;
+                        codePre.className += hiddenPreClass;
+                    }
+                    Galleries.attachEventHandler(labelSpan, 'click', function(e) {
+                        var activeTab = scriptBlock.activeTab;
+                        labelElems[activeTab].className += otherTabClass;
+                        pres[activeTab].className += hiddenPreClass;
+
+                        codePre.className = codePre.className.replace(hiddenPreClass, '');
+                        labelSpan.className = labelSpan.className.replace(otherTabClass, '');
+                        scriptBlock.activeTab = index;
+                    });
+                });
+
+                var preview = Galleries.findElem(scriptBlock, 'div', 'preview');
+                if (preview.length == 0) {
+                    preview.push(pres[pres.length - 1]);
+                }
+                Galleries.iterateElem(preview, function(index, elem) {
+                    elem.parentNode.removeChild(elem);
+                });
+
+                if (window.clipboardData && clipboardData.setData) {
+                    var copyLink = document.createElement('a');
+                    copyLink.href = 'javascript:void(0);';
+                    copyLink.className = 'copyCode';
+                    copyLink.innerHTML = '复制代码';
+                    Galleries.attachEventHandler(copyLink, 'click', function (e) {
+                        clipboardData.setData("Text", htmlDecode(labelElems[scriptBlock.activeTab].code));
+                        return false;
+                    });
+                    scriptBlock.insertBefore(copyLink, scriptBlock.childNodes[0]);
+                }
+            }
+        });
+    }
+
+    Galleries.onWindowLoad(function(){
+        initializePage();
+    });
+
+</script>
+<div id="longDesc">
+    
+<h1>简介</h1>
+<p><span style="font-size:small">在很多时候，我们都希望联系人的窗体中有关于父母的联系方式，然后在现有的Outlook界面中却没有这样的字段来给我们填写的，本示例演示的就是通过Outlook的窗体区域窗体来自定义我们的联系人界面，在界面上加入我们自定义的控件。</span></p>
+<h1>编译示例</h1>
+<p><span style="font-size:small">在运行该示例之前，请确保本机安装Office 2010 和Visual Studio Tools For Office。该组件已经继承进Visual Studio了，所以只要本机安装了Visual Studio 2010就已经安装了这个组件，同时大家安装Visual Studio 的时候也可以留意安装的组件中的Visual Studio Tools For Office 是默认勾选的。</span></p>
+<p><span style="font-size:20px"><strong>运行示例</strong></span></p>
+<p><span style="font-size:small">步骤一、打开 &ldquo;VSTOOutlook.sln&rdquo; 文件来打开整个项目的解决方案，然后按F5或Ctrl&#43;F5运行该示例，你将看到程序会自动打开Outlook程序。</span></p>
+<p>步骤二、在右边的面板选择联系人，然后双击联系人列表或点击&ldquo;新建联系人&rdquo;按钮，你将看到联系人窗口中多出了自定义的控件，具体可以参考下图：</p>
+<p><span style="font-size:small"><img id="80108" src="description/5.jpg" alt="" width="735" height="623"><br>
+</span></p>
+<p>&nbsp;</p>
+<h1>使用代码</h1>
+<p>步骤一、使用Visual Studio模板创建Outlook 外接程序项目</p>
+<p>步骤二、右键项目，选择添加-&gt;新建项目-&gt;Outlook窗体区域。</p>
+<p>步骤三、点击下一步下一步，在标识将显示此窗体区域的邮件类窗体中选择&ldquo;联系人&rdquo;复选框。</p>
+<p>步骤四、添加自定义控件到窗体区域中，该示例添加了四个Lable控件和四个TextBox Control</p>
+<p>步骤五、在窗体区域的后台代码实现后台逻辑。</p>
+<p>&nbsp;</p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">// 对应的联系人(Contact)对象
+        private Outlook.ContactItem contactItem;
+        
+        // 自定义属性对象
+        private Outlook.ItemProperty MotherName = null;
+        private Outlook.ItemProperty MotherTelNumber = null;
+        private Outlook.ItemProperty FatherName = null;
+        private Outlook.ItemProperty FatherTelNumber = null;
+ // 在显示窗体区域之前发生。
+        // 使用 this.OutlookItem 获取对当前 Outlook 项的引用。
+        // 使用 this.OutlookFormRegion 获取对窗体区域的引用。
+        private void ContactFormRegion_FormRegionShowing(object sender, <a class="libraryLink" href="http://msdn.microsoft.com/zh-CN/library/System.EventArgs.aspx"  title="Auto generated link to System.EventArgs">System.EventArgs</a> e)
+        {
+            // 获得FormRegion所对应的Contact对象
+            contactItem = this.OutlookItem as Outlook.ContactItem;
+
+            // 在从自定义属性中取出&#20540;时，首先确保自定义属性不为空。
+            EnsureProperties();
+
+            // 从联系人的自定义属性中取出&#20540;为控件赋&#20540;
+            txbMotherName.Text = MotherName.Value;
+            txbFatherName.Text = FatherName.Value;
+            txbMotherTel.Text = MotherTelNumber.Value;
+            txbFatherTel.Text = FatherTelNumber.Value;
+        }
+
+        // 在关闭窗体区域时发生。
+        // 使用 this.OutlookItem 获取对当前 Outlook 项的引用。
+        // 使用 this.OutlookFormRegion 获取对窗体区域的引用。
+        private void ContactFormRegion_FormRegionClosed(object sender, <a class="libraryLink" href="http://msdn.microsoft.com/zh-CN/library/System.EventArgs.aspx"  title="Auto generated link to System.EventArgs">System.EventArgs</a> e)
+        {
+            // 释放对象
+            <a class="libraryLink" href="http://msdn.microsoft.com/zh-CN/library/System.Runtime.InteropServices.Marshal.FinalReleaseComObject.aspx"  title="Auto generated link to System.Runtime.InteropServices.Marshal.FinalReleaseComObject">System.Runtime.InteropServices.Marshal.FinalReleaseComObject</a>(contactItem);
+            contactItem = null;
+        }
+
+        // 确保所有自定义属性不为空
+        private void EnsureProperties()
+        {
+            EnsureItemProperty(ref MotherName, &quot;montherName&quot;, Outlook.OlUserPropertyType.olText);
+            EnsureItemProperty(ref FatherName, &quot;fatherName&quot;, Outlook.OlUserPropertyType.olText);
+            EnsureItemProperty(ref MotherTelNumber, &quot;motherTelNumber&quot;, Outlook.OlUserPropertyType.olText);
+            EnsureItemProperty(ref FatherTelNumber, &quot;fatherTelNumber&quot;, Outlook.OlUserPropertyType.olText);
+        }
+
+        // 确保项目属性不为空引用
+        private void EnsureItemProperty(ref Outlook.ItemProperty property, string name, Outlook.OlUserPropertyType propertyType)
+        {
+            // 如果自定义属性为空时
+            // 首先从联系人项关联的属性集合中获得属性对象
+            // 如果项目集合中还不存在该属性时，就把该属性名称添加进ItemProperties集合中
+            if (property == null)
+            {
+                property = contactItem.ItemProperties[name];
+                if (property == null)
+                {
+                    property = contactItem.ItemProperties.Add(name, propertyType);
+                }
+            }
+        }
+
+        // 父亲名字修改事件
+        private void txbFatherName_TextChanged(object sender, EventArgs e)
+        {
+            // 保存&#20540;到自定义的属性中
+            FatherName.Value = txbFatherName.Text;
+        }
+
+        // 父亲的电话号码修改事件
+        private void txbFatherTel_TextChanged(object sender, EventArgs e)
+        {
+            // 保存&#20540;到自定义的属性中
+            FatherTelNumber.Value = txbFatherTel.Text;
+        }
+
+        // 母亲名字修改事件
+        private void txbMotherName_TextChanged(object sender, EventArgs e)
+        {
+            // 保存&#20540;到自定义的属性中
+            MotherName.Value = txbMotherName.Text;
+        }
+
+        // 母亲的电话号码修改事件
+        private void txbMotherTel_TextChanged(object sender, EventArgs e)
+        {
+            // 保存&#20540;到自定义的属性中
+            MotherTelNumber.Value = txbMotherTel.Text;
+        }</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__com">//&nbsp;对应的联系人(Contact)对象</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;Outlook.ContactItem&nbsp;contactItem;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;自定义属性对象</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;Outlook.ItemProperty&nbsp;MotherName&nbsp;=&nbsp;<span class="cs__keyword">null</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;Outlook.ItemProperty&nbsp;MotherTelNumber&nbsp;=&nbsp;<span class="cs__keyword">null</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;Outlook.ItemProperty&nbsp;FatherName&nbsp;=&nbsp;<span class="cs__keyword">null</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;Outlook.ItemProperty&nbsp;FatherTelNumber&nbsp;=&nbsp;<span class="cs__keyword">null</span>;&nbsp;
+&nbsp;<span class="cs__com">//&nbsp;在显示窗体区域之前发生。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;使用&nbsp;this.OutlookItem&nbsp;获取对当前&nbsp;Outlook&nbsp;项的引用。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;使用&nbsp;this.OutlookFormRegion&nbsp;获取对窗体区域的引用。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;ContactFormRegion_FormRegionShowing(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;System.EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;获得FormRegion所对应的Contact对象</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contactItem&nbsp;=&nbsp;<span class="cs__keyword">this</span>.OutlookItem&nbsp;<span class="cs__keyword">as</span>&nbsp;Outlook.ContactItem;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;在从自定义属性中取出&#20540;时，首先确保自定义属性不为空。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EnsureProperties();&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;从联系人的自定义属性中取出&#20540;为控件赋&#20540;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txbMotherName.Text&nbsp;=&nbsp;MotherName.Value;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txbFatherName.Text&nbsp;=&nbsp;FatherName.Value;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txbMotherTel.Text&nbsp;=&nbsp;MotherTelNumber.Value;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txbFatherTel.Text&nbsp;=&nbsp;FatherTelNumber.Value;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;在关闭窗体区域时发生。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;使用&nbsp;this.OutlookItem&nbsp;获取对当前&nbsp;Outlook&nbsp;项的引用。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;使用&nbsp;this.OutlookFormRegion&nbsp;获取对窗体区域的引用。</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;ContactFormRegion_FormRegionClosed(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;System.EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;释放对象</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="libraryLink" href="http://msdn.microsoft.com/zh-CN/library/System.Runtime.InteropServices.Marshal.FinalReleaseComObject.aspx"  title="Auto generated link to System.Runtime.InteropServices.Marshal.FinalReleaseComObject">System.Runtime.InteropServices.Marshal.FinalReleaseComObject</a>(contactItem);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contactItem&nbsp;=&nbsp;<span class="cs__keyword">null</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;确保所有自定义属性不为空</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;EnsureProperties()&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EnsureItemProperty(<span class="cs__keyword">ref</span>&nbsp;MotherName,&nbsp;<span class="cs__string">&quot;montherName&quot;</span>,&nbsp;Outlook.OlUserPropertyType.olText);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EnsureItemProperty(<span class="cs__keyword">ref</span>&nbsp;FatherName,&nbsp;<span class="cs__string">&quot;fatherName&quot;</span>,&nbsp;Outlook.OlUserPropertyType.olText);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EnsureItemProperty(<span class="cs__keyword">ref</span>&nbsp;MotherTelNumber,&nbsp;<span class="cs__string">&quot;motherTelNumber&quot;</span>,&nbsp;Outlook.OlUserPropertyType.olText);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EnsureItemProperty(<span class="cs__keyword">ref</span>&nbsp;FatherTelNumber,&nbsp;<span class="cs__string">&quot;fatherTelNumber&quot;</span>,&nbsp;Outlook.OlUserPropertyType.olText);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;确保项目属性不为空引用</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;EnsureItemProperty(<span class="cs__keyword">ref</span>&nbsp;Outlook.ItemProperty&nbsp;property,&nbsp;<span class="cs__keyword">string</span>&nbsp;name,&nbsp;Outlook.OlUserPropertyType&nbsp;propertyType)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;如果自定义属性为空时</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;首先从联系人项关联的属性集合中获得属性对象</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;如果项目集合中还不存在该属性时，就把该属性名称添加进ItemProperties集合中</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>&nbsp;(property&nbsp;==&nbsp;<span class="cs__keyword">null</span>)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;property&nbsp;=&nbsp;contactItem.ItemProperties[name];&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>&nbsp;(property&nbsp;==&nbsp;<span class="cs__keyword">null</span>)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;property&nbsp;=&nbsp;contactItem.ItemProperties.Add(name,&nbsp;propertyType);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;父亲名字修改事件</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;txbFatherName_TextChanged(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;保存&#20540;到自定义的属性中</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FatherName.Value&nbsp;=&nbsp;txbFatherName.Text;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;父亲的电话号码修改事件</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;txbFatherTel_TextChanged(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;保存&#20540;到自定义的属性中</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FatherTelNumber.Value&nbsp;=&nbsp;txbFatherTel.Text;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;母亲名字修改事件</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;txbMotherName_TextChanged(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;保存&#20540;到自定义的属性中</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MotherName.Value&nbsp;=&nbsp;txbMotherName.Text;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;母亲的电话号码修改事件</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;txbMotherTel_TextChanged(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;EventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;保存&#20540;到自定义的属性中</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MotherTelNumber.Value&nbsp;=&nbsp;txbMotherTel.Text;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode"></div>
+<p>&nbsp;</p>
+<h1>更多信息</h1>
+<p>&nbsp;Outlook 窗体区域概述</p>
+<p><a href="http://msdn.microsoft.com/zh-cn/library/aa942843(v=VS.80).aspx" >http://msdn.microsoft.com/zh-cn/library/aa942843(v=VS.80).aspx</a></p>
+<p>Customizing the 2007 Office Fluent User Interface Using Visual Studio 2005 Tools for the Office System SE (Part 2 of 2)</p>
+<p><a href="http://msdn.microsoft.com/en-us/library/bb964682" >http://msdn.microsoft.com/en-us/library/bb964682</a></p>
+<p>Chapter 13: Creating Form Regions</p>
+<p><a href="http://msdn.microsoft.com/en-us/library/cc513845.aspx" >http://msdn.microsoft.com/en-us/library/cc513845.aspx</a></p>
+<p>ItemProperty 对象 （Outlook）</p>
+<p><a href="http://msdn.microsoft.com/zh-cn/library/office/ff863409.aspx" >http://msdn.microsoft.com/zh-cn/library/office/ff863409.aspx</a></p>
+
+</div>
+
+
+    </div>
+</body>
+</html>

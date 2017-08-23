@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\HexEditor\HexEditor.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\HexEditor\HexEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\HexEditor\HexEditor.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\Src\View\HexEditOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\Src\View\HexEditOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.View.HexEditContainer.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.csproj.GenerateResource.Cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.pdb

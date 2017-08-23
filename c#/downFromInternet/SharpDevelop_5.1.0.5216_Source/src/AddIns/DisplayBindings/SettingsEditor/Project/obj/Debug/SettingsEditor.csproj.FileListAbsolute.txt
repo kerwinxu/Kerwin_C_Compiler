@@ -1,0 +1,11 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.pdb

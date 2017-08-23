@@ -1,0 +1,7 @@
+package KerwinWin;
+
+import robocode.Robot;
+
+public class Sample2 extends Robot {
+
+}

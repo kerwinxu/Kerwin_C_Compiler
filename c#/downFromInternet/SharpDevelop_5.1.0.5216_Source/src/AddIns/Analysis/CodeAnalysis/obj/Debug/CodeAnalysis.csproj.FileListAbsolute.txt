@@ -1,0 +1,12 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisProjectOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisProjectOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb

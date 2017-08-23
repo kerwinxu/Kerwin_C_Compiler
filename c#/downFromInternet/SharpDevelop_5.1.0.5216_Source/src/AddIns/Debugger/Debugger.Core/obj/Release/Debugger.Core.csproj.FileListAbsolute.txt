@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Debugger\Debugger.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Debugger\Debugger.Core.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.pdb

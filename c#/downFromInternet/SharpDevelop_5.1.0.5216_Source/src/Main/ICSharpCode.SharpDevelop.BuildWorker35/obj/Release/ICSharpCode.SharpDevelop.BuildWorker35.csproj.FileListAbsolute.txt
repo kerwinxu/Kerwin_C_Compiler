@@ -1,0 +1,4 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe.config
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\Release\ICSharpCode.SharpDevelop.BuildWorker35.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\Release\ICSharpCode.SharpDevelop.BuildWorker35.exe

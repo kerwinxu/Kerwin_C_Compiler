@@ -1,0 +1,1389 @@
+cscope 15 /cygdrive/e/Program/python/TradeSystemTest -q 0000000195 0000007006
+	@E:\Program\python\TradeSystemTest\.ropeproject\config.py
+
+1 #Th ``
+cÚfig
+.
+py
+``
+
+4 
+def
+ 
+	$£t_´efs
+(
+´efs
+):
+
+7 #S³cify 
+which
+ 
+fes
+ 
+ªd
+ 
+fŞd”s
+ 
+to
+ 
+ignÜe
+ 
+š
+ 
+the
+ 
+´ojeù
+.
+
+8 #Chªge 
+to
+ 
+ignÜed
+ 
+»sourûs
+ 
+¬e
+ 
+nÙ
+ 
+added
+Ø
+the
+ 
+hi¡Üy
+ 
+ªd
+
+
+9 #VCSs. 
+Also
+ 
+they
+ 
+¬e
+ 
+nÙ
+ 
+»tuºed
+ 
+š
+ `
+Projeù
+.
+	`g‘_fes
+()`.
+
+10 #NÙ
+th©
+ ``?`` 
+ªd
+ ``*`` 
+m©ch
+ 
+®l
+ 
+ch¬aù”s
+ 
+but
+ 
+¦ashes
+.
+
+11 #'*.
+pyc
+': m©che '
+‹¡
+.pyc'‡nd '
+pkg
+/test.pyc'
+
+12 #'
+mod
+*.
+pyc
+': m©che '
+‹¡
+/
+mod1
+.pyc' but‚ot 'mod/1.pyc'
+
+13 #'.
+svn
+': m©che '
+pkg
+/.svn'‡nd‡ll of its children
+
+14 #'
+bud
+
+
+	@E:\Program\python\TradeSystemTest\TradeSystemBase.py
+
+1 #!/
+u¤
+/
+bš
+/
+’v
+ 
+pythÚ
+
+
+2 #-*- 
+codšg
+: 
+utf
+-8 -*-
+
+3 #AuthÜ: 
+k”wš
+.
+ú
+@
+gma
+.
+com
+
+
+4 #C»©ed 
+Time
+:2017-05-20 09:47:05
+
+5 #La¡ 
+Chªge
+: 2017-06-03 15:31:02
+
+6 #F
+Name
+: 
+T¿deSy¡emBa£
+.
+py
+
+
+8 
+impÜt
+ 
+·ndas
+
+
+11 
+şass
+ 
+	gT¿deSy¡emBa£
+:
+
+17 
+TIMEDATE
+ = 
+u
+"æ—¶é—´"
+
+18 
+OPEN
+ = 
+u
+"å¼€ç›˜"
+
+19 
+HIGH
+ = 
+u
+"æœ€é«˜"
+
+20 
+LOW
+ = 
+u
+"æœ€ä½"
+
+21 
+CLOSE
+ = 
+u
+"æ”¶ç›˜"
+
+22 
+VOLUME
+ = 
+u
+"æ€»æ‰‹"
+
+23 
+AMOUNT
+ = 
+u
+"é‡‘é¢"
+
+25 
+def
+ 
+g‘KSh­eD©a
+(
+£lf
+, 
+¡rFeName
+, 
+’codšg
+='gbk', 
+£p
+='\t'):
+
+27 
+Args
+:
+
+28 
+¡rFeName
+:æ–‡ä»¶å
+
+30 
+df
+ = 
+·ndas
+.
+»ad_csv
+(
+¡rFeName
+, 
+’codšg
+='gbk', 
+£p
+='\t')
+
+31  
+df
+
+
+33 
+def
+ 
+	$£tKSh­eD©a
+(
+£lf
+, 
+_ksh­ed©a
+):
+
+34 
+£lf
+.
+KSh­eD©a
+ = 
+_ksh­ed©a
+
+
+36 
+def
+ 
+	$MA
+(
+£lf
+, 
+n
+, 
+c
+):
+
+39 
+Args
+ :
+
+40 
+n
+ï¼šæ±‚å‡ å¤©çš„å‡çº¿
+
+41 
+c
+ï¼šæ±‚å“ªå¤©çš„å‡çº¿
+
+43 #é¦–å…ˆå½“ç„¶æ˜¯åˆ¤æ–­
+c
++1æ˜¯å¦å¤§äº
+n
+, è¿™é‡Œçº¦å®šç¬¬ä¸€å¤©çš„ä¸‹æ ‡ä¸º0
+
+44 
+c
+ + 1 >ğ
+n
+:
+
+45 #å¦‚æœ
+c
+ + 1å¤§äºç­‰äº
+n
+ï¼Œè¡¨ç¤ºå¯ä»¥æˆªå–nå¤©çš„ï¼Œæ¯”å¦‚è¯´è¦æ±‚5å¤©å‡çº¿ï¼Œåªè¦ä¸‹æ ‡ä¸º4ï¼Œå°±å¯ä»¥æˆªå–5å¤©çš„äº†
+
+46  
+	`sum
+(
+£lf
+.
+KSh­eD©a
+[£lf.
+CLOSE
+][
+c
+-
+n
++1:c+1])/n
+
+47 
+·ss
+
+
+49 #åªè¦è®¡ç®—åˆ°
+c
+ä½ç½®çš„å‡å€¼å°±å¯ä»¥äº†ï¼Œå¤©æ•°ä¸ºï¼ˆc + 1ï¼‰ å¤©
+
+50  
+	`sum
+(
+£lf
+.
+KSh­eD©a
+[£lf.
+CLOSE
+][:
+c
++1])/(c+1)
+
+51 
+·ss
+
+
+53 
+def
+ 
+	$EMA_INIT
+(
+£lf
+, 
+a
+):
+
+55 æŒ‡æ•°å¹³å‡çº¿ï¼Œ
+EMAtoday
+=
+a
+ * 
+Priûtoday
+ + ( 1 â€“‡ ) * 
+EMAye¡”day
+;
+
+57 
+Args
+ï¼š
+
+58 
+a
+ï¼šå¹³æ»‘ç³»æ•°
+
+60 
+ema_»suÉ
+ = []
+
+61 
+i
+ 
+š
+ 
+	`¿nge
+(
+	$Ën
+(
+£lf
+.
+KSh­eD©a
+)):
+
+62 
+i
+ == 0:
+
+64 
+ema_»suÉ
+.
+	$­³nd
+(
+£lf
+.
+KSh­eD©a
+[£lf.
+CLOSE
+][0])
+
+67 
+ema_»suÉ
+.
+	`­³nd
+(
+a
+ * 
+£lf
+.
+KSh­eD©a
+[£lf.
+CLOSE
+][
+i
+] + (1 -‡) *ƒma_result[i - 1])
+
+68  
+ema_»suÉ
+
+
+70 
+__Çme__
+ == '__main__':
+
+71 
+c
+ = 
+	$T¿deSy¡emBa£
+()
+
+72 
+c
+.
+	`£tKSh­eD©a
+(c.
+	`g‘KSh­eD©a
+("Table.xls"))
+
+73 
+i
+ 
+š
+ 
+	`¿nge
+(
+	$Ën
+(
+c
+.
+KSh­eD©a
+)):
+
+74 
+	`´št
+(
+c
+.
+	$MA
+(5, 
+i
+))
+
+75 
+·ss
+
+
+76 #æ±‚
+ema
+ï¼Œ
+
+77 
+	`´št
+(
+c
+.
+	`EMA_INIT
+(2 / (2+1)))
+
+	@E:\Program\python\TradeSystemTest\learn_Tensorflow_1.py
+
+1 #!/
+u¤
+/
+bš
+/
+’v
+ 
+pythÚ
+
+
+2 #-*- 
+codšg
+: 
+utf
+-8 -*-
+
+3 #AuthÜ: 
+k”wš
+.
+ú
+@
+gma
+.
+com
+
+
+4 #C»©ed 
+Time
+:2017-05-31 20:48:34
+
+5 #La¡ 
+Chªge
+: 2017-06-01 09:23:44
+
+6 #F
+Name
+: 
+Ë¬n_T’sÜæow_1
+.
+py
+
+
+8 
+impÜt
+ 
+·ndas
+ 
+as
+ 
+pd
+
+
+9 
+impÜt
+ 
+numpy
+ 
+as
+ 
+Å
+
+
+10 
+impÜt
+ 
+	gm©¶Ùlib
+.
+py¶Ù
+ 
+as
+ 
+¶t
+
+
+11 
+impÜt
+ 
+‹nsÜæow
+ 
+as
+ 
+	gtf
+
+
+15 
+	gdf
+=
+pd
+.
+»ad_csv
+("TabË.xls", 
+’codšg
+='gbk', 
+£p
+='\t') #è¯»å…¥è‚¡ç¥¨æ•°æ®
+
+16 
+d©a
+=
+Å
+.
+¬¿y
+(
+df
+['æœ€é«˜']) #è·å–æœ€é«˜ä»·åºåˆ—
+
+17 
+d©a
+=data[::-1] #åè½¬ï¼Œä½¿æ•°æ®æŒ‰ç…§æ—¥æœŸå…ˆåé¡ºåºæ’åˆ—
+
+18 #ä»¥æŠ˜çº¿å›¾å±•ç¤º
+d©a
+
+
+19 
+¶t
+.
+	$figu»
+()
+
+20 
+¶t
+.
+	$¶Ù
+(
+d©a
+)
+
+21 
+¶t
+.
+	$show
+()
+
+22 
+nÜm®ize_d©a
+=(
+d©a
+-
+Å
+.
+	`m—n
+(d©a))/Å.
+	$¡d
+(
+d©a
+) #æ ‡å‡†åŒ–
+
+23 
+nÜm®ize_d©a
+òÜm®ize_d©a[:,
+Å
+.
+Ãwaxis
+] #å¢åŠ ç»´åº¦
+
+28 
+time_¡•
+=20 #æ—¶é—´æ­¥
+
+29 
+ºn_un™
+=10 #hidd’ 
+Ïy”
+ 
+un™s
+
+
+30 
+b©ch_size
+=60 #æ¯ä¸€æ‰¹æ¬¡è®­ç»ƒå¤šå°‘ä¸ªæ ·ä¾‹
+
+31 
+šput_size
+=1 #è¾“å…¥å±‚ç»´åº¦
+
+32 
+ouut_size
+=1 #è¾“å‡ºå±‚ç»´åº¦
+
+33 
+Ì
+=0.0006 #å­¦ä¹ ç‡
+
+34 
+Œaš_x
+,
+Œaš_y
+=[],[] #è®­ç»ƒé›†
+
+35 
+i
+ 
+š
+ 
+	`¿nge
+(
+	`Ën
+(
+nÜm®ize_d©a
+)-
+time_¡•
+-1):
+
+36 
+x
+=
+nÜm®ize_d©a
+[
+i
+:i+
+time_¡•
+]
+
+37 
+y
+=
+nÜm®ize_d©a
+[
+i
++1:i+
+time_¡•
++1]
+
+38 
+Œaš_x
+.
+	`­³nd
+(
+x
+.
+	$tŞi¡
+())
+
+39 
+Œaš_y
+.
+	`­³nd
+(
+y
+.
+	$tŞi¡
+())
+
+44 
+X
+=
+tf
+.
+	$¶aûhŞd”
+(
+tf
+.
+æßt32
+, [
+NÚe
+,
+time_¡•
+,
+šput_size
+]è#æ¯æ‰¹æ¬¡è¾“å…¥ç½‘ç»œçš„
+‹nsÜ
+
+
+45 
+Y
+=
+tf
+.
+	$¶aûhŞd”
+(
+tf
+.
+æßt32
+, [
+NÚe
+,
+time_¡•
+,
+ouut_size
+]è#æ¯æ‰¹æ¬¡
+‹nsÜ
+å¯¹åº”çš„æ ‡ç­¾
+
+47 
+weights
+={
+
+48 'š':
+tf
+.
+	`V¬ŸbË
+Ñf.
+	`¿ndom_nÜm®
+([
+šput_size
+,
+ºn_un™
+])),
+
+49 'out':
+tf
+.
+	`V¬ŸbË
+Ñf.
+	`¿ndom_nÜm®
+([
+ºn_un™
+,1]))
+
+50 
+	}
+}
+
+51 
+bŸ£s
+={
+
+52 'š':
+tf
+.
+V¬ŸbË
+Ñf.
+cÚ¡ªt
+(0.1,
+sh­e
+=[
+ºn_un™
+,])),
+
+53 'out':
+tf
+.
+V¬ŸbË
+Ñf.
+cÚ¡ªt
+(0.1,
+sh­e
+=[1,]))
+
+59 
+def
+ 
+	$l¡m
+(
+b©ch
+): #å‚æ•°ï¼šè¾“å…¥ç½‘ç»œæ‰¹æ¬¡æ•°ç›®
+
+60 
+w_š
+=
+weights
+['in']
+
+61 
+b_š
+=
+bŸ£s
+['in']
+
+62 
+šput
+=
+tf
+.
+	`»sh­e
+(
+X
+,[-1,
+šput_size
+]è#éœ€è¦å°†
+‹nsÜ
+è½¬æˆ2ç»´è¿›è¡Œè®¡ç®—ï¼Œè®¡ç®—åçš„ç»“æœä½œä¸ºéšè—å±‚çš„è¾“å…¥
+
+63 
+šput_ºn
+=
+tf
+.
+	`m©mul
+(
+šput
+,
+w_š
+)+
+b_š
+
+
+64 
+šput_ºn
+=
+tf
+.
+	`»sh­e
+(šput_ºn,[-1,
+time_¡•
+,
+ºn_un™
+]è#å°†
+‹nsÜ
+è½¬æˆ3ç»´ï¼Œä½œä¸º
+l¡m
+ 
+ûÎ
+çš„è¾“å…¥
+
+65 
+ûÎ
+=
+tf
+.
+cÚŒib
+.
+ºn
+.
+	$BasicLSTMC–l
+(
+ºn_un™
+)
+
+66 
+š™_¡©e
+=
+ûÎ
+.
+	$z”o_¡©e
+(
+b©ch
+,
+dty³
+=
+tf
+.
+æßt32
+)
+
+67 
+ouut_ºn
+,
+fš®_¡©es
+=
+tf
+.
+Â
+.
+	$dyÇmic_ºn
+(
+ûÎ
+, 
+šput_ºn
+,
+š™Ÿl_¡©e
+=
+š™_¡©e
+, 
+dty³
+=
+tf
+.
+æßt32
+è#ouut_ºnæ˜¯è®°å½•
+l¡m
+æ¯ä¸ªè¾“å‡ºèŠ‚ç‚¹çš„ç»“æœï¼Œ
+fš®_¡©es
+æ˜¯æœ€åä¸€ä¸ªcellçš„ç»“æœ
+
+68 
+ouut
+=
+tf
+.
+	`»sh­e
+(
+ouut_ºn
+,[-1,
+ºn_un™
+]) #ä½œä¸ºè¾“å‡ºå±‚çš„è¾“å…¥
+
+69 
+w_out
+=
+weights
+['out']
+
+70 
+b_out
+=
+bŸ£s
+['out']
+
+71 
+´ed
+=
+tf
+.
+	`m©mul
+(
+ouut
+,
+w_out
+)+
+b_out
+
+
+72  
+´ed
+,
+fš®_¡©es
+
+
+77 
+def
+ 
+	$Œaš_l¡m
+():
+
+78 
+glob®
+ 
+b©ch_size
+
+
+79 
+´ed
+,
+_
+=
+	$l¡m
+(
+b©ch_size
+)
+
+81 
+loss
+=
+tf
+.
+	`»duû_m—n
+Ñf.
+	`squ¬e
+Ñf.
+	`»sh­e
+(
+´ed
+,[-1])-tf.»sh­e(
+Y
+, [-1])))
+
+82 
+Œaš_İ
+=
+tf
+.
+Œaš
+.
+	`AdamO±imiz”
+(
+Ì
+).
+	$mšimize
+(
+loss
+)
+
+83 
+§v”
+=
+tf
+.
+Œaš
+.
+	`Sav”
+Ñf.
+	$glob®_v¬ŸbËs
+())
+
+84 
+w™h
+ 
+tf
+.
+	$SessiÚ
+(è
+as
+ 
+£ss
+:
+
+85 
+£ss
+.
+	`run
+(
+tf
+.
+	$glob®_v¬ŸbËs_š™Ÿliz”
+())
+
+87 
+i
+ 
+š
+ 
+	$¿nge
+(10000):
+
+88 
+¡•
+=0
+
+89 
+¡¬t
+=0
+
+90 
+’d
+=
+¡¬t
++
+b©ch_size
+
+
+91 
+’d
+<
+	$Ën
+(
+Œaš_x
+)):
+
+92 
+_
+,
+loss_
+=
+£ss
+.
+	`run
+([
+Œaš_İ
+,
+loss
+],
+ãed_diù
+={
+X
+:
+Œaš_x
+[
+¡¬t
+:
+’d
+],
+Y
+:
+Œaš_y
+[¡¬t:’d]
+	}
+})
+
+93 
+¡¬t
++=
+b©ch_size
+
+
+94 
+’d
+=
+¡¬t
++
+b©ch_size
+
+
+96 
+¡•
+%10==0:
+
+97 
+	$´št
+(
+i
+,
+¡•
+,
+loss_
+)
+
+98 
+	`´št
+("ä¿å­˜æ¨¡å‹ï¼š",
+§v”
+.
+	`§ve
+(
+£ss
+,'model/stock.model'))
+
+99 
+¡•
++=1
+
+102 
+	$Œaš_l¡m
+()
+
+106 
+def
+ 
+	$´ediùiÚ
+():
+
+107 
+´ed
+,
+_
+=
+	$l¡m
+(1è#é¢„æµ‹æ—¶åªè¾“å…¥[1,
+time_¡•
+,
+šput_size
+]çš„æµ‹è¯•æ•°æ®
+
+108 
+§v”
+=
+tf
+.
+Œaš
+.
+	`Sav”
+Ñf.
+	$glob®_v¬ŸbËs
+())
+
+109 
+w™h
+ 
+tf
+.
+	$SessiÚ
+(è
+as
+ 
+£ss
+:
+
+111 
+moduË_fe
+ = 
+tf
+.
+Œaš
+.
+	`Ï‹¡_checkpošt
+(
+ba£_·th
++'module2/')
+
+112 
+§v”
+.
+	$»¡Üe
+(
+£ss
+, 
+moduË_fe
+)
+
+114 #å–è®­ç»ƒé›†æœ€åä¸€è¡Œä¸ºæµ‹è¯•æ ·æœ¬ã€‚
+sh­e
+=[1,
+time_¡•
+,
+šput_size
+]
+
+115 
+´ev_£q
+=
+Œaš_x
+[-1]
+
+116 
+´ediù
+=[]
+
+118 
+i
+ 
+š
+ 
+	$¿nge
+(100):
+
+119 
+Ãxt_£q
+=
+£ss
+.
+	`run
+(
+´ed
+,
+ãed_diù
+={
+X
+:[
+´ev_£q
+]
+	}
+})
+
+120 
+´ediù
+.
+­³nd
+(
+Ãxt_£q
+[-1])
+
+122 
+´ev_£q
+=
+Å
+.
+v¡ack
+(Õ»v_£q[1:],
+Ãxt_£q
+[-1]))
+
+124 
+	g¶t
+.
+	$figu»
+()
+
+125 
+¶t
+.
+	`¶Ù
+(
+	`li¡
+(
+	`¿nge
+(
+	`Ën
+(
+nÜm®ize_d©a
+))),‚Üm®ize_d©a, 
+cŞÜ
+='b')
+
+126 
+¶t
+.
+	`¶Ù
+(
+	`li¡
+(
+	`¿nge
+(
+	`Ën
+(
+nÜm®ize_d©a
+),†’ÒÜm®ize_d©aè+†’(
+´ediù
+))),…»diù, 
+cŞÜ
+='r')
+
+127 
+¶t
+.
+	$show
+()
+
+129 
+	`´ediùiÚ
+()
+
+	@
+1
+.
+1
+/usr/include
+3
+166
+E:\Program\python\TradeSystemTest\.ropeproject\config.py
+E:\Program\python\TradeSystemTest\TradeSystemBase.py
+E:\Program\python\TradeSystemTest\learn_Tensorflow_1.py

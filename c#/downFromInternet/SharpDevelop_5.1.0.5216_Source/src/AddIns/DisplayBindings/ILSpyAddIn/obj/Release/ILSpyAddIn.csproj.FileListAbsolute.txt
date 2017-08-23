@@ -1,0 +1,6 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ICSharpCode.ILSpyAddIn.SetILSpyPathDialog.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csproj.GenerateResource.Cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.dll

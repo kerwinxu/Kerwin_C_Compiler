@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTOOutlook", "VSTOOutlook\VSTOOutlook.csproj", "{6C482F57-88F9-44CE-B99D-95E6A34781A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutlookSetUp", "OutlookSetUp\OutlookSetUp.vdproj", "{67F481E1-C2CB-43A9-9416-13DBD51D98AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6C482F57-88F9-44CE-B99D-95E6A34781A0}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{67F481E1-C2CB-43A9-9416-13DBD51D98AE}.CD_ROM|Any CPU.ActiveCfg = Release
+		{67F481E1-C2CB-43A9-9416-13DBD51D98AE}.Debug|Any CPU.ActiveCfg = Debug
+		{67F481E1-C2CB-43A9-9416-13DBD51D98AE}.DVD-5|Any CPU.ActiveCfg = Debug
+		{67F481E1-C2CB-43A9-9416-13DBD51D98AE}.Release|Any CPU.ActiveCfg = Release
+		{67F481E1-C2CB-43A9-9416-13DBD51D98AE}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

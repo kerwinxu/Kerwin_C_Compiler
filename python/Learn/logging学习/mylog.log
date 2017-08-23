@@ -1,0 +1,4 @@
+Tue, 10 May 2016 15:52:03 learnlogging.py[line:14] DEBUG debug message
+Tue, 10 May 2016 15:52:03 connectionpool.py[line:387] DEBUG "POST /event_notification HTTP/1.1" 200 2
+Tue, 10 May 2016 15:52:30 connectionpool.py[line:387] DEBUG "POST /event_notification HTTP/1.1" 200 2
+Tue, 10 May 2016 15:52:30 connectionpool.py[line:387] DEBUG "POST /event_notification HTTP/1.1" 200 2

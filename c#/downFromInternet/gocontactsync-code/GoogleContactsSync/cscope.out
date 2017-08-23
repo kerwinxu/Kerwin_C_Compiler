@@ -1,0 +1,22852 @@
+cscope 15 /cygdrive/e/Program/c#/downFromInternet/gocontactsync-code/GoogleContactsSync -q 0000000983 0000119714
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\AboutForm.Designer.cs
+
+1 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+3 
+·¹Ÿl
+ cÏs 
+	cAboutFÜm
+
+
+8 
+´iv©e
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+ICÚš”
+ 
+	gcompÚ’ts
+ = 
+nuÎ
+;
+
+14 
+´Ùeùed
+ 
+ov”ride
+ 
+Di¥o£
+(
+boŞ
+ 
+di¥osšg
+)
+
+16 ià(
+	gdi¥osšg
+ && (
+	gcompÚ’ts
+ !ğ
+nuÎ
+))
+
+18 
+compÚ’ts
+.
+Di¥o£
+();
+
+20 
+	gba£
+.
+Di¥o£
+(
+di¥osšg
+);
+
+23 #»giÚ 
+Wšdows
+ 
+FÜm
+ 
+DesigÃr
+ 
+g’”©ed
+ 
+code
+
+
+29 
+´iv©e
+ 
+In™ŸlizeCompÚ’t
+()
+
+31 
+	gthis
+.
+	gbClo£
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+32 
+	gthis
+.
+	gimageBox
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Piùu»Box
+();
+
+33 
+	gthis
+.
+	gt™Ë
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+34 
+	gthis
+.
+	g‹xtBox
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+TextBox
+();
+
+35 
+	gthis
+.
+	gu¾
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+LškLab–
+();
+
+36 
+	gthis
+.
+	gcİyrightLab–
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+37 ((
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+	gISuµÜtIn™Ÿlize
+)(
+	gthis
+.
+	gimageBox
+)).
+BegšIn™
+();
+
+38 
+	gthis
+.
+Su¥’dLayout
+();
+
+42 
+	gthis
+.
+	gbClo£
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Right
+)));
+
+43 
+	gthis
+.
+	gbClo£
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(142, 241);
+
+44 
+	gthis
+.
+	gbClo£
+.
+	gName
+ = "bClose";
+
+45 
+	gthis
+.
+	gbClo£
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(75, 23);
+
+46 
+	gthis
+.
+	gbClo£
+.
+	gTabIndex
+ = 0;
+
+47 
+	gthis
+.
+	gbClo£
+.
+	gText
+ = "Close";
+
+48 
+	gthis
+.
+	gbClo£
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+49 
+	gthis
+.
+	gbClo£
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+bClo£_Click
+);
+
+53 
+	gthis
+.
+	gimageBox
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(147, 12);
+
+54 
+	gthis
+.
+	gimageBox
+.
+	gName
+ = "imageBox";
+
+55 
+	gthis
+.
+	gimageBox
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(64, 64);
+
+56 
+	gthis
+.
+	gimageBox
+.
+	gTabIndex
+ = 1;
+
+57 
+	gthis
+.
+	gimageBox
+.
+	gTabStİ
+ = 
+çl£
+;
+
+61 
+	gthis
+.
+	gt™Ë
+.
+	gFÚt
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+FÚt
+("Miüosoá Sª S”if", 18F, Sy¡em.D¿wšg.
+FÚtStyË
+.
+BŞd
+, Sy¡em.D¿wšg.
+G¿phicsUn™
+.
+Pošt
+, ((
+by‹
+)(0)));
+
+62 
+	gthis
+.
+	gt™Ë
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 81);
+
+63 
+	gthis
+.
+	gt™Ë
+.
+	gName
+ = "title";
+
+64 
+	gthis
+.
+	gt™Ë
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(335, 29);
+
+65 
+	gthis
+.
+	gt™Ë
+.
+	gTabIndex
+ = 2;
+
+66 
+	gthis
+.
+	gt™Ë
+.
+	gText
+ = "Title";
+
+67 
+	gthis
+.
+	gt™Ë
+.
+	gTextAlign
+ = 
+Sy¡em
+.
+D¿wšg
+.
+CÚ‹ÁAlignm’t
+.
+MiddËC’‹r
+;
+
+71 
+	gthis
+.
+	g‹xtBox
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)((((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Tİ
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+)
+
+72 | 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+.
+Leá
+)
+
+73 | 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+.
+Right
+)));
+
+74 
+	gthis
+.
+	g‹xtBox
+.
+	gBackCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+Sy¡emCŞÜs
+.
+CÚŒŞ
+;
+
+75 
+	gthis
+.
+	g‹xtBox
+.
+	gBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+BÜd”StyË
+.
+NÚe
+;
+
+76 
+	gthis
+.
+	g‹xtBox
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(24, 143);
+
+77 
+	gthis
+.
+	g‹xtBox
+.
+	gMuÉše
+ = 
+Œue
+;
+
+78 
+	gthis
+.
+	g‹xtBox
+.
+	gName
+ = "textBox";
+
+79 
+	gthis
+.
+	g‹xtBox
+.
+	gR—dOÆy
+ = 
+Œue
+;
+
+80 
+	gthis
+.
+	g‹xtBox
+.
+	gSüŞlB¬s
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+SüŞlB¬s
+.
+HÜizÚl
+;
+
+81 
+	gthis
+.
+	g‹xtBox
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(311, 52);
+
+82 
+	gthis
+.
+	g‹xtBox
+.
+	gTabIndex
+ = 3;
+
+83 
+	gthis
+.
+	g‹xtBox
+.
+	gTextAlign
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+HÜizÚlAlignm’t
+.
+C’‹r
+;
+
+87 
+	gthis
+.
+	gu¾
+.
+	gLškCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+CŞÜ
+.
+Blue
+;
+
+88 
+	gthis
+.
+	gu¾
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 110);
+
+89 
+	gthis
+.
+	gu¾
+.
+	gName
+ = "url";
+
+90 
+	gthis
+.
+	gu¾
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(335, 13);
+
+91 
+	gthis
+.
+	gu¾
+.
+	gTabIndex
+ = 4;
+
+92 
+	gthis
+.
+	gu¾
+.
+	gTabStİ
+ = 
+Œue
+;
+
+93 
+	gthis
+.
+	gu¾
+.
+	gText
+ = "Webpage";
+
+94 
+	gthis
+.
+	gu¾
+.
+	gTextAlign
+ = 
+Sy¡em
+.
+D¿wšg
+.
+CÚ‹ÁAlignm’t
+.
+MiddËC’‹r
+;
+
+95 
+	gthis
+.
+	gu¾
+.
+	gVis™edLškCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+CŞÜ
+.
+Blue
+;
+
+96 
+	gthis
+.
+	gu¾
+.
+	gLškClicked
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+LškLab–LškClickedEv’tHªdËr
+(
+this
+.
+u¾_LškClicked
+);
+
+100 
+	gthis
+.
+	gcİyrightLab–
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)(((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Leá
+)
+
+101 | 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+.
+Right
+)));
+
+102 
+	gthis
+.
+	gcİyrightLab–
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(47, 203);
+
+103 
+	gthis
+.
+	gcİyrightLab–
+.
+	gName
+ = "copyrightLabel";
+
+104 
+	gthis
+.
+	gcİyrightLab–
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(265, 28);
+
+105 
+	gthis
+.
+	gcİyrightLab–
+.
+	gTabIndex
+ = 5;
+
+106 
+	gthis
+.
+	gcİyrightLab–
+.
+	gText
+ = "Copyright";
+
+107 
+	gthis
+.
+	gcİyrightLab–
+.
+	gTextAlign
+ = 
+Sy¡em
+.
+D¿wšg
+.
+CÚ‹ÁAlignm’t
+.
+MiddËC’‹r
+;
+
+111 
+	gthis
+.
+	gAutoSÿËDim’siÚs
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+SizeF
+(6F, 13F);
+
+112 
+	gthis
+.
+	gAutoSÿËMode
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AutoSÿËMode
+.
+FÚt
+;
+
+113 
+	gthis
+.
+	gBackCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+Sy¡emCŞÜs
+.
+CÚŒŞ
+;
+
+114 
+	gthis
+.
+	gCl›ÁSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(359, 272);
+
+115 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+cİyrightLab–
+);
+
+116 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+u¾
+);
+
+117 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+‹xtBox
+);
+
+118 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+t™Ë
+);
+
+119 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+imageBox
+);
+
+120 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+bClo£
+);
+
+121 
+	gthis
+.
+	gFÜmBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmBÜd”StyË
+.
+FixedToŞWšdow
+;
+
+122 
+	gthis
+.
+	gName
+ = "AboutForm";
+
+123 
+	gthis
+.
+	gS¹Pos™iÚ
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmS¹Pos™iÚ
+.
+C’‹rSü“n
+;
+
+124 
+	gthis
+.
+	gText
+ = "About";
+
+125 ((
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+	gISuµÜtIn™Ÿlize
+)(
+	gthis
+.
+	gimageBox
+)).
+EndIn™
+();
+
+126 
+	gthis
+.
+ResumeLayout
+(
+çl£
+);
+
+127 
+	gthis
+.
+P”fÜmLayout
+();
+
+133 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	gbClo£
+;
+
+134 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Piùu»Box
+ 
+	gimageBox
+;
+
+135 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gt™Ë
+;
+
+136 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+TextBox
+ 
+	g‹xtBox
+;
+
+137 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+LškLab–
+ 
+	gu¾
+;
+
+138 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gcİyrightLab–
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\AboutForm.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD©a
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+9 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+11 
+public
+ 
+·¹Ÿl
+ cÏs 
+	cAboutFÜm
+ : 
+FÜm
+
+
+13 
+´iv©e
+ 
+¡ršg
+ 
+u¾P©h
+;
+
+15 
+public
+ 
+AboutFÜm
+(
+¡ršg
+ 
+_t™Ë
+, sŒšg 
+_u¾
+,¡ršg 
+_‹xt
+, sŒšg 
+_cİyright
+, 
+Image
+ 
+_image
+)
+
+17 
+In™ŸlizeCompÚ’t
+();
+
+19 
+	gText
+ +ğ" " + 
+_t™Ë
+;
+
+20 
+	gt™Ë
+.
+	gText
+ = 
+_t™Ë
+;
+
+21 
+	g‹xtBox
+.
+	gText
+ = 
+_‹xt
+;
+
+22 
+	gimageBox
+.
+	gImage
+ = 
+_image
+;
+
+23 
+	gu¾
+.
+	gText
+ = 
+_u¾
+;
+
+24 
+	gu¾P©h
+ = 
+_u¾
+;
+
+25 
+	gcİyrightLab–
+.
+	gText
+ = 
+_cİyright
+;
+
+28 
+´iv©e
+ 
+bClo£_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+30 
+Clo£
+();
+
+33 
+´iv©e
+ 
+u¾_LškClicked
+(
+objeù
+ 
+£nd”
+, 
+LškLab–LškClickedEv’tArgs
+ 
+e
+)
+
+35 
+	gSy¡em
+.
+	gDŸgno¡ics
+.
+	gProûss
+.
+S¹
+(
+u¾P©h
+);
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolver.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+5 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+7 şas 
+	cCÚæiùResŞv”
+ : 
+ICÚæiùResŞv”
+
+
+9 
+´iv©e
+ 
+CÚæiùResŞv”FÜm
+ 
+_fÜm
+;
+
+11 
+public
+ 
+CÚæiùResŞv”
+()
+
+13 
+	g_fÜm
+ = 
+Ãw
+ 
+CÚæiùResŞv”FÜm
+();
+
+15 
+public
+ 
+CÚæiùResŞv”
+(
+CÚæiùResŞv”FÜm
+ 
+fÜm
+)
+
+17 
+	g_fÜm
+ = 
+fÜm
+;
+
+22 #»giÚ 
+ICÚæiùResŞv”
+ 
+Memb”s
+
+
+24 
+public
+ 
+CÚæiùResŞutiÚ
+ 
+ResŞve
+(
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+GoogË
+.
+GD©a
+.
+CÚùs
+.
+CÚùEÁry
+ 
+googËCÚù
+)
+
+26 
+	g_fÜm
+.
+	gmes§geLab–
+.
+	gText
+ =
+
+27 "BÙhhouook cÚù‡ndhgoogË cÚù \"" + 
+googËCÚù
+.
+T™Ë
+.
+Text
+ +
+
+30 
+	g_fÜm
+.
+ShowDŸlog
+())
+
+32 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+	gDŸlogResuÉ
+.
+	gCªûl
+:
+
+34  
+CÚæiùResŞutiÚ
+.
+Cªûl
+;
+
+35 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+	gDŸlogResuÉ
+.
+	gNo
+:
+
+37  
+CÚæiùResŞutiÚ
+.
+GoogËWšs
+;
+
+38 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+	gDŸlogResuÉ
+.
+	gYes
+:
+
+40  
+CÚæiùResŞutiÚ
+.
+OuookWšs
+;
+
+42 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+();
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolverForm.Designer.cs
+
+1 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+3 
+·¹Ÿl
+ cÏs 
+	cCÚæiùResŞv”FÜm
+
+
+8 
+´iv©e
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+ICÚš”
+ 
+	gcompÚ’ts
+ = 
+nuÎ
+;
+
+14 
+´Ùeùed
+ 
+ov”ride
+ 
+Di¥o£
+(
+boŞ
+ 
+di¥osšg
+)
+
+16 ià(
+	gdi¥osšg
+ && (
+	gcompÚ’ts
+ !ğ
+nuÎ
+))
+
+18 
+compÚ’ts
+.
+Di¥o£
+();
+
+20 
+	gba£
+.
+Di¥o£
+(
+di¥osšg
+);
+
+23 #»giÚ 
+Wšdows
+ 
+FÜm
+ 
+DesigÃr
+ 
+g’”©ed
+ 
+code
+
+
+29 
+´iv©e
+ 
+In™ŸlizeCompÚ’t
+()
+
+31 
+	gthis
+.
+	gmes§geLab–
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+32 
+	gthis
+.
+	gk“pOuook
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+33 
+	gthis
+.
+	gk“pGoogË
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+34 
+	gthis
+.
+	gÿnûl
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+35 
+	gthis
+.
+Su¥’dLayout
+();
+
+39 
+	gthis
+.
+	gmes§geLab–
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 9);
+
+40 
+	gthis
+.
+	gmes§geLab–
+.
+	gName
+ = "messageLabel";
+
+41 
+	gthis
+.
+	gmes§geLab–
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(331, 62);
+
+42 
+	gthis
+.
+	gmes§geLab–
+.
+	gTabIndex
+ = 0;
+
+43 
+	gthis
+.
+	gmes§geLab–
+.
+	gText
+ = "message";
+
+47 
+	gthis
+.
+	gk“pOuook
+.
+	gDŸlogResuÉ
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+DŸlogResuÉ
+.
+Yes
+;
+
+48 
+	gthis
+.
+	gk“pOuook
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 74);
+
+49 
+	gthis
+.
+	gk“pOuook
+.
+	gName
+ = "keepOutlook";
+
+50 
+	gthis
+.
+	gk“pOuook
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(120, 23);
+
+51 
+	gthis
+.
+	gk“pOuook
+.
+	gTabIndex
+ = 1;
+
+52 
+	gthis
+.
+	gk“pOuook
+.
+	gText
+ = "Keep Outlook Entry";
+
+53 
+	gthis
+.
+	gk“pOuook
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+57 
+	gthis
+.
+	gk“pGoogË
+.
+	gDŸlogResuÉ
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+DŸlogResuÉ
+.
+No
+;
+
+58 
+	gthis
+.
+	gk“pGoogË
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(138, 74);
+
+59 
+	gthis
+.
+	gk“pGoogË
+.
+	gName
+ = "keepGoogle";
+
+60 
+	gthis
+.
+	gk“pGoogË
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(125, 23);
+
+61 
+	gthis
+.
+	gk“pGoogË
+.
+	gTabIndex
+ = 2;
+
+62 
+	gthis
+.
+	gk“pGoogË
+.
+	gText
+ = "Keep Google Entry";
+
+63 
+	gthis
+.
+	gk“pGoogË
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+67 
+	gthis
+.
+	gÿnûl
+.
+	gDŸlogResuÉ
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+DŸlogResuÉ
+.
+Cªûl
+;
+
+68 
+	gthis
+.
+	gÿnûl
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(269, 74);
+
+69 
+	gthis
+.
+	gÿnûl
+.
+	gName
+ = "cancel";
+
+70 
+	gthis
+.
+	gÿnûl
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(75, 23);
+
+71 
+	gthis
+.
+	gÿnûl
+.
+	gTabIndex
+ = 3;
+
+72 
+	gthis
+.
+	gÿnûl
+.
+	gText
+ = "Cancel";
+
+73 
+	gthis
+.
+	gÿnûl
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+77 
+	gthis
+.
+	gAutoSÿËDim’siÚs
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+SizeF
+(6F, 13F);
+
+78 
+	gthis
+.
+	gAutoSÿËMode
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AutoSÿËMode
+.
+FÚt
+;
+
+79 
+	gthis
+.
+	gCl›ÁSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(355, 109);
+
+80 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+ÿnûl
+);
+
+81 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+k“pGoogË
+);
+
+82 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+k“pOuook
+);
+
+83 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+mes§geLab–
+);
+
+84 
+	gthis
+.
+	gFÜmBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmBÜd”StyË
+.
+FixedDŸlog
+;
+
+85 
+	gthis
+.
+	gMaximizeBox
+ = 
+çl£
+;
+
+86 
+	gthis
+.
+	gMšimizeBox
+ = 
+çl£
+;
+
+87 
+	gthis
+.
+	gName
+ = "ConflictResolverForm";
+
+88 
+	gthis
+.
+	gText
+ = "ConfictResolver";
+
+89 
+	gthis
+.
+ResumeLayout
+(
+çl£
+);
+
+95 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	gk“pOuook
+;
+
+96 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	gk“pGoogË
+;
+
+97 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	gÿnûl
+;
+
+98 
+public
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gmes§geLab–
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolverForm.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD©a
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+8 
+usšg
+ 
+	gSy¡em
+.
+	gTh»adšg
+;
+
+10 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+12 
+š‹º®
+ 
+·¹Ÿl
+ cÏs 
+	cCÚæiùResŞv”FÜm
+ : 
+FÜm
+
+
+14 
+public
+ 
+CÚæiùResŞv”FÜm
+()
+
+16 
+In™ŸlizeCompÚ’t
+();
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPreview.Designer.cs
+
+1 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+3 
+·¹Ÿl
+ cÏs 
+	cCÚùP»v›w
+
+
+8 
+´iv©e
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+ICÚš”
+ 
+	gcompÚ’ts
+ = 
+nuÎ
+;
+
+14 
+´Ùeùed
+ 
+ov”ride
+ 
+Di¥o£
+(
+boŞ
+ 
+di¥osšg
+)
+
+16 ià(
+	gdi¥osšg
+ && (
+	gcompÚ’ts
+ !ğ
+nuÎ
+))
+
+18 
+compÚ’ts
+.
+Di¥o£
+();
+
+20 
+	gba£
+.
+Di¥o£
+(
+di¥osšg
+);
+
+23 #»giÚ 
+CompÚ’t
+ 
+DesigÃr
+ 
+g’”©ed
+ 
+code
+
+
+29 
+´iv©e
+ 
+In™ŸlizeCompÚ’t
+()
+
+31 
+	gthis
+.
+Su¥’dLayout
+();
+
+35 
+	gthis
+.
+	gAutoSÿËDim’siÚs
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+SizeF
+(6F, 13F);
+
+36 
+	gthis
+.
+	gAutoSÿËMode
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AutoSÿËMode
+.
+FÚt
+;
+
+37 
+	gthis
+.
+	gBackCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+Sy¡emCŞÜs
+.
+Info
+;
+
+38 
+	gthis
+.
+	gBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+BÜd”StyË
+.
+FixedSšgË
+;
+
+39 
+	gthis
+.
+	gName
+ = "ContactPreview";
+
+40 
+	gthis
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(321, 94);
+
+41 
+	gthis
+.
+	gPašt
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+PaštEv’tHªdËr
+(
+this
+.
+CÚùP»v›w_Pašt
+);
+
+42 
+	gthis
+.
+ResumeLayout
+(
+çl£
+);
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPreview.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gD©a
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+8 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gObjeùMod–
+;
+
+11 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+13 
+public
+ 
+·¹Ÿl
+ cÏs 
+	cCÚùP»v›w
+ : 
+U£rCÚŒŞ
+
+
+15 
+´iv©e
+ 
+CŞËùiÚ
+<
+CPF›ld
+> 
+f›lds
+;
+
+17 
+´iv©e
+ 
+	gOuook
+.
+CÚùI‹m
+ 
+	gouookCÚù
+;
+
+18 
+public
+ 
+	gOuook
+.
+CÚùI‹m
+ 
+	gOuookCÚù
+
+
+20 
+	gg‘
+ {  
+	gouookCÚù
+; }
+
+21 
+	g£t
+ { 
+	gouookCÚù
+ = 
+v®ue
+; }
+
+24 
+public
+ 
+CÚùP»v›w
+(
+Ouook
+.
+CÚùI‹m
+ 
+_ouookCÚù
+)
+
+26 
+In™ŸlizeCompÚ’t
+();
+
+27 
+	gouookCÚù
+ = 
+_ouookCÚù
+;
+
+28 
+In™ŸlizeF›lds
+();
+
+31 
+´iv©e
+ 
+In™ŸlizeF›lds
+()
+
+34 
+	gf›lds
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+CPF›ld
+>();
+
+36 
+	gšdex
+ = 0;
+
+37 
+	gheight
+ = 
+FÚt
+.
+Height
+;
+
+39 ià(
+	gouookCÚù
+.
+	gFœ¡Name
+ !ğ
+nuÎ
+)
+
+41 
+f›lds
+.
+Add
+(
+Ãw
+ 
+CPF›ld
+("Fœ¡‚ame", 
+ouookCÚù
+.
+Fœ¡Name
+,‚ew 
+PoštF
+(0, 
+šdex
+ * 
+height
+)));
+
+42 
+	gšdex
+++;
+
+44 ià(
+	gouookCÚù
+.
+	gLa¡Name
+ !ğ
+nuÎ
+)
+
+46 
+f›lds
+.
+Add
+(
+Ãw
+ 
+CPF›ld
+("La¡‚ame", 
+ouookCÚù
+.
+La¡Name
+,‚ew 
+PoštF
+(0, 
+šdex
+ * 
+height
+)));
+
+47 
+	gšdex
+++;
+
+49 ià(
+	gouookCÚù
+.
+	gEma1Add»ss
+ !ğ
+nuÎ
+)
+
+51 
+f›lds
+.
+Add
+(
+Ãw
+ 
+CPF›ld
+("Ema", 
+ouookCÚù
+.
+Ema1Add»ss
+,‚ew 
+PoštF
+(0, 
+šdex
+ * 
+height
+)));
+
+52 
+	gšdex
+++;
+
+56 
+	gthis
+.
+	gHeight
+ = (
+šdex
+ + 1è* 
+height
+;
+
+59 
+´iv©e
+ 
+CÚùP»v›w_Pašt
+(
+objeù
+ 
+£nd”
+, 
+PaštEv’tArgs
+ 
+e
+)
+
+61 
+fÜ—ch
+ (
+CPF›ld
+ 
+f›ld
+ 
+š
+ 
+f›lds
+)
+
+62 
+	gf›ld
+.
+D¿w
+(
+e
+, 
+FÚt
+);
+
+68 
+public
+ cÏs 
+	cCPF›ld
+
+
+70 
+public
+ 
+¡ršg
+ 
+	gÇme
+;
+
+71 
+public
+ 
+¡ršg
+ 
+	gv®ue
+;
+
+72 
+public
+ 
+PoštF
+ 
+	gp
+;
+
+74 
+public
+ 
+CPF›ld
+(
+¡ršg
+ 
+_Çme
+, sŒšg 
+_v®ue
+, 
+PoštF
+ 
+_p
+)
+
+76 
+	gÇme
+ = 
+_Çme
+;
+
+77 
+	gv®ue
+ = 
+_v®ue
+;
+
+78 
+	gp
+ = 
+_p
+;
+
+81 
+public
+ 
+D¿w
+(
+PaštEv’tArgs
+ 
+e
+, 
+FÚt
+ 
+fÚt
+)
+
+83 
+¡ršg
+ 
+	g¡r
+ = 
+Çme
+ + ": " + 
+v®ue
+;
+
+84 
+	ge
+.
+	gG¿phics
+.
+D¿wSŒšg
+(
+¡r
+, 
+fÚt
+, 
+Brushes
+.
+BÏck
+, 
+p
+);
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPropertiesUtils.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+5 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+6 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+;
+
+9 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+11 
+š‹º®
+ şas 
+	cCÚùPrİ”t›sUts
+
+
+13 
+public
+ 
+¡ršg
+ 
+G‘OuookId
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+15  
+	gouookCÚù
+.
+	gEÁryID
+;
+
+17 
+public
+ 
+¡ršg
+ 
+G‘GoogËId
+(
+CÚùEÁry
+ 
+googËCÚù
+)
+
+19 
+¡ršg
+ 
+	gid
+ = 
+googËCÚù
+.
+Id
+.
+ToSŒšg
+();
+
+20 ià(
+	gid
+ =ğ
+nuÎ
+)
+
+21 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+();
+
+22  
+	gid
+;
+
+25 
+public
+ 
+S‘GoogËOuookCÚùId
+(
+¡ršg
+ 
+syncProfe
+, 
+CÚùEÁry
+ 
+googËCÚù
+, 
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+27 ià(
+	gouookCÚù
+.
+	gEÁryID
+ =ğ
+nuÎ
+)
+
+28 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+("Must save outlook contact before getting id");
+
+30 
+S‘GoogËOuookCÚùId
+(
+syncProfe
+, 
+googËCÚù
+, 
+G‘OuookId
+(
+ouookCÚù
+));
+
+32 
+public
+ 
+S‘GoogËOuookCÚùId
+(
+¡ršg
+ 
+syncProfe
+, 
+CÚùEÁry
+ 
+googËCÚù
+, sŒšg 
+ouookCÚùId
+)
+
+35 
+boŞ
+ 
+	gfound
+ = 
+çl£
+;
+
+36 
+fÜ—ch
+ (
+GoogË
+.
+GD©a
+.
+Ex‹nsiÚs
+.
+Ex‹ndedPrİ”ty
+ 
+p
+ 
+š
+ 
+googËCÚù
+.
+Ex‹ndedPrİ”t›s
+)
+
+38 ià(
+	gp
+.
+	gName
+ =ğ"gos:oid:" + 
+syncProfe
+ + "")
+
+40 
+p
+.
+V®ue
+ = 
+ouookCÚùId
+;
+
+41 
+	gfound
+ = 
+Œue
+;
+
+45 ià(!
+	gfound
+)
+
+47 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+.
+Ex‹ndedPrİ”ty
+ 
+	g´İ
+ = 
+Ãw
+ Ex‹ndedPrİ”ty(
+ouookCÚùId
+, "gos:oid:" + 
+syncProfe
+ + "");
+
+48 
+	g´İ
+.
+	gV®ue
+ = 
+ouookCÚùId
+;
+
+49 
+	ggoogËCÚù
+.
+	gEx‹ndedPrİ”t›s
+.
+Add
+(
+´İ
+);
+
+52 
+public
+ 
+¡ršg
+ 
+G‘GoogËOuookCÚùId
+(¡ršg 
+syncProfe
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+55 
+fÜ—ch
+ (
+GoogË
+.
+GD©a
+.
+Ex‹nsiÚs
+.
+Ex‹ndedPrİ”ty
+ 
+p
+ 
+š
+ 
+googËCÚù
+.
+Ex‹ndedPrİ”t›s
+)
+
+57 ià(
+	gp
+.
+	gName
+ =ğ"gos:oid:" + 
+syncProfe
+ + "")
+
+58  (
+¡ršg
+)
+p
+.
+V®ue
+;
+
+60  
+	gnuÎ
+;
+
+62 
+public
+ 
+Re£tGoogËOuookCÚùId
+(
+¡ršg
+ 
+syncProfe
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+65 
+fÜ—ch
+ (
+GoogË
+.
+GD©a
+.
+Ex‹nsiÚs
+.
+Ex‹ndedPrİ”ty
+ 
+p
+ 
+š
+ 
+googËCÚù
+.
+Ex‹ndedPrİ”t›s
+)
+
+67 ià(
+	gp
+.
+	gName
+ =ğ"gos:oid:" + 
+syncProfe
+ + "")
+
+70 
+googËCÚù
+.
+Ex‹ndedPrİ”t›s
+.
+Remove
+(
+p
+);
+
+76 
+public
+ 
+S‘OuookGoogËCÚùId
+(
+SynüÚiz”
+ 
+sync
+, 
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+78 ià(
+	ggoogËCÚù
+.
+	gId
+.
+	gUri
+ =ğ
+nuÎ
+)
+
+79 
+throw
+ 
+Ãw
+ 
+NuÎReã»nûExû±iÚ
+("GoogleContact must have‡ valid Id");
+
+82 
+	gOuook
+.
+U£rPrİ”ty
+ 
+	g´İ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameId
+];
+
+83 ià(
+	g´İ
+ =ğ
+nuÎ
+)
+
+84 
+´İ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+.
+Add
+(
+sync
+.
+OuookPrİ”tyNameId
+, 
+Ouook
+.
+OlU£rPrİ”tyTy³
+.
+ŞText
+, 
+nuÎ
+,‚ull);
+
+85 
+	g´İ
+.
+	gV®ue
+ = 
+googËCÚù
+.
+Id
+.
+Uri
+.
+CÚ‹Á
+;
+
+94 
+	g´İ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameSynûd
+];
+
+95 ià(
+	g´İ
+ =ğ
+nuÎ
+)
+
+96 
+´İ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+.
+Add
+(
+sync
+.
+OuookPrİ”tyNameSynûd
+, 
+Ouook
+.
+OlU£rPrİ”tyTy³
+.
+ŞD©eTime
+, 
+nuÎ
+,‚ull);
+
+97 
+	g´İ
+.
+	gV®ue
+ = 
+D©eTime
+.
+Now
+;
+
+99 
+public
+ 
+¡ršg
+ 
+G‘OuookGoogËCÚùId
+(
+SynüÚiz”
+ 
+sync
+, 
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+101 
+	gOuook
+.
+U£rPrİ”ty
+ 
+	gidPrİ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameId
+];
+
+102 
+¡ršg
+ 
+	gid
+ = (¡ršg)
+idPrİ
+.
+V®ue
+;
+
+103 ià(
+	gid
+ =ğ
+nuÎ
+)
+
+104 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+();
+
+105  
+	gid
+;
+
+107 
+public
+ 
+Re£tOuookGoogËCÚùId
+(
+SynüÚiz”
+ 
+sync
+, 
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+109 
+	gOuook
+.
+U£rPrİ”ty
+ 
+	gidPrİ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameId
+];
+
+111 ià(
+	gidPrİ
+ =ğ
+nuÎ
+)
+
+114 
+IEnum”©Ü
+ 
+	g’
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+.
+G‘Enum”©Ü
+();
+
+115 
+	gšdex
+ = 1;
+
+116 
+	g’
+.
+MoveNext
+())
+
+118 ià(
+	g’
+.
+Cu¼’t
+ 
+as
+ 
+	gOuook
+.
+	gU£rPrİ”ty
+ =ğ
+idPrİ
+)
+
+120 
+ouookCÚù
+.
+U£rPrİ”t›s
+.
+Remove
+(
+šdex
+);
+
+123 
+	gšdex
+++;
+
+125 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+("Did‚ot find…rop.");
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactSync.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCl›Á
+;
+
+5 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+6 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+;
+
+7 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+11 
+š‹º®
+ şas 
+	cCÚùSync
+
+
+13 
+public
+ 
+Upd©eCÚù
+(
+CÚùEÁry
+ 
+sourû
+, 
+Ouook
+.
+CÚùI‹m
+ 
+de¡š©iÚ
+)
+
+20 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+T™Ë
+.
+Text
+))
+
+21 
+	gde¡š©iÚ
+.
+	gFeAs
+ = 
+sourû
+.
+T™Ë
+.
+Text
+;
+
+23 
+	gde¡š©iÚ
+.
+	gFeAs
+ = 
+sourû
+.
+Emas
+[0].
+Add»ss
+;
+
+25 
+S‘Emas
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+27 
+fÜ—ch
+ (
+PhÚeNumb”
+ 
+phÚe
+ 
+š
+ 
+sourû
+.
+PhÚ’umb”s
+)
+
+29 
+S‘PhÚeNumb”
+(
+phÚe
+, 
+de¡š©iÚ
+);
+
+32 
+fÜ—ch
+ (
+Po¡®Add»ss
+ 
+add»ss
+ 
+š
+ 
+sourû
+.
+Po¡®Add»s£s
+)
+
+34 
+S‘Po¡®Add»ss
+(
+add»ss
+, 
+de¡š©iÚ
+);
+
+37 
+	gde¡š©iÚ
+.
+	gCom·n›s
+ = 
+¡ršg
+.
+Em±y
+;
+
+38 
+fÜ—ch
+ (
+Orgªiz©iÚ
+ 
+com·ny
+ 
+š
+ 
+sourû
+.
+Orgªiz©iÚs
+)
+
+40 ià(
+	gcom·ny
+.
+	gPrim¬y
+)
+
+41 
+	gde¡š©iÚ
+.
+	gCom·nyName
+ = 
+com·ny
+.
+T™Ë
+;
+
+42 ià(
+	gde¡š©iÚ
+.
+	gCom·n›s
+.
+	gL’gth
+ > 0)
+
+43 
+	gde¡š©iÚ
+.
+	gCom·n›s
+ += "; ";
+
+44 
+	gde¡š©iÚ
+.
+	gCom·n›s
+ +ğ
+com·ny
+.
+T™Ë
+;
+
+47 
+	gde¡š©iÚ
+.
+	gIMAdd»ss
+ = "";
+
+48 
+fÜ—ch
+ (
+IMAdd»ss
+ 
+im
+ 
+š
+ 
+sourû
+.
+IMs
+)
+
+50 ià(
+	gde¡š©iÚ
+.
+	gIMAdd»ss
+.
+	gL’gth
+ > 0)
+
+51 
+	gde¡š©iÚ
+.
+	gIMAdd»ss
+ += "; ";
+
+52 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+im
+.
+PrÙocŞ
+))
+
+53 
+	gde¡š©iÚ
+.
+	gIMAdd»ss
+ +ğ
+im
+.
+PrÙocŞ
+ + ": " + im.
+Add»ss
+;
+
+54 
+	gde¡š©iÚ
+.
+	gIMAdd»ss
+ +ğ
+im
+.
+Add»ss
+;
+
+57 
+	gde¡š©iÚ
+.
+	gBody
+ = 
+sourû
+.
+CÚ‹Á
+.Content;
+
+65 
+public
+ 
+Upd©eCÚù
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+71 ià(
+	gsourû
+.
+	gFeAs
+ !ğ
+sourû
+.
+Ema1Add»ss
+)
+
+72 
+de¡š©iÚ
+.
+T™Ë
+.
+Text
+ = 
+sourû
+.
+FeAs
+;
+
+74 
+	gde¡š©iÚ
+.
+	gT™Ë
+.
+	gText
+ = 
+nuÎ
+;
+
+76 ià(
+	gde¡š©iÚ
+.
+	gT™Ë
+.
+	gText
+ =ğ
+nuÎ
+)
+
+77 
+de¡š©iÚ
+.
+T™Ë
+.
+Text
+ = 
+sourû
+.
+FuÎName
+;
+
+79 ià(
+	gde¡š©iÚ
+.
+	gT™Ë
+.
+	gText
+ =ğ
+nuÎ
+)
+
+80 
+de¡š©iÚ
+.
+T™Ë
+.
+Text
+ = 
+sourû
+.
+Com·nyName
+;
+
+82 
+S‘Emas
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+84 
+S‘PhÚeNumb”s
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+86 
+S‘Add»s£s
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+88 
+S‘Com·n›s
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+90 
+S‘IMs
+(
+sourû
+, 
+de¡š©iÚ
+);
+
+93 
+	gde¡š©iÚ
+.
+	gCÚ‹Á
+.CÚ‹Á = 
+SŒšg
+.
+FÜm©
+Ğ"<![CDATA[{0}]]>", 
+sourû
+.
+Body
+);
+
+96 
+public
+ 
+S‘Add»s£s
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+98 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+HomeAdd»ss
+))
+
+100 
+Po¡®Add»ss
+ 
+	gpo¡®Add»ss
+ = 
+Ãw
+ PostalAddress();
+
+101 
+	gpo¡®Add»ss
+.
+	gV®ue
+ = 
+sourû
+.
+HomeAdd»ss
+;
+
+102 
+	gpo¡®Add»ss
+.
+	gPrim¬y
+ = 
+Œue
+;
+
+103 
+	gpo¡®Add»ss
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsHome
+;
+
+104 
+	gde¡š©iÚ
+.
+	gPo¡®Add»s£s
+.
+Add
+(
+po¡®Add»ss
+);
+
+107 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+BusšessAdd»ss
+))
+
+109 
+Po¡®Add»ss
+ 
+	gpo¡®Add»ss
+ = 
+Ãw
+ PostalAddress();
+
+110 
+	gpo¡®Add»ss
+.
+	gV®ue
+ = 
+sourû
+.
+BusšessAdd»ss
+;
+
+111 
+	gpo¡®Add»ss
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Po¡®Add»s£s
+.
+CouÁ
+ == 0;
+
+112 
+	gpo¡®Add»ss
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+113 
+	gde¡š©iÚ
+.
+	gPo¡®Add»s£s
+.
+Add
+(
+po¡®Add»ss
+);
+
+116 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Oth”Add»ss
+))
+
+118 
+Po¡®Add»ss
+ 
+	gpo¡®Add»ss
+ = 
+Ãw
+ PostalAddress();
+
+119 
+	gpo¡®Add»ss
+.
+	gV®ue
+ = 
+sourû
+.
+Oth”Add»ss
+;
+
+120 
+	gpo¡®Add»ss
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Po¡®Add»s£s
+.
+CouÁ
+ == 0;
+
+121 
+	gpo¡®Add»ss
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsOth”
+;
+
+122 
+	gde¡š©iÚ
+.
+	gPo¡®Add»s£s
+.
+Add
+(
+po¡®Add»ss
+);
+
+126 
+public
+ 
+S‘IMs
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+128 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+IMAdd»ss
+))
+
+131 
+	g¡ršg
+[] 
+	gimsRaw
+ = 
+sourû
+.
+IMAdd»ss
+.
+S¶™
+(';');
+
+132 
+fÜ—ch
+ (
+¡ršg
+ 
+imRaw
+ 
+š
+ 
+imsRaw
+)
+
+134 
+	g¡ršg
+[] 
+	gimD‘as
+ = 
+imRaw
+.
+Trim
+().
+S¶™
+(':');
+
+135 
+IMAdd»ss
+ 
+	gim
+ = 
+Ãw
+ IMAddress();
+
+136 ià(
+	gimD‘as
+.
+	gL’gth
+ == 1)
+
+137 
+im
+.
+Add»ss
+ = 
+imD‘as
+[0].
+Trim
+();
+
+140 
+	gim
+.
+	gPrÙocŞ
+ = 
+imD‘as
+[0].
+Trim
+();
+
+141 
+	gim
+.
+	gAdd»ss
+ = 
+imD‘as
+[1].
+Trim
+();
+
+143 
+	gim
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+IMs
+.
+CouÁ
+ == 0;
+
+144 
+	gim
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsHome
+;
+
+145 
+	gde¡š©iÚ
+.
+	gIMs
+.
+Add
+(
+im
+);
+
+150 
+public
+ 
+S‘Emas
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+152 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Ema1Add»ss
+))
+
+154 
+EMa
+ 
+	g´im¬yEma
+ = 
+Ãw
+ EMa(
+sourû
+.
+Ema1Add»ss
+);
+
+155 
+	g´im¬yEma
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Emas
+.
+CouÁ
+ == 0;
+
+156 
+	g´im¬yEma
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+157 
+	gde¡š©iÚ
+.
+	gEmas
+.
+Add
+(
+´im¬yEma
+);
+
+160 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Ema2Add»ss
+))
+
+162 
+EMa
+ 
+	g£cÚd¬yEma
+ = 
+Ãw
+ EMa(
+sourû
+.
+Ema2Add»ss
+);
+
+163 
+	g£cÚd¬yEma
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Emas
+.
+CouÁ
+ == 0;
+
+164 
+	g£cÚd¬yEma
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsHome
+;
+
+165 
+	gde¡š©iÚ
+.
+	gEmas
+.
+Add
+(
+£cÚd¬yEma
+);
+
+168 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Ema3Add»ss
+))
+
+170 
+EMa
+ 
+	g£cÚd¬yEma
+ = 
+Ãw
+ EMa(
+sourû
+.
+Ema3Add»ss
+);
+
+171 
+	g£cÚd¬yEma
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Emas
+.
+CouÁ
+ == 0;
+
+172 
+	g£cÚd¬yEma
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsOth”
+;
+
+173 
+	gde¡š©iÚ
+.
+	gEmas
+.
+Add
+(
+£cÚd¬yEma
+);
+
+177 
+public
+ 
+S‘PhÚeNumb”s
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+179 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Prim¬yT–•hÚeNumb”
+))
+
+181 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+Prim¬yT–•hÚeNumb”
+);
+
+182 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+183 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsMobe
+;
+
+184 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+187 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+MobeT–•hÚeNumb”
+))
+
+189 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+MobeT–•hÚeNumb”
+);
+
+190 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+191 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsMobe
+;
+
+192 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+195 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+HomeT–•hÚeNumb”
+))
+
+197 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+HomeT–•hÚeNumb”
+);
+
+198 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+199 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsHome
+;
+
+200 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+203 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+BusšessT–•hÚeNumb”
+))
+
+205 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+BusšessT–•hÚeNumb”
+);
+
+206 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+207 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+208 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+211 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Busšess2T–•hÚeNumb”
+))
+
+213 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+Busšess2T–•hÚeNumb”
+);
+
+214 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+215 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+216 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+219 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+HomeFaxNumb”
+))
+
+221 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+HomeFaxNumb”
+);
+
+222 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+223 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsHomeFax
+;
+
+224 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+227 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+BusšessFaxNumb”
+))
+
+229 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+BusšessFaxNumb”
+);
+
+230 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+231 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜkFax
+;
+
+232 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+235 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Oth”T–•hÚeNumb”
+))
+
+237 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+Oth”T–•hÚeNumb”
+);
+
+238 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+239 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsOth”
+;
+
+240 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+243 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+RadioT–•hÚeNumb”
+))
+
+245 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+RadioT–•hÚeNumb”
+);
+
+246 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+247 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsMobe
+;
+
+248 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+251 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Pag”Numb”
+))
+
+253 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+Pag”Numb”
+);
+
+254 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+255 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsPag”
+;
+
+256 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+259 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+C¬T–•hÚeNumb”
+))
+
+261 
+PhÚeNumb”
+ 
+	gphÚeNumb”
+ = 
+Ãw
+ PhÚeNumb”(
+sourû
+.
+C¬T–•hÚeNumb”
+);
+
+262 
+	gphÚeNumb”
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+PhÚ’umb”s
+.
+CouÁ
+ == 0;
+
+263 
+	gphÚeNumb”
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsC¬
+;
+
+264 
+	gde¡š©iÚ
+.
+	gPhÚ’umb”s
+.
+Add
+(
+phÚeNumb”
+);
+
+268 
+public
+ 
+S‘Com·n›s
+(
+Ouook
+.
+CÚùI‹m
+ 
+sourû
+, 
+CÚùEÁry
+ 
+de¡š©iÚ
+)
+
+270 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Com·n›s
+))
+
+273 
+	g¡ršg
+[] 
+	gcom·n›sRaw
+ = 
+sourû
+.
+Com·n›s
+.
+S¶™
+(';');
+
+274 
+fÜ—ch
+ (
+¡ršg
+ 
+com·nyRaw
+ 
+š
+ 
+com·n›sRaw
+)
+
+276 
+Orgªiz©iÚ
+ 
+	gcom·ny
+ = 
+Ãw
+ Organization();
+
+277 
+	gcom·ny
+.
+	gName
+ = 
+com·nyRaw
+.
+Trim
+();
+
+278 
+	gcom·ny
+.
+	gPrim¬y
+ = 
+de¡š©iÚ
+.
+Orgªiz©iÚs
+.
+CouÁ
+ == 0;
+
+279 
+	gcom·ny
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+280 
+	gde¡š©iÚ
+.
+	gOrgªiz©iÚs
+.
+Add
+(
+com·ny
+);
+
+284 ià(
+	gde¡š©iÚ
+.
+	gOrgªiz©iÚs
+.
+	gCouÁ
+ =ğ0 && !
+¡ršg
+.
+IsNuÎOrEm±y
+(
+sourû
+.
+Com·nyName
+))
+
+286 
+Orgªiz©iÚ
+ 
+com·ny
+ = 
+Ãw
+ Organization();
+
+287 
+	gcom·ny
+.
+	gName
+ = 
+sourû
+.
+Com·nyName
+;
+
+288 
+	gcom·ny
+.
+	gPrim¬y
+ = 
+Œue
+;
+
+289 
+	gcom·ny
+.
+	gR–
+ = 
+CÚùsR–©iÚshs
+.
+IsWÜk
+;
+
+290 
+	gde¡š©iÚ
+.
+	gOrgªiz©iÚs
+.
+Add
+(
+com·ny
+);
+
+294 
+public
+ 
+S‘PhÚeNumb”
+(
+PhÚeNumb”
+ 
+phÚe
+, 
+Ouook
+.
+CÚùI‹m
+ 
+de¡š©iÚ
+)
+
+296 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsHome
+)
+
+297 
+de¡š©iÚ
+.
+HomeT–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+298 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsWÜk
+)
+
+299 
+de¡š©iÚ
+.
+BusšessT–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+300 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsMobe
+)
+
+302 
+de¡š©iÚ
+.
+MobeT–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+305 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsWÜkFax
+)
+
+306 
+de¡š©iÚ
+.
+BusšessFaxNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+307 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsHomeFax
+)
+
+308 
+de¡š©iÚ
+.
+HomeFaxNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+310 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsPag”
+)
+
+311 
+de¡š©iÚ
+.
+Pag”Numb”
+ = 
+phÚe
+.
+V®ue
+;
+
+312 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsS©–l™e
+)
+
+313 
+de¡š©iÚ
+.
+RadioT–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+314 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsOth”
+)
+
+315 
+de¡š©iÚ
+.
+Oth”T–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+316 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsC¬
+)
+
+317 
+de¡š©iÚ
+.
+C¬T–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+318 ià(
+	gphÚe
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsVo
+)
+
+319 
+de¡š©iÚ
+.
+Busšess2T–•hÚeNumb”
+ = 
+phÚe
+.
+V®ue
+;
+
+322 
+public
+ 
+S‘Po¡®Add»ss
+(
+Po¡®Add»ss
+ 
+add»ss
+, 
+Ouook
+.
+CÚùI‹m
+ 
+de¡š©iÚ
+)
+
+324 ià(
+	gadd»ss
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsHome
+)
+
+326 
+de¡š©iÚ
+.
+HomeAdd»ss
+ = 
+add»ss
+.
+V®ue
+;
+
+327 ià(
+	gadd»ss
+.
+	gPrim¬y
+)
+
+328 
+	gde¡š©iÚ
+.
+	gS–eùedMašgAdd»ss
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+.
+OlMašgAdd»ss
+.
+ŞHome
+;
+
+331 ià(
+	gadd»ss
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsWÜk
+)
+
+333 
+de¡š©iÚ
+.
+BusšessAdd»ss
+ = 
+add»ss
+.
+V®ue
+;
+
+334 ià(
+	gadd»ss
+.
+	gPrim¬y
+)
+
+335 
+	gde¡š©iÚ
+.
+	gS–eùedMašgAdd»ss
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+.
+OlMašgAdd»ss
+.
+ŞBusšess
+;
+
+338 ià(
+	gadd»ss
+.
+	gR–
+ =ğ
+CÚùsR–©iÚshs
+.
+IsOth”
+)
+
+340 
+de¡š©iÚ
+.
+Oth”Add»ss
+ = 
+add»ss
+.
+V®ue
+;
+
+341 ià(
+	gadd»ss
+.
+	gPrim¬y
+)
+
+342 
+	gde¡š©iÚ
+.
+	gS–eùedMašgAdd»ss
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+.
+OlMašgAdd»ss
+.
+ŞOth”
+;
+
+347 
+public
+ 
+M”geCÚùs
+(
+Ouook
+.
+CÚùI‹m
+ 
+ma¡”
+, 
+CÚùEÁry
+ 
+¦ave
+)
+
+355 ià(
+	gma¡”
+.
+	gFeAs
+ !ğ
+ma¡”
+.
+Ema1Add»ss
+)
+
+356 
+¦ave
+.
+T™Ë
+.
+Text
+ = 
+ma¡”
+.
+FeAs
+;
+
+358 
+	g¦ave
+.
+	gT™Ë
+.
+	gText
+ = 
+nuÎ
+;
+
+360 ià(
+	g¦ave
+.
+	gT™Ë
+.
+	gText
+ =ğ
+nuÎ
+)
+
+361 
+¦ave
+.
+T™Ë
+.
+Text
+ = 
+ma¡”
+.
+FuÎName
+;
+
+363 ià(
+	g¦ave
+.
+	gT™Ë
+.
+	gText
+ =ğ
+nuÎ
+)
+
+364 
+¦ave
+.
+T™Ë
+.
+Text
+ = 
+ma¡”
+.
+Com·nyName
+;
+
+366 
+	g¦ave
+.
+	gEmas
+.
+CË¬
+();
+
+367 
+S‘Emas
+(
+ma¡”
+, 
+¦ave
+);
+
+369 
+	g¦ave
+.
+	gPo¡®Add»s£s
+.
+CË¬
+();
+
+370 
+S‘Add»s£s
+(
+ma¡”
+, 
+¦ave
+);
+
+372 
+	g¦ave
+.
+	gPhÚ’umb”s
+.
+CË¬
+();
+
+373 
+S‘PhÚeNumb”s
+(
+ma¡”
+, 
+¦ave
+);
+
+375 
+	g¦ave
+.
+	gOrgªiz©iÚs
+.
+CË¬
+();
+
+376 
+S‘Com·n›s
+(
+ma¡”
+, 
+¦ave
+);
+
+378 
+	g¦ave
+.
+	gIMs
+.
+CË¬
+();
+
+379 
+S‘IMs
+(
+ma¡”
+, 
+¦ave
+);
+
+381 
+	g¦ave
+.
+	gCÚ‹Á
+.CÚ‹Á = 
+ma¡”
+.
+Body
+;
+
+384 
+public
+ 
+M”geCÚùs
+(
+CÚùEÁry
+ 
+ma¡”
+, 
+Ouook
+.
+CÚùI‹m
+ 
+¦ave
+)
+
+390 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+ma¡”
+.
+T™Ë
+.
+Text
+))
+
+392 
+	g¦ave
+.
+	gFeAs
+ = 
+ma¡”
+.
+T™Ë
+.
+Text
+;
+
+393 
+	g¦ave
+.
+	gFuÎName
+ = 
+ma¡”
+.
+T™Ë
+.
+Text
+;
+
+396 
+	g¦ave
+.
+	gFeAs
+ = 
+ma¡”
+.
+Emas
+[0].
+Add»ss
+;
+
+398 
+S‘Emas
+(
+ma¡”
+, 
+¦ave
+);
+
+400 
+fÜ—ch
+ (
+PhÚeNumb”
+ 
+phÚe
+ 
+š
+ 
+ma¡”
+.
+PhÚ’umb”s
+)
+
+402 
+S‘PhÚeNumb”
+(
+phÚe
+, 
+¦ave
+);
+
+405 
+fÜ—ch
+ (
+Po¡®Add»ss
+ 
+add»ss
+ 
+š
+ 
+ma¡”
+.
+Po¡®Add»s£s
+)
+
+407 
+S‘Po¡®Add»ss
+(
+add»ss
+, 
+¦ave
+);
+
+410 
+	g¦ave
+.
+	gCom·n›s
+ = 
+¡ršg
+.
+Em±y
+;
+
+411 
+fÜ—ch
+ (
+Orgªiz©iÚ
+ 
+com·ny
+ 
+š
+ 
+ma¡”
+.
+Orgªiz©iÚs
+)
+
+413 ià(
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+com·ny
+.
+T™Ë
+))
+
+416 ià(
+	gcom·ny
+.
+	gPrim¬y
+)
+
+417 
+	g¦ave
+.
+	gCom·nyName
+ = 
+com·ny
+.
+T™Ë
+;
+
+418 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+¦ave
+.
+Com·n›s
+))
+
+419 
+	g¦ave
+.
+	gCom·n›s
+ += "; ";
+
+420 
+	g¦ave
+.
+	gCom·n›s
+ +ğ
+com·ny
+.
+T™Ë
+;
+
+423 
+	g¦ave
+.
+	gIMAdd»ss
+ = "";
+
+424 
+fÜ—ch
+ (
+IMAdd»ss
+ 
+im
+ 
+š
+ 
+ma¡”
+.
+IMs
+)
+
+426 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+¦ave
+.
+IMAdd»ss
+))
+
+427 
+	g¦ave
+.
+	gIMAdd»ss
+ += "; ";
+
+428 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+im
+.
+PrÙocŞ
+))
+
+429 
+	g¦ave
+.
+	gIMAdd»ss
+ +ğ
+im
+.
+PrÙocŞ
+ + ": " + im.
+Add»ss
+;
+
+430 
+	g¦ave
+.
+	gIMAdd»ss
+ +ğ
+im
+.
+Add»ss
+;
+
+433 
+	g¦ave
+.
+	gBody
+ = 
+ma¡”
+.
+CÚ‹Á
+.Content;
+
+436 
+public
+ 
+S‘Emas
+(
+CÚùEÁry
+ 
+sourû
+, 
+Ouook
+.
+CÚùI‹m
+ 
+de¡š©iÚ
+)
+
+438 ià(
+	gsourû
+.
+	gEmas
+.
+	gCouÁ
+ > 0)
+
+440 
+	gde¡š©iÚ
+.
+	gEma1Add»ss
+ = 
+sourû
+.
+Emas
+[0].
+Add»ss
+;
+
+441 
+	gde¡š©iÚ
+.
+	gEma1Di¥ÏyName
+ = 
+sourû
+.
+Emas
+[0].
+Lab–
+;
+
+443 ià(
+	gsourû
+.
+	gEmas
+.
+	gCouÁ
+ > 1)
+
+444 
+	gde¡š©iÚ
+.
+	gEma2Add»ss
+ = 
+sourû
+.
+Emas
+[1].
+Add»ss
+;
+
+445 ià(
+	gsourû
+.
+	gEmas
+.
+	gCouÁ
+ > 2)
+
+446 
+	gde¡š©iÚ
+.
+	gEma3Add»ss
+ = 
+sourû
+.
+Emas
+[2].
+Add»ss
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactsMatcher.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCl›Á
+;
+
+5 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+6 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+;
+
+7 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+8 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gObjeùMod–
+;
+
+10 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+12 
+š‹º®
+ şas 
+	cCÚùsM©ch”
+
+
+17 
+public
+ 
+	gTimeTŞ”ªû
+ = 20;
+
+25 
+public
+ 
+CÚùM©chLi¡
+ 
+M©chCÚùs
+(
+SynüÚiz”
+ 
+sync
+)
+
+27 
+CÚùM©chLi¡
+ 
+	g»suÉ
+ = 
+Ãw
+ CÚùM©chLi¡(
+M©h
+.
+Max
+(
+sync
+.
+OuookCÚùs
+.
+CouÁ
+, sync.
+GoogËCÚùs
+.
+C­ac™y
+));
+
+28 
+	ggoogËCÚùsM©ched
+ = 0;
+
+29 
+boŞ
+ 
+	gli¡šgDu¶iÿ‹s
+ = 
+çl£
+;
+
+30 
+¡ršg
+ 
+	gdu¶iÿ‹sLi¡
+ = "";
+
+36 
+	gi
+ = 1; i <ğ
+sync
+.
+OuookCÚùs
+.
+CouÁ
+; i++)
+
+38 
+	gŒy
+
+
+40 ià(!(
+	gsync
+.
+	gOuookCÚùs
+[
+i
+] 
+is
+ 
+	gOuook
+.
+	gCÚùI‹m
+))
+
+43 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+49 
+	gOuook
+.
+CÚùI‹m
+ 
+	gŞc
+ = 
+sync
+.
+OuookCÚùs
+[
+i
+] 
+as
+ 
+Ouook
+.ContactItem;
+
+52 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	gdu¶iÿ‹s
+;
+
+53 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+Şc
+.
+Ema1Add»ss
+))
+
+55 
+	gdu¶iÿ‹s
+ = 
+sync
+.
+OuookCÚùByEma
+(
+Şc
+.
+Ema1Add»ss
+);
+
+56 ià(
+	gdu¶iÿ‹s
+.
+	gCouÁ
+ > 1)
+
+58 ià(!
+	gli¡šgDu¶iÿ‹s
+)
+
+60 
+	gdu¶iÿ‹sLi¡
+ = "Outlook contacts withhe sameƒmail have been found. Please delete duplicates of:";
+
+61 
+	gli¡šgDu¶iÿ‹s
+ = 
+Œue
+;
+
+63 
+¡ršg
+ 
+	g¡r
+ = 
+Şc
+.
+FeAs
+ + " (" + olc.
+Ema1Add»ss
+ + ")";
+
+64 ià(!
+	gdu¶iÿ‹sLi¡
+.
+CÚšs
+(
+¡r
+))
+
+65 
+	gdu¶iÿ‹sLi¡
+ +ğ
+EnvœÚm’t
+.
+NewLše
+ + 
+¡r
+;
+
+70 
+CÚùM©ch
+ 
+	gdup
+ = 
+»suÉ
+.
+Fšd
+(
+d–eg©e
+(CÚùM©ch 
+m©ch
+)
+
+72  
+m©ch
+.
+OuookCÚù
+ !ğ
+nuÎ
+ && m©ch.OuookCÚù.
+Ema1Add»ss
+ =ğ
+Şc
+.Email1Address;
+
+74 ià(
+	gdup
+ !ğ
+nuÎ
+)
+
+76 ià(
+sync
+.
+Logg”
+ !ğ
+nuÎ
+)
+
+77 
+sync
+.
+Logg”
+.
+Log
+(
+¡ršg
+.
+FÜm©
+("Du¶iÿ‹ cÚù found ({0}). Skpšg", 
+Şc
+.
+FeAs
+), 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+93 ià(!
+IsCÚùV®id
+(
+Şc
+))
+
+95 ià(
+	gsync
+.
+	gLogg”
+ !ğ
+nuÎ
+)
+
+96 
+sync
+.
+Logg”
+.
+Log
+(
+¡ršg
+.
+FÜm©
+("Inv®id ouook cÚù ({0}). Skpšg", 
+Şc
+.
+FeAs
+), 
+Ev’tTy³
+.
+W¬nšg
+);
+
+102 ià(
+	gŞc
+.
+	gEma1Add»ss
+ !ğ
+nuÎ
+ ||
+
+103 
+Şc
+.
+Ema2Add»ss
+ !ğ
+nuÎ
+ ||
+
+104 
+Şc
+.
+Ema3Add»ss
+ !ğ
+nuÎ
+ ||
+
+105 
+Şc
+.
+Prim¬yT–•hÚeNumb”
+ !ğ
+nuÎ
+ ||
+
+106 
+Şc
+.
+HomeT–•hÚeNumb”
+ !ğ
+nuÎ
+ ||
+
+107 
+Şc
+.
+MobeT–•hÚeNumb”
+ !ğ
+nuÎ
+ ||
+
+108 
+Şc
+.
+BusšessT–•hÚeNumb”
+ !ğ
+nuÎ
+
+
+112 
+CÚùM©ch
+ 
+m©ch
+ = 
+Ãw
+ CÚùM©ch(
+Şc
+, 
+nuÎ
+);
+
+113 #»giÚ 
+M©ch
+ 
+by
+ 
+googË
+ 
+id
+
+
+115 
+	gOuook
+.
+U£rPrİ”ty
+ 
+	gidPrİ
+ = 
+Şc
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameId
+];
+
+116 ià(
+	gidPrİ
+ !ğ
+nuÎ
+)
+
+118 
+AtomId
+ 
+id
+ = 
+Ãw
+ AtomId((
+¡ršg
+)
+idPrİ
+.
+V®ue
+);
+
+119 
+CÚùEÁry
+ 
+	gfoundCÚù
+ = 
+sync
+.
+GoogËCÚùs
+.
+FšdById
+(
+id
+è
+as
+ ContactEntry;
+
+121 ià(
+	gfoundCÚù
+ !ğ
+nuÎ
+ && 
+foundCÚù
+.
+D–‘ed
+)
+
+124 
+idPrİ
+.
+V®ue
+ = "";
+
+128 ià(
+	gfoundCÚù
+ =ğ
+nuÎ
+)
+
+131 
+idPrİ
+.
+V®ue
+ = "";
+
+133 ià(
+	gfoundCÚù
+ !ğ
+nuÎ
+)
+
+135 
+m©ch
+.
+AddGoogËCÚù
+(
+foundCÚù
+);
+
+139 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ =ğ
+nuÎ
+)
+
+143 #»giÚ 
+M©ch
+ 
+by
+ 
+´İ”t›s
+
+
+146 
+fÜ—ch
+ (
+CÚùEÁry
+ 
+’Œy
+ 
+š
+ 
+sync
+.
+GoogËCÚùs
+)
+
+149 ià(
+’Œy
+.
+D–‘ed
+)
+
+153 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+Şc
+.
+FuÎName
+è&& 
+	gŞc
+.
+	gFuÎName
+.
+Equ®s
+(
+’Œy
+.
+T™Ë
+.
+Text
+, 
+SŒšgCom·risÚ
+.
+Inv¬ŸÁCuÉu»IgnÜeCa£
+))
+
+155 
+	gm©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+160 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+Şc
+.
+FeAs
+è&& 
+	gŞc
+.
+	gFeAs
+.
+Equ®s
+(
+’Œy
+.
+T™Ë
+.
+Text
+, 
+SŒšgCom·risÚ
+.
+Inv¬ŸÁCuÉu»IgnÜeCa£
+))
+
+162 
+	gm©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+167 ià(
+FšdEma
+(
+Şc
+.
+Ema1Add»ss
+, 
+’Œy
+.
+Emas
+è!ğ
+nuÎ
+)
+
+169 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+173 ià(
+FšdEma
+(
+Şc
+.
+Ema2Add»ss
+, 
+’Œy
+.
+Emas
+è!ğ
+nuÎ
+)
+
+175 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+179 ià(
+FšdEma
+(
+Şc
+.
+Ema3Add»ss
+, 
+’Œy
+.
+Emas
+è!ğ
+nuÎ
+)
+
+181 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+185 #»giÚ 
+PhÚe
+ 
+numb”s
+
+
+187 ià(
+FšdPhÚe
+(
+Şc
+.
+MobeT–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+189 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+203 ià(
+FšdPhÚe
+(
+Şc
+.
+HomeT–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+205 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+209 ià(
+FšdPhÚe
+(
+Şc
+.
+BusšessT–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+211 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+215 ià(
+FšdPhÚe
+(
+Şc
+.
+BusšessFaxNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+217 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+221 ià(
+FšdPhÚe
+(
+Şc
+.
+HomeFaxNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+223 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+227 ià(
+FšdPhÚe
+(
+Şc
+.
+Pag”Numb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+229 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+233 ià(
+FšdPhÚe
+(
+Şc
+.
+RadioT–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+235 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+239 ià(
+FšdPhÚe
+(
+Şc
+.
+Oth”T–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+241 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+245 ià(
+FšdPhÚe
+(
+Şc
+.
+C¬T–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+247 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+251 ià(
+FšdPhÚe
+(
+Şc
+.
+Busšess2T–•hÚeNumb”
+, 
+’Œy
+.
+PhÚ’umb”s
+è!ğ
+nuÎ
+)
+
+253 
+m©ch
+.
+AddGoogËCÚù
+(
+’Œy
+);
+
+262 ià(
+	gm©ch
+.
+	gAÎGoogËCÚùM©ches
+.
+	gCouÁ
+ > 0)
+
+264 
+	ggoogËCÚùsM©ched
+ +ğ
+m©ch
+.
+AÎGoogËCÚùM©ches
+.
+CouÁ
+;
+
+267 
+fÜ—ch
+ (
+CÚùEÁry
+ 
+cÚù
+ 
+š
+ 
+m©ch
+.
+AÎGoogËCÚùM©ches
+)
+
+268 
+	gsync
+.
+	gGoogËCÚùs
+.
+Remove
+(
+cÚù
+);
+
+272 ià(
+	gsync
+.
+	gLogg”
+ !ğ
+nuÎ
+)
+
+273 
+sync
+.
+Logg”
+.
+Log
+(
+¡ršg
+.
+FÜm©
+("NØm©ch found fÜ ouook cÚù ({0})", 
+Şc
+.
+FeAs
+), 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+276 
+	g»suÉ
+.
+Add
+(
+m©ch
+);
+
+281 ià(
+	gsync
+.
+	gLogg”
+ !ğ
+nuÎ
+)
+
+282 
+sync
+.
+Logg”
+.
+Log
+(
+¡ršg
+.
+FÜm©
+("Skpšg ouook cÚù ({0})", 
+Şc
+.
+FeAs
+), 
+Ev’tTy³
+.
+W¬nšg
+);
+
+286 ià(
+	gli¡šgDu¶iÿ‹s
+)
+
+288 
+throw
+ 
+Ãw
+ 
+Du¶iÿ‹D©aExû±iÚ
+(
+du¶iÿ‹sLi¡
+);
+
+293 ià(
+	gsync
+.
+	gSyncO±iÚ
+ !ğ
+SyncO±iÚ
+.
+OuookToGoogËOÆy
+)
+
+296 
+fÜ—ch
+ (
+CÚùEÁry
+ 
+’Œy
+ 
+š
+ 
+sync
+.
+GoogËCÚùs
+)
+
+300 ià(
+’Œy
+.
+Emas
+.
+CouÁ
+ !ğ0 ||ƒÁry.
+PhÚ’umb”s
+.Count != 0)
+
+302 
+CÚùM©ch
+ 
+m©ch
+ = 
+Ãw
+ CÚùM©ch(
+nuÎ
+, 
+’Œy
+); ;
+
+303 
+	g»suÉ
+.
+Add
+(
+m©ch
+);
+
+311  
+	g»suÉ
+;
+
+314 
+´iv©e
+ 
+boŞ
+ 
+IsCÚùV®id
+(
+Ouook
+.
+CÚùI‹m
+ 
+cÚù
+)
+
+319 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+Ema1Add»ss
+))
+
+320  
+	gŒue
+;
+
+322 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+Ema2Add»ss
+))
+
+323  
+	gŒue
+;
+
+325 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+Ema3Add»ss
+))
+
+326  
+	gŒue
+;
+
+328 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+HomeT–•hÚeNumb”
+))
+
+329  
+	gŒue
+;
+
+331 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+BusšessT–•hÚeNumb”
+))
+
+332  
+	gŒue
+;
+
+334 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+MobeT–•hÚeNumb”
+))
+
+335  
+	gŒue
+;
+
+337 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+HomeAdd»ss
+))
+
+338  
+	gŒue
+;
+
+340 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+BusšessAdd»ss
+))
+
+341  
+	gŒue
+;
+
+343 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+Oth”Add»ss
+))
+
+344  
+	gŒue
+;
+
+346 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+cÚù
+.
+Body
+))
+
+347  
+	gŒue
+;
+
+349  
+	gçl£
+;
+
+352 
+public
+ 
+SyncCÚùs
+(
+SynüÚiz”
+ 
+sync
+)
+
+354 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m©ch
+ 
+š
+ 
+sync
+.
+CÚùs
+)
+
+356 
+SyncCÚù
+(
+m©ch
+, 
+sync
+);
+
+359 
+public
+ 
+SyncCÚù
+(
+CÚùM©ch
+ 
+m©ch
+, 
+SynüÚiz”
+ 
+sync
+)
+
+361 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ =ğ
+nuÎ
+ && 
+m©ch
+.
+OuookCÚù
+ !=‚ull)
+
+367 
+Ouook
+.
+U£rPrİ”ty
+ 
+idPrİ
+ = 
+m©ch
+.
+OuookCÚù
+.
+U£rPrİ”t›s
+[
+sync
+.
+OuookPrİ”tyNameId
+];
+
+368 ià(
+	gidPrİ
+ !ğ
+nuÎ
+ && (
+¡ršg
+)
+idPrİ
+.
+V®ue
+!="")
+
+370 
+AtomId
+ 
+id
+ = 
+Ãw
+ AtomId((
+¡ršg
+)
+idPrİ
+.
+V®ue
+);
+
+371 
+CÚùEÁry
+ 
+	gm©chšgGoogËCÚù
+ = 
+sync
+.
+GoogËCÚùs
+.
+FšdById
+(
+id
+è
+as
+ ContactEntry;
+
+372 ià(
+	gm©chšgGoogËCÚù
+ =ğ
+nuÎ
+)
+
+382 
+	gm©ch
+.
+	gGoogËCÚù
+ = 
+Ãw
+ 
+CÚùEÁry
+();
+
+384 
+	gCÚùSync
+.
+Upd©eCÚù
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+385 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+388 ià(
+	gm©ch
+.
+	gOuookCÚù
+ =ğ
+nuÎ
+ && 
+m©ch
+.
+GoogËCÚù
+ !=‚ull)
+
+391 
+¡ršg
+ 
+ouookId
+ = 
+CÚùPrİ”t›sUts
+.
+G‘GoogËOuookCÚùId
+(
+sync
+.
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+);
+
+392 ià(
+	gouookId
+ !ğ
+nuÎ
+)
+
+402 
+	gm©ch
+.
+	gOuookCÚù
+ = 
+sync
+.
+OuookAµliÿtiÚ
+.
+C»©eI‹m
+(
+Ouook
+.
+OlI‹mTy³
+.
+ŞCÚùI‹m
+è
+as
+ Ouook.
+CÚùI‹m
+;
+
+404 
+	gCÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+405 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+407 ià(
+	gm©ch
+.
+	gOuookCÚù
+ !ğ
+nuÎ
+ && 
+m©ch
+.
+GoogËCÚù
+ !=‚ull)
+
+413 ià(
+m©ch
+.
+AÎGoogËCÚùM©ches
+.
+CouÁ
+ > 1)
+
+416 
+m
+ = 1; 
+	gm
+ < 
+	gm©ch
+.
+	gAÎGoogËCÚùM©ches
+.
+	gCouÁ
+; m++)
+
+418 
+CÚùEÁry
+ 
+	g’Œy
+ = 
+m©ch
+.
+AÎGoogËCÚùM©ches
+[
+m
+];
+
+419 
+	gŒy
+
+
+421 
+	gOuook
+.
+CÚùI‹m
+ 
+	g™em
+ = 
+sync
+.
+OuookCÚùs
+.
+Fšd
+("[" + sync.
+OuookPrİ”tyNameId
+ + "] = \"" + 
+’Œy
+.
+Id
+.
+Uri
+.
+CÚ‹Á
+ + "\""è
+as
+ 
+Ouook
+.ContactItem;
+
+423 ià(
+	g™em
+ !ğ
+nuÎ
+)
+
+428 
+ÿtch
+ (
+Exû±iÚ
+)
+
+436 
+	gm
+ = 1; m < 
+	gm©ch
+.
+	gAÎGoogËCÚùM©ches
+.
+	gCouÁ
+; m++)
+
+438 
+	gm©ch
+.
+	gAÎGoogËCÚùM©ches
+[
+m
+].
+D–‘e
+();
+
+444 
+	gD©eTime
+? 
+	gÏ¡Synûd
+ = 
+G‘OuookPrİ”tyV®ueD©eTime
+(
+m©ch
+.
+OuookCÚù
+, 
+sync
+.
+OuookPrİ”tyNameSynûd
+);
+
+445 ià(
+	gÏ¡Synûd
+.
+	gHasV®ue
+)
+
+452 
+D©eTime
+ 
+	gÏ¡Upd©edOuook
+ = 
+m©ch
+.
+OuookCÚù
+.
+La¡ModifiÿtiÚTime
+.
+AddSecÚds
+(-m©ch.OuookCÚù.La¡ModifiÿtiÚTime.
+SecÚd
+);
+
+453 
+D©eTime
+ 
+	gÏ¡Upd©edGoogË
+ = 
+m©ch
+.
+GoogËCÚù
+.
+Upd©ed
+.
+AddSecÚds
+(-m©ch.GoogËCÚù.Upd©ed.
+SecÚd
+);
+
+456 ià(
+	gÏ¡Upd©edOuook
+.
+SubŒaù
+(
+Ï¡Synûd
+.
+V®ue
+).
+	gTÙ®SecÚds
+ >ğ
+TimeTŞ”ªû
+
+
+457 && 
+Ï¡Upd©edGoogË
+.
+SubŒaù
+(
+Ï¡Synûd
+.
+V®ue
+).
+TÙ®SecÚds
+ >ğ
+TimeTŞ”ªû
+)
+
+463 
+sync
+.
+SyncO±iÚ
+)
+
+465 
+SyncO±iÚ
+.
+M”geOuookWšs
+:
+
+467 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+468 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+470 
+	gSyncO±iÚ
+.
+	gM”geGoogËWšs
+:
+
+472 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+473 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+475 
+	gSyncO±iÚ
+.
+	gM”geProm±
+:
+
+477 
+CÚæiùResŞv”
+ 
+r
+ = 
+Ãw
+ ConflictResolver();
+
+478 
+CÚæiùResŞutiÚ
+ 
+	g»s
+ = 
+r
+.
+ResŞve
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+479 
+	g»s
+)
+
+481 
+	gCÚæiùResŞutiÚ
+.
+	gCªûl
+:
+
+483 
+	gCÚæiùResŞutiÚ
+.
+	gOuookWšs
+:
+
+485 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+486 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+488 
+	gCÚæiùResŞutiÚ
+.
+	gGoogËWšs
+:
+
+490 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+491 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+497 
+	gSyncO±iÚ
+.
+	gGoogËToOuookOÆy
+:
+
+498 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+499 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+501 
+	gSyncO±iÚ
+.
+	gOuookToGoogËOÆy
+:
+
+502 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+503 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+510 ià(
+	gÏ¡Upd©edOuook
+.
+SubŒaù
+(
+Ï¡Synûd
+.
+V®ue
+).
+	gTÙ®SecÚds
+ >ğ
+TimeTŞ”ªû
+)
+
+515 ià(
+sync
+.
+SyncO±iÚ
+ !ğSyncO±iÚ.
+GoogËToOuookOÆy
+)
+
+518 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+519 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+528 ià(
+	gÏ¡Upd©edGoogË
+.
+SubŒaù
+(
+Ï¡Synûd
+.
+V®ue
+).
+	gTÙ®SecÚds
+ >ğ
+TimeTŞ”ªû
+)
+
+532 ià(
+sync
+.
+SyncO±iÚ
+ !ğSyncO±iÚ.
+OuookToGoogËOÆy
+)
+
+534 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+535 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+543 
+	gsync
+.
+	gSyncO±iÚ
+)
+
+545 
+	gSyncO±iÚ
+.
+	gM”geOuookWšs
+:
+
+547 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+548 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+550 
+	gSyncO±iÚ
+.
+	gM”geGoogËWšs
+:
+
+552 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+553 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+555 
+	gSyncO±iÚ
+.
+	gM”geProm±
+:
+
+557 
+CÚæiùResŞv”
+ 
+r
+ = 
+Ãw
+ ConflictResolver();
+
+558 
+CÚæiùResŞutiÚ
+ 
+	g»s
+ = 
+r
+.
+ResŞve
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+559 
+	g»s
+)
+
+561 
+	gCÚæiùResŞutiÚ
+.
+	gCªûl
+:
+
+563 
+	gCÚæiùResŞutiÚ
+.
+	gOuookWšs
+:
+
+564 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+565 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+567 
+	gCÚæiùResŞutiÚ
+.
+	gGoogËWšs
+:
+
+568 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+569 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+575 
+	gSyncO±iÚ
+.
+	gGoogËToOuookOÆy
+:
+
+576 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+577 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+579 
+	gSyncO±iÚ
+.
+	gOuookToGoogËOÆy
+:
+
+580 
+CÚùSync
+.
+M”geCÚùs
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+581 
+	gsync
+.
+Ov”wr™eCÚùGroups
+(
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+588 
+throw
+ 
+Ãw
+ 
+Argum’tNuÎExû±iÚ
+("ContactMatch has‡ll…eers‚ull.");
+
+591 
+´iv©e
+ 
+PhÚeNumb”
+ 
+FšdPhÚe
+(
+¡ršg
+ 
+numb”
+, 
+PhÚ’umb”CŞËùiÚ
+ 
+phÚes
+)
+
+593 ià(
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+numb”
+))
+
+594  
+	gnuÎ
+;
+
+596 
+fÜ—ch
+ (
+PhÚeNumb”
+ 
+phÚe
+ 
+š
+ 
+phÚes
+)
+
+598 ià(
+	gphÚe
+.
+	gV®ue
+.
+Equ®s
+(
+numb”
+, 
+SŒšgCom·risÚ
+.
+Inv¬ŸÁCuÉu»IgnÜeCa£
+))
+
+600  
+	gphÚe
+;
+
+604  
+	gnuÎ
+;
+
+607 
+´iv©e
+ 
+EMa
+ 
+FšdEma
+(
+¡ršg
+ 
+add»ss
+, 
+EMaCŞËùiÚ
+ 
+emas
+)
+
+609 ià(
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+add»ss
+))
+
+610  
+	gnuÎ
+;
+
+612 
+fÜ—ch
+ (
+EMa
+ 
+ema
+ 
+š
+ 
+emas
+)
+
+614 ià(
+	gadd»ss
+.
+Equ®s
+(
+ema
+.
+Add»ss
+, 
+SŒšgCom·risÚ
+.
+Inv¬ŸÁCuÉu»IgnÜeCa£
+))
+
+616  
+	gema
+;
+
+620  
+	gnuÎ
+;
+
+623 
+public
+ 
+	gD©eTime
+? 
+G‘OuookPrİ”tyV®ueD©eTime
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+¡ršg
+ 
+´İ”tyName
+)
+
+625 
+	gOuook
+.
+U£rPrİ”ty
+ 
+	g´İ
+ = 
+ouookCÚù
+.
+U£rPrİ”t›s
+[
+´İ”tyName
+];
+
+626 ià(
+	g´İ
+ !ğ
+nuÎ
+)
+
+627  (
+D©eTime
+)
+´İ
+.
+V®ue
+;
+
+628  
+	gnuÎ
+;
+
+635 
+public
+ 
+SyncGroups
+(
+SynüÚiz”
+ 
+sync
+)
+
+637 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m©ch
+ 
+š
+ 
+sync
+.
+CÚùs
+)
+
+639 ià(
+	gm©ch
+.
+	gOuookCÚù
+ !ğ
+nuÎ
+ && !
+¡ršg
+.
+IsNuÎOrEm±y
+(
+m©ch
+.
+OuookCÚù
+.
+C©egÜ›s
+))
+
+641 
+¡ršg
+[] 
+ÿts
+ = 
+Ut™›s
+.
+G‘OuookGroups
+(
+m©ch
+.
+OuookCÚù
+);
+
+642 
+GroupEÁry
+ 
+	gg
+;
+
+643 
+fÜ—ch
+ (
+¡ršg
+ 
+ÿt
+ 
+š
+ 
+ÿts
+)
+
+645 
+	gg
+ = 
+sync
+.
+G‘GoogËGroupByName
+(
+ÿt
+);
+
+646 ià(
+	gg
+ =ğ
+nuÎ
+)
+
+649 ià(
+g
+ =ğ
+nuÎ
+)
+
+651 
+g
+ = 
+sync
+.
+C»©eGroup
+(
+ÿt
+);
+
+652 
+	gg
+ = 
+sync
+.
+SaveGoogËGroup
+(
+g
+);
+
+653 
+	gsync
+.
+	gGoogËGroups
+.
+Add
+(
+g
+);
+
+662 
+š‹º®
+ 
+şass
+ 
+	gCÚùM©chLi¡
+ : 
+Li¡
+<
+CÚùM©ch
+>
+
+664 
+public
+ 
+CÚùM©chLi¡
+(
+ÿ·c™y
+è: 
+ba£
+(capacity) { }
+
+667 
+š‹º®
+ cÏs 
+	cCÚùM©ch
+
+
+669 
+public
+ 
+Ouook
+.
+CÚùI‹m
+ 
+OuookCÚù
+;
+
+670 
+public
+ 
+CÚùEÁry
+ 
+	gGoogËCÚù
+;
+
+671 
+public
+ 
+»adÚly
+ 
+	gLi¡
+<
+	gCÚùEÁry
+> 
+	gAÎGoogËCÚùM©ches
+ = 
+Ãw
+ 
+Li¡
+<
+CÚùEÁry
+>(1);
+
+672 
+public
+ 
+CÚùEÁry
+ 
+	gLa¡GoogËCÚù
+;
+
+674 
+public
+ 
+CÚùM©ch
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+676 
+	gOuookCÚù
+ = 
+ouookCÚù
+;
+
+677 
+	gGoogËCÚù
+ = 
+googËCÚù
+;
+
+680 
+public
+ 
+AddGoogËCÚù
+(
+CÚùEÁry
+ 
+googËCÚù
+)
+
+682 ià(
+	ggoogËCÚù
+ =ğ
+nuÎ
+)
+
+686 ià(
+	gGoogËCÚù
+ =ğ
+nuÎ
+)
+
+687 
+GoogËCÚù
+ = 
+googËCÚù
+;
+
+691 ià(
+	gLa¡GoogËCÚù
+ =ğ
+googËCÚù
+)
+
+694 ià(!
+	gAÎGoogËCÚùM©ches
+.
+CÚšs
+(
+googËCÚù
+))
+
+695 
+	gAÎGoogËCÚùM©ches
+.
+Add
+(
+googËCÚù
+);
+
+697 
+	gLa¡GoogËCÚù
+ = 
+googËCÚù
+;
+
+700 
+public
+ 
+D–‘e
+()
+
+702 ià(
+	gGoogËCÚù
+ !ğ
+nuÎ
+)
+
+703 
+GoogËCÚù
+.
+D–‘e
+();
+
+704 ià(
+	gOuookCÚù
+ !ğ
+nuÎ
+)
+
+705 
+OuookCÚù
+.
+D–‘e
+();
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DeleteDuplicatesForm.Designer.cs
+
+1 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+3 
+·¹Ÿl
+ cÏs 
+	cD–‘eDu¶iÿ‹sFÜm
+
+
+8 
+´iv©e
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+ICÚš”
+ 
+	gcompÚ’ts
+ = 
+nuÎ
+;
+
+14 
+´Ùeùed
+ 
+ov”ride
+ 
+Di¥o£
+(
+boŞ
+ 
+di¥osšg
+)
+
+16 ià(
+	gdi¥osšg
+ && (
+	gcompÚ’ts
+ !ğ
+nuÎ
+))
+
+18 
+compÚ’ts
+.
+Di¥o£
+();
+
+20 
+	gba£
+.
+Di¥o£
+(
+di¥osšg
+);
+
+23 #»giÚ 
+Wšdows
+ 
+FÜm
+ 
+DesigÃr
+ 
+g’”©ed
+ 
+code
+
+
+29 
+´iv©e
+ 
+In™ŸlizeCompÚ’t
+()
+
+31 
+	gthis
+.
+	gæowLayoutPª–
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FlowLayoutPª–
+();
+
+32 
+	gthis
+.
+Su¥’dLayout
+();
+
+36 
+	gthis
+.
+	gæowLayoutPª–
+.
+	gDock
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+DockStyË
+.
+Fl
+;
+
+37 
+	gthis
+.
+	gæowLayoutPª–
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(0, 0);
+
+38 
+	gthis
+.
+	gæowLayoutPª–
+.
+	gName
+ = "flowLayoutPanel";
+
+39 
+	gthis
+.
+	gæowLayoutPª–
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(308, 384);
+
+40 
+	gthis
+.
+	gæowLayoutPª–
+.
+	gTabIndex
+ = 0;
+
+44 
+	gthis
+.
+	gAutoSÿËDim’siÚs
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+SizeF
+(6F, 13F);
+
+45 
+	gthis
+.
+	gAutoSÿËMode
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AutoSÿËMode
+.
+FÚt
+;
+
+46 
+	gthis
+.
+	gCl›ÁSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(308, 384);
+
+47 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+æowLayoutPª–
+);
+
+48 
+	gthis
+.
+	gFÜmBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmBÜd”StyË
+.
+SizabËToŞWšdow
+;
+
+49 
+	gthis
+.
+	gName
+ = "DeleteDuplicatesForm";
+
+50 
+	gthis
+.
+	gText
+ = "Delete Duplicates Utility";
+
+51 
+	gthis
+.
+ResumeLayout
+(
+çl£
+);
+
+57 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+FlowLayoutPª–
+ 
+	gæowLayoutPª–
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DeleteDuplicatesForm.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD©a
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+8 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gObjeùMod–
+;
+
+11 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+13 
+public
+ 
+·¹Ÿl
+ cÏs 
+	cD–‘eDu¶iÿ‹sFÜm
+ : 
+FÜm
+
+
+15 
+´iv©e
+ 
+CŞËùiÚ
+<
+CÚùP»v›w
+> 
+´ev›ws
+;
+
+17 
+public
+ 
+D–‘eDu¶iÿ‹sFÜm
+(
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+> 
+ouookCÚùs
+)
+
+19 
+In™ŸlizeCompÚ’t
+();
+
+20 
+	g´ev›ws
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+CÚùP»v›w
+>();
+
+21 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	gdu¶iÿ‹s
+ = 
+FšdDu¶iÿ‹s
+(
+ouookCÚùs
+);
+
+23 
+fÜ—ch
+ (
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+ 
+š
+ 
+du¶iÿ‹s
+)
+
+25 
+CÚùP»v›w
+ 
+	g´ev›w
+ = 
+Ãw
+ CÚùP»v›w(
+ouookCÚù
+);
+
+26 
+	g´ev›w
+.
+	gP¬’t
+ = 
+æowLayoutPª–
+;
+
+27 
+	g´ev›ws
+.
+Add
+(
+´ev›w
+);
+
+31 
+´iv©e
+ 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+FšdDu¶iÿ‹s
+(
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+> 
+ouookCÚùs
+)
+
+34  
+	gnuÎ
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DuplicateDataException.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+5 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+8 [
+glob®
+::
+Sy¡em
+.
+S”ŸlizabË
+]
+
+9 
+public
+ cÏs 
+	cDu¶iÿ‹D©aExû±iÚ
+ : 
+Exû±iÚ
+
+
+18 
+public
+ 
+Du¶iÿ‹D©aExû±iÚ
+(è: 
+ba£
+() { }
+
+19 
+public
+ 
+Du¶iÿ‹D©aExû±iÚ
+(
+¡ršg
+ 
+mes§ge
+è: 
+ba£
+(message) { }
+
+20 
+public
+ 
+Du¶iÿ‹D©aExû±iÚ
+(
+¡ršg
+ 
+mes§ge
+, 
+Exû±iÚ
+ 
+šÃr
+è: 
+ba£
+(message, inner) { }
+
+21 
+´Ùeùed
+ 
+Du¶iÿ‹D©aExû±iÚ
+(
+
+22 
+Sy¡em
+.
+RuÁime
+.
+S”Ÿliz©iÚ
+.
+S”Ÿliz©iÚInfo
+ 
+šfo
+,
+
+23 
+Sy¡em
+.
+RuÁime
+.
+S”Ÿliz©iÚ
+.
+SŒ—mšgCÚ‹xt
+ 
+cÚ‹xt
+)
+
+24 : 
+ba£
+(
+šfo
+, 
+cÚ‹xt
+) { }
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Encryption.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gIO
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gSecur™y
+.
+	gCry±og¿phy
+;
+
+7 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+10 
+š‹º®
+ 
+·¹Ÿl
+ cÏs 
+	cEnüy±iÚ
+
+
+12 
+´iv©e
+ 
+	gby‹
+[] 
+G‘Key
+(
+¡ršg
+ 
+ema
+)
+
+14 
+ASCIIEncodšg
+ 
+	g’c
+ = 
+Ãw
+ ASCIIEncoding();
+
+16 
+SHA256
+ 
+	gshaM
+ = 
+Ãw
+ 
+SHA256Mªaged
+();
+
+18  
+	gshaM
+.
+Compu‹Hash
+(
+’c
+.
+G‘By‹s
+(
+ema
+));
+
+21 
+´iv©e
+ 
+	gby‹
+[] 
+G‘IV
+(
+¡ršg
+ 
+ema
+)
+
+23 
+ASCIIEncodšg
+ 
+	g’c
+ = 
+Ãw
+ ASCIIEncoding();
+
+25 
+MD5
+ 
+	gmd5
+ = MD5.
+C»©e
+();
+
+27  
+	gmd5
+.
+Compu‹Hash
+(
+’c
+.
+G‘By‹s
+(
+ema
+));
+
+30 
+public
+ 
+¡ršg
+ 
+Deüy±PasswÜd
+(¡ršg 
+ema
+, sŒšg 
+’üy±edPasswÜd
+)
+
+32 
+	gŒy
+
+
+34 
+Rijnd«lMªaged
+ 
+	grijnd«l
+ = 
+Ãw
+ RijndaelManaged();
+
+36 
+	grijnd«l
+.
+	gIV
+ = 
+G‘IV
+(
+ema
+);
+
+37 
+	grijnd«l
+.
+	gKey
+ = 
+G‘Key
+(
+ema
+);
+
+39 
+ICry±oT¿nsfÜm
+ 
+	gdeüy±Ü
+ = 
+rijnd«l
+.
+C»©eDeüy±Ü
+Ôijnd«l.
+Key
+,„ijnd«l.
+IV
+);
+
+42 
+	gby‹
+[] 
+	g’üy±ed
+ = 
+HexEncodšg
+.
+G‘By‹s
+(
+’üy±edPasswÜd
+);
+
+43 
+MemÜySŒ—m
+ 
+	gmsDeüy±
+ = 
+Ãw
+ MemÜySŒ—m(
+’üy±ed
+);
+
+44 
+Cry±oSŒ—m
+ 
+	gcsDeüy±
+ = 
+Ãw
+ Cry±oSŒ—m(
+msDeüy±
+, 
+deüy±Ü
+, 
+Cry±oSŒ—mMode
+.
+R—d
+);
+
+47 
+	gby‹
+[] 
+	gäomEnüy±
+ = 
+R—dFuÎy
+(
+csDeüy±
+);
+
+55 
+¡ršg
+ 
+	g»suÉ
+ = 
+Ãw
+ 
+ASCIIEncodšg
+().
+G‘SŒšg
+(
+äomEnüy±
+);
+
+56  
+	g»suÉ
+;
+
+58 
+ÿtch
+ (
+Exû±iÚ
+ 
+e
+)
+
+60 
+throw
+ 
+Ãw
+ 
+PasswÜdEnüy±iÚExû±iÚ
+("E¼Ü deüy±iÚ…asswÜd", 
+e
+);
+
+63 
+public
+ 
+¡ršg
+ 
+Enüy±PasswÜd
+(¡ršg 
+ema
+, sŒšg 
+·sswÜd
+)
+
+65 
+Rijnd«lMªaged
+ 
+	grijnd«l
+ = 
+Ãw
+ RijndaelManaged();
+
+67 
+	grijnd«l
+.
+	gIV
+ = 
+G‘IV
+(
+ema
+);
+
+68 
+	grijnd«l
+.
+	gKey
+ = 
+G‘Key
+(
+ema
+);
+
+70 
+ICry±oT¿nsfÜm
+ 
+	g’üy±Ü
+ = 
+rijnd«l
+.
+C»©eEnüy±Ü
+Ôijnd«l.
+Key
+,„ijnd«l.
+IV
+);
+
+72 
+	gby‹
+[] 
+	gtoEnüy±
+ = 
+Ãw
+ 
+ASCIIEncodšg
+().
+G‘By‹s
+(
+·sswÜd
+);
+
+75 
+MemÜySŒ—m
+ 
+	gmsEnüy±
+ = 
+Ãw
+ MemoryStream();
+
+76 
+Cry±oSŒ—m
+ 
+	gcsEnüy±
+ = 
+Ãw
+ Cry±oSŒ—m(
+msEnüy±
+, 
+’üy±Ü
+, 
+Cry±oSŒ—mMode
+.
+Wr™e
+);
+
+85 
+	gcsEnüy±
+.
+Wr™e
+(
+toEnüy±
+, 0,oEnüy±.
+L’gth
+);
+
+86 
+	gcsEnüy±
+.
+FlushFš®Block
+();
+
+89  
+	gHexEncodšg
+.
+ToSŒšg
+(
+msEnüy±
+.
+ToA¼ay
+());
+
+91 
+public
+ 
+	gby‹
+[] 
+R—dFuÎy
+(
+SŒ—m
+ 
+¡»am
+)
+
+93 
+	gby‹
+[] 
+	gbufãr
+ = 
+Ãw
+ 
+by‹
+[32768];
+
+94 
+usšg
+ (
+MemÜySŒ—m
+ 
+ms
+ = 
+Ãw
+ MemoryStream())
+
+96 
+Œue
+)
+
+98 
+»ad
+ = 
+¡»am
+.
+R—d
+(
+bufãr
+, 0, bufãr.
+L’gth
+);
+
+99 ià(
+	g»ad
+ <= 0)
+
+100  
+ms
+.
+ToA¼ay
+();
+
+101 
+	gms
+.
+Wr™e
+(
+bufãr
+, 0, 
+»ad
+);
+
+107 
+š‹º®
+ cÏs 
+	cPasswÜdEnüy±iÚExû±iÚ
+ : 
+Exû±iÚ
+
+
+109 
+public
+ 
+PasswÜdEnüy±iÚExû±iÚ
+(è: 
+ba£
+() { }
+
+110 
+public
+ 
+PasswÜdEnüy±iÚExû±iÚ
+(
+¡ršg
+ 
+mes§ge
+è: 
+ba£
+(message) { }
+
+111 
+public
+ 
+PasswÜdEnüy±iÚExû±iÚ
+(
+¡ršg
+ 
+mes§ge
+, 
+Exû±iÚ
+ 
+šÃrExû±iÚ
+è: 
+ba£
+(message, innerException) { }
+
+117 
+š‹º®
+ cÏs 
+	cHexEncodšg
+
+
+119 
+public
+ 
+HexEncodšg
+()
+
+125 
+public
+ 
+G‘By‹CouÁ
+(
+¡ršg
+ 
+hexSŒšg
+)
+
+127 
+	gnumHexCh¬s
+ = 0;
+
+128 
+	gc
+;
+
+130 
+	gi
+ = 0; i < 
+	ghexSŒšg
+.
+	gL’gth
+; i++)
+
+132 
+	gc
+ = 
+hexSŒšg
+[
+i
+];
+
+133 ià(
+IsHexDig™
+(
+c
+))
+
+134 
+	gnumHexCh¬s
+++;
+
+137 ià(
+	gnumHexCh¬s
+ % 2 != 0)
+
+139 
+numHexCh¬s
+--;
+
+141  
+	gnumHexCh¬s
+ / 2;
+
+152 
+public
+ 
+	gby‹
+[] 
+G‘By‹s
+(
+¡ršg
+ 
+hexSŒšg
+)
+
+154 
+	gdisÿrded
+;
+
+155  
+G‘By‹s
+(
+hexSŒšg
+, 
+out
+ 
+disÿrded
+);
+
+166 
+public
+ 
+	gby‹
+[] 
+G‘By‹s
+(
+¡ršg
+ 
+hexSŒšg
+, 
+out
+ 
+disÿrded
+)
+
+168 
+	gdisÿrded
+ = 0;
+
+169 
+¡ršg
+ 
+	gÃwSŒšg
+ = "";
+
+170 
+	gc
+;
+
+172 
+	gi
+ = 0; i < 
+	ghexSŒšg
+.
+	gL’gth
+; i++)
+
+174 
+	gc
+ = 
+hexSŒšg
+[
+i
+];
+
+175 ià(
+IsHexDig™
+(
+c
+))
+
+176 
+	gÃwSŒšg
+ +ğ
+c
+;
+
+178 
+	gdisÿrded
+++;
+
+181 ià(
+	gÃwSŒšg
+.
+	gL’gth
+ % 2 != 0)
+
+183 
+disÿrded
+++;
+
+184 
+	gÃwSŒšg
+ = 
+ÃwSŒšg
+.
+Sub¡ršg
+(0,‚ewSŒšg.
+L’gth
+ - 1);
+
+187 
+	gby‹L’gth
+ = 
+ÃwSŒšg
+.
+L’gth
+ / 2;
+
+188 
+	gby‹
+[] 
+	gby‹s
+ = 
+Ãw
+ 
+by‹
+[
+by‹L’gth
+];
+
+189 
+¡ršg
+ 
+	ghex
+;
+
+190 
+	gj
+ = 0;
+
+191 
+	gi
+ = 0; i < 
+	gby‹s
+.
+	gL’gth
+; i++)
+
+193 
+	ghex
+ = 
+Ãw
+ 
+SŒšg
+Òew 
+Ch¬
+[] { 
+ÃwSŒšg
+[
+j
+],‚ewString[j + 1] });
+
+194 
+	gby‹s
+[
+i
+] = 
+HexToBy‹
+(
+hex
+);
+
+195 
+	gj
+ = 
+j
+ + 2;
+
+197  
+	gby‹s
+;
+
+200 
+public
+ 
+¡ršg
+ 
+ToSŒšg
+(
+by‹
+[] 
+by‹s
+)
+
+202 
+¡ršg
+ 
+	ghexSŒšg
+ = "";
+
+203 
+	gi
+ = 0; i < 
+	gby‹s
+.
+	gL’gth
+; i++)
+
+205 
+	ghexSŒšg
+ +ğ
+by‹s
+[
+i
+].
+ToSŒšg
+("X2");
+
+207  
+	ghexSŒšg
+;
+
+215 
+public
+ 
+boŞ
+ 
+InHexFÜm©
+(
+¡ršg
+ 
+hexSŒšg
+)
+
+217 
+boŞ
+ 
+	ghexFÜm©
+ = 
+Œue
+;
+
+219 
+fÜ—ch
+ (
+dig™
+ 
+š
+ 
+hexSŒšg
+)
+
+221 ià(!
+IsHexDig™
+(
+dig™
+))
+
+223 
+	ghexFÜm©
+ = 
+çl£
+;
+
+227  
+	ghexFÜm©
+;
+
+235 
+public
+ 
+boŞ
+ 
+IsHexDig™
+(
+Ch¬
+ 
+c
+)
+
+237 
+	gnumCh¬
+;
+
+238 
+	gnumA
+ = 
+CÚv”t
+.
+ToIÁ32
+('A');
+
+239 
+	gnum1
+ = 
+CÚv”t
+.
+ToIÁ32
+('0');
+
+240 
+	gc
+ = 
+Ch¬
+.
+ToUµ”
+(
+c
+);
+
+241 
+	gnumCh¬
+ = 
+CÚv”t
+.
+ToIÁ32
+(
+c
+);
+
+242 ià(
+	gnumCh¬
+ >ğ
+numA
+ && 
+numCh¬
+ < (numA + 6))
+
+243  
+Œue
+;
+
+244 ià(
+	gnumCh¬
+ >ğ
+num1
+ && 
+numCh¬
+ < (num1 + 10))
+
+245  
+Œue
+;
+
+246  
+	gçl£
+;
+
+253 
+´iv©e
+ 
+by‹
+ 
+HexToBy‹
+(
+¡ršg
+ 
+hex
+)
+
+255 ià(
+	ghex
+.
+	gL’gth
+ > 2 || hex.Length <= 0)
+
+256 
+throw
+ 
+Ãw
+ 
+Argum’tExû±iÚ
+("hex must be 1 or 2 characters in†ength");
+
+257 
+by‹
+ 
+	gÃwBy‹
+ = by‹.
+P¬£
+(
+hex
+, 
+Sy¡em
+.
+Glob®iz©iÚ
+.
+Numb”StyËs
+.
+HexNumb”
+);
+
+258  
+	gÃwBy‹
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\IConflictResolver.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+5 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCl›Á
+;
+
+6 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+;
+
+7 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+11 
+š‹º®
+ 
+š‹rçû
+ 
+	gICÚæiùResŞv”
+
+
+19 
+CÚæiùResŞutiÚ
+ 
+ResŞve
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+CÚùEÁry
+ 
+googËCÚù
+);
+
+22 
+š‹º®
+ 
+	eCÚæiùResŞutiÚ
+
+
+24 
+	gCªûl
+,
+
+25 
+	gOuookWšs
+,
+
+26 
+	gGoogËWšs
+,
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ILogger.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+5 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+7 
+š‹º®
+ 
+š‹rçû
+ 
+	gILogg”
+
+
+9 
+Log
+(
+¡ršg
+ 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+);
+
+11 
+CË¬Log
+();
+
+13 
+LogUnique
+(
+¡ršg
+ 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+);
+
+16 
+š‹º®
+ 
+	eEv’tTy³
+
+
+18 
+	gInfÜm©iÚ
+,
+
+19 
+	gW¬nšg
+,
+
+20 
+	gE¼Ü
+
+
+23 
+š‹º®
+ cÏs 
+	cLogg”
+ : 
+ILogg”
+
+
+25 
+public
+ 
+¡ršg
+ 
+mes§ges
+;
+
+27 
+public
+ 
+Logg”
+() { }
+
+29 #»giÚ 
+ILogg”
+ 
+Memb”s
+
+
+31 
+public
+ 
+Log
+(
+¡ršg
+ 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+)
+
+33 
+	gmes§ge
+ = 
+D©eTime
+.
+Now
+ + " " + 
+ev’tTy³
+ + ": " + 
+mes§ge
+;
+
+34 
+	gmes§ges
+ +ğ
+mes§ge
+ + 
+EnvœÚm’t
+.
+NewLše
+;
+
+37 
+public
+ 
+LogUnique
+(
+¡ršg
+ 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+)
+
+39 ià(!
+	gmes§ges
+.
+CÚšs
+(
+ev’tTy³
+ + ": " + 
+mes§ge
+))
+
+41 
+	gmes§ge
+ = 
+D©eTime
+.
+Now
+ + " " + 
+ev’tTy³
+ + ": " + 
+mes§ge
+;
+
+42 
+	gmes§ges
+ +ğ
+mes§ge
+ + 
+EnvœÚm’t
+.
+NewLše
+;
+
+46 
+public
+ 
+CË¬Log
+()
+
+48 
+	gmes§ges
+ = "";
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Program.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+5 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+7 şas 
+	cProg¿m
+
+
+12 [
+STATh»ad
+]
+
+13 
+Maš
+()
+
+15 
+	gAµliÿtiÚ
+.
+EÇbËVisu®StyËs
+();
+
+16 
+	gAµliÿtiÚ
+.
+S‘Com·tibËTextR’d”šgDeçuÉ
+(
+çl£
+);
+
+17 
+	gAµliÿtiÚ
+.
+Run
+(
+Ãw
+ 
+S‘tšgsFÜm
+());
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\AssemblyInfo.cs
+
+1 ï»¿
+usšg
+ 
+	gSy¡em
+.
+	gReæeùiÚ
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gRuÁime
+.
+	gComp”S”viûs
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gRuÁime
+.
+	gIÁ”İS”viûs
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gResourûs
+;
+
+9 [
+as£mbly
+: 
+As£mblyT™Ë
+("GO Contact Sync")]
+
+10 [
+as£mbly
+: 
+As£mblyDesütiÚ
+("Synchronize your Outlook‡nd Google contacts")]
+
+11 [
+as£mbly
+: 
+As£mblyCÚfigu¿tiÚ
+("")]
+
+12 [
+as£mbly
+: 
+As£mblyCom·ny
+("WebGear Ltd, New Zealand")]
+
+13 [
+as£mbly
+: 
+As£mblyProduù
+("GO Contact Sync")]
+
+14 [
+as£mbly
+: 
+As£mblyCİyright
+("Copyright Â© Mikhail Diatchenko 2009, Â© WebGear Ltd, New Zealand 2009")]
+
+15 [
+as£mbly
+: 
+As£mblyT¿dem¬k
+("")]
+
+16 [
+as£mbly
+: 
+As£mblyCuÉu»
+("")]
+
+22 [
+as£mbly
+: 
+ComVisibË
+(
+çl£
+)]
+
+25 [
+as£mbly
+: 
+Guid
+("acbbbc09-f76c-4874-aaff-4f3353a5a5a6")]
+
+34 [
+as£mbly
+: 
+As£mblyV”siÚ
+("1.0.0.3")]
+
+35 [
+as£mbly
+: 
+As£mblyFeV”siÚ
+("1.0.0.3")]
+
+36 [
+as£mbly
+: 
+NeuŒ®ResourûsLªguageA‰ribu‹
+("en-NZ")]
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\Resources.Designer.cs
+
+11 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+.
+	gPrİ”t›s
+ {
+
+12 
+usšg
+ 
+	gSy¡em
+;
+
+22 [
+glob®
+::
+Sy¡em
+.
+CodeDom
+.
+Comp”
+.
+G’”©edCodeA‰ribu‹
+("System.Resources.Tools.StronglyTypedResourceBuilder", "2.0.0.0")]
+
+23 [
+glob®
+::
+Sy¡em
+.
+DŸgno¡ics
+.
+Debugg”NÚU£rCodeA‰ribu‹
+()]
+
+24 [
+glob®
+::
+Sy¡em
+.
+RuÁime
+.
+Comp”S”viûs
+.
+Comp”G’”©edA‰ribu‹
+()]
+
+25 
+š‹º®
+ cÏs 
+	cResourûs
+ {
+
+27 
+´iv©e
+ 
+glob®
+::
+Sy¡em
+.
+Resourûs
+.
+ResourûMªag”
+ 
+»sourûMª
+;
+
+29 
+´iv©e
+ 
+	gglob®
+::
+Sy¡em
+.
+Glob®iz©iÚ
+.
+CuÉu»Info
+ 
+»sourûCuÉu»
+;
+
+31 [
+glob®
+::
+Sy¡em
+.
+DŸgno¡ics
+.
+CodeAÇlysis
+.
+Suµ»ssMes§geA‰ribu‹
+("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+
+32 
+š‹º®
+ 
+Resourûs
+() {
+
+38 [
+glob®
+::
+Sy¡em
+.
+CompÚ’tMod–
+.
+Ed™ÜBrow§bËA‰ribu‹
+(glob®::Sy¡em.CompÚ’tMod–.
+Ed™ÜBrow§bËS‹
+.
+Advªûd
+)]
+
+39 
+š‹º®
+ 
+glob®
+::
+Sy¡em
+.
+Resourûs
+.
+ResourûMªag”
+ ResourceManager {
+
+40 
+g‘
+ {
+
+41 ià(
+objeù
+.
+Reã»nûEqu®s
+(
+»sourûMª
+, 
+nuÎ
+)) {
+
+42 
+	gglob®
+::
+Sy¡em
+.
+Resourûs
+.
+ResourûMªag”
+ 
+‹mp
+ = 
+Ãw
+ 
+glob®
+::Sy¡em.Resourûs.ResourûMªag”("WebG—r.GoogËCÚùsSync.Prİ”t›s.Resourûs", 
+ty³of
+(Resourûs).
+As£mbly
+);
+
+43 
+	g»sourûMª
+ = 
+‹mp
+;
+
+45  
+	g»sourûMª
+;
+
+53 [
+glob®
+::
+Sy¡em
+.
+CompÚ’tMod–
+.
+Ed™ÜBrow§bËA‰ribu‹
+(glob®::Sy¡em.CompÚ’tMod–.
+Ed™ÜBrow§bËS‹
+.
+Advªûd
+)]
+
+54 
+š‹º®
+ 
+glob®
+::
+Sy¡em
+.
+Glob®iz©iÚ
+.
+CuÉu»Info
+ 
+CuÉu»
+ {
+
+55 
+g‘
+ {
+
+56  
+»sourûCuÉu»
+;
+
+58 
+	g£t
+ {
+
+59 
+	g»sourûCuÉu»
+ = 
+v®ue
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\Settings.Designer.cs
+
+11 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+.
+	gPrİ”t›s
+ {
+
+14 [
+glob®
+::
+Sy¡em
+.
+RuÁime
+.
+Comp”S”viûs
+.
+Comp”G’”©edA‰ribu‹
+()]
+
+15 [
+glob®
+::
+Sy¡em
+.
+CodeDom
+.
+Comp”
+.
+G’”©edCodeA‰ribu‹
+("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "8.0.0.0")]
+
+16 
+š‹º®
+ 
+£®ed
+ 
+·¹Ÿl
+ 
+şass
+ 
+	gS‘tšgs
+ : 
+glob®
+::
+Sy¡em
+.
+CÚfigu¿tiÚ
+.
+AµliÿtiÚS‘tšgsBa£
+ {
+
+18 
+´iv©e
+ 
+S‘tšgs
+ 
+deçuÉIn¡ªû
+ = ((S‘tšgs)(
+glob®
+::
+Sy¡em
+.
+CÚfigu¿tiÚ
+.
+AµliÿtiÚS‘tšgsBa£
+.
+SynchrÚized
+(
+Ãw
+ Settings())));
+
+20 
+public
+ 
+S‘tšgs
+ 
+	gDeçuÉ
+ {
+
+21 
+	gg‘
+ {
+
+22  
+	gdeçuÉIn¡ªû
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\SettingsForm.Designer.cs
+
+1 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+3 
+·¹Ÿl
+ cÏs 
+	cS‘tšgsFÜm
+
+
+8 
+´iv©e
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+ICÚš”
+ 
+	gcompÚ’ts
+ = 
+nuÎ
+;
+
+14 
+´Ùeùed
+ 
+ov”ride
+ 
+Di¥o£
+(
+boŞ
+ 
+di¥osšg
+)
+
+16 ià(
+	gdi¥osšg
+ && (
+	gcompÚ’ts
+ !ğ
+nuÎ
+))
+
+18 
+compÚ’ts
+.
+Di¥o£
+();
+
+20 
+	gba£
+.
+Di¥o£
+(
+di¥osšg
+);
+
+23 #»giÚ 
+Wšdows
+ 
+FÜm
+ 
+DesigÃr
+ 
+g’”©ed
+ 
+code
+
+
+29 
+´iv©e
+ 
+In™ŸlizeCompÚ’t
+()
+
+31 
+	gthis
+.
+	gcompÚ’ts
+ = 
+Ãw
+ 
+Sy¡em
+.
+CompÚ’tMod–
+.
+CÚš”
+();
+
+32 
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+CompÚ’tResourûMªag”
+ 
+	g»sourûs
+ = 
+Ãw
+ 
+Sy¡em
+.
+CompÚ’tMod–
+.CompÚ’tResourûMªag”(
+ty³of
+(
+S‘tšgsFÜm
+));
+
+33 
+	gthis
+.
+	gPasswÜd
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+TextBox
+();
+
+34 
+	gthis
+.
+	gU£rName
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+TextBox
+();
+
+35 
+	gthis
+.
+	gÏb–3
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+36 
+	gthis
+.
+	gÏb–2
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+37 
+	gthis
+.
+	gsyncBu‰Ú
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+38 
+	gthis
+.
+	gsyncO±iÚBox
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+CheckedLi¡Box
+();
+
+39 
+	gthis
+.
+	gnÙifyIcÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+NÙifyIcÚ
+(
+this
+.
+compÚ’ts
+);
+
+40 
+	gthis
+.
+	gsy¡emT¿yM’u
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+CÚ‹xtM’uSŒ
+(
+this
+.
+compÚ’ts
+);
+
+41 
+	gthis
+.
+	gtoŞSŒM’uI‹m4
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒM’uI‹m
+();
+
+42 
+	gthis
+.
+	gtoŞSŒS•¬©Ü2
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒS•¬©Ü
+();
+
+43 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒM’uI‹m
+();
+
+44 
+	gthis
+.
+	gtoŞSŒM’uI‹m3
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒM’uI‹m
+();
+
+45 
+	gthis
+.
+	gtoŞSŒS•¬©Ü1
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒS•¬©Ü
+();
+
+46 
+	gthis
+.
+	gtoŞSŒM’uI‹m5
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒM’uI‹m
+();
+
+47 
+	gthis
+.
+	gtoŞSŒM’uI‹m2
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒM’uI‹m
+();
+
+48 
+	gthis
+.
+	gautoSyncIÁ”v®
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Num”icUpDown
+();
+
+49 
+	gthis
+.
+	gautoSyncCheckBox
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+CheckBox
+();
+
+50 
+	gthis
+.
+	gÏb–1
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+51 
+	gthis
+.
+	gÏb–4
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+52 
+	gthis
+.
+	ggroupBox1
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+GroupBox
+();
+
+53 
+	gthis
+.
+	grunAtS¹upCheckBox
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+CheckBox
+();
+
+54 
+	gthis
+.
+	gÃxtSyncLab–
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+55 
+	gthis
+.
+	gsyncTim”
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Tim”
+(
+this
+.
+compÚ’ts
+);
+
+56 
+	gthis
+.
+	ggroupBox2
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+GroupBox
+();
+
+57 
+	gthis
+.
+	g·Ãl1
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Pª–
+();
+
+58 
+	gthis
+.
+	gbtSyncD–‘e
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+CheckBox
+();
+
+59 
+	gthis
+.
+	gtbSyncProfe
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+TextBox
+();
+
+60 
+	gthis
+.
+	gÏb–5
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+61 
+	gthis
+.
+	gÏ¡SyncLab–
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Lab–
+();
+
+62 
+	gthis
+.
+	ggroupBox3
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+GroupBox
+();
+
+63 
+	gthis
+.
+	gsyncCÚsŞe
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+TextBox
+();
+
+64 
+	gthis
+.
+	ggroupBox4
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+GroupBox
+();
+
+65 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Bu‰Ú
+();
+
+66 
+	gthis
+.
+	gtoŞT
+ = 
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞT
+(
+this
+.
+compÚ’ts
+);
+
+67 
+	gthis
+.
+	gsy¡emT¿yM’u
+.
+Su¥’dLayout
+();
+
+68 ((
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+	gISuµÜtIn™Ÿlize
+)(
+	gthis
+.
+	gautoSyncIÁ”v®
+)).
+BegšIn™
+();
+
+69 
+	gthis
+.
+	ggroupBox1
+.
+Su¥’dLayout
+();
+
+70 
+	gthis
+.
+	ggroupBox2
+.
+Su¥’dLayout
+();
+
+71 
+	gthis
+.
+	ggroupBox3
+.
+Su¥’dLayout
+();
+
+72 
+	gthis
+.
+	ggroupBox4
+.
+Su¥’dLayout
+();
+
+73 
+	gthis
+.
+Su¥’dLayout
+();
+
+77 
+	gthis
+.
+	gPasswÜd
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(86, 44);
+
+78 
+	gthis
+.
+	gPasswÜd
+.
+	gName
+ = "Password";
+
+79 
+	gthis
+.
+	gPasswÜd
+.
+	gPasswÜdCh¬
+ = '*';
+
+80 
+	gthis
+.
+	gPasswÜd
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(182, 20);
+
+81 
+	gthis
+.
+	gPasswÜd
+.
+	gTabIndex
+ = 16;
+
+82 
+	gthis
+.
+	gPasswÜd
+.
+	gTextChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+PasswÜd_TextChªged
+);
+
+86 
+	gthis
+.
+	gU£rName
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(86, 18);
+
+87 
+	gthis
+.
+	gU£rName
+.
+	gName
+ = "UserName";
+
+88 
+	gthis
+.
+	gU£rName
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(182, 20);
+
+89 
+	gthis
+.
+	gU£rName
+.
+	gTabIndex
+ = 15;
+
+90 
+	gthis
+.
+	gU£rName
+.
+	gTextChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+U£rName_TextChªged
+);
+
+94 
+	gthis
+.
+	gÏb–3
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 44);
+
+95 
+	gthis
+.
+	gÏb–3
+.
+	gName
+ = "label3";
+
+96 
+	gthis
+.
+	gÏb–3
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(64, 16);
+
+97 
+	gthis
+.
+	gÏb–3
+.
+	gTabIndex
+ = 14;
+
+98 
+	gthis
+.
+	gÏb–3
+.
+	gText
+ = "Password:";
+
+102 
+	gthis
+.
+	gÏb–2
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 21);
+
+103 
+	gthis
+.
+	gÏb–2
+.
+	gName
+ = "label2";
+
+104 
+	gthis
+.
+	gÏb–2
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(64, 17);
+
+105 
+	gthis
+.
+	gÏb–2
+.
+	gTabIndex
+ = 13;
+
+106 
+	gthis
+.
+	gÏb–2
+.
+	gText
+ = "User:";
+
+110 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Right
+)));
+
+111 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(210, 510);
+
+112 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gName
+ = "syncButton";
+
+113 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(75, 23);
+
+114 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gTabIndex
+ = 19;
+
+115 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gText
+ = "Sync";
+
+116 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+117 
+	gthis
+.
+	gsyncBu‰Ú
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+bu‰Ú4_Click
+);
+
+121 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gBackCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+Sy¡emCŞÜs
+.
+CÚŒŞ
+;
+
+122 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+BÜd”StyË
+.
+NÚe
+;
+
+123 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gCheckOnClick
+ = 
+Œue
+;
+
+124 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gFÜm©tšgEÇbËd
+ = 
+Œue
+;
+
+125 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 73);
+
+126 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gName
+ = "syncOptionBox";
+
+127 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(262, 75);
+
+128 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gTabIndex
+ = 25;
+
+129 
+	gthis
+.
+	gtoŞT
+.
+S‘ToŞT
+(
+this
+.
+syncO±iÚBox
+, 
+»sourûs
+.
+G‘SŒšg
+("syncOptionBox.ToolTip"));
+
+130 
+	gthis
+.
+	gsyncO±iÚBox
+.
+	gS–eùedIndexChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+syncO±iÚBox_S–eùedIndexChªged
+);
+
+134 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gB®loÚTIcÚ
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞTIcÚ
+.
+W¬nšg
+;
+
+135 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gCÚ‹xtM’uSŒ
+ = 
+this
+.
+sy¡emT¿yM’u
+;
+
+136 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gIcÚ
+ = ((
+Sy¡em
+.
+D¿wšg
+.
+IcÚ
+)(
+»sourûs
+.
+G‘Objeù
+("notifyIcon.Icon")));
+
+137 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gText
+ = "GO Contact Sync";
+
+138 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gVisibË
+ = 
+Œue
+;
+
+139 
+	gthis
+.
+	gnÙifyIcÚ
+.
+	gMou£DoubËClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+Mou£Ev’tHªdËr
+(
+this
+.
+nÙifyIcÚ_Mou£DoubËClick
+);
+
+143 
+	gthis
+.
+	gsy¡emT¿yM’u
+.
+	gI‹ms
+.
+AddRªge
+(
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+ToŞSŒI‹m
+[] {
+
+144 
+this
+.
+toŞSŒM’uI‹m4
+,
+
+145 
+this
+.
+toŞSŒS•¬©Ü2
+,
+
+146 
+this
+.
+toŞSŒM’uI‹m1
+,
+
+147 
+this
+.
+toŞSŒM’uI‹m3
+,
+
+148 
+this
+.
+toŞSŒS•¬©Ü1
+,
+
+149 
+this
+.
+toŞSŒM’uI‹m5
+,
+
+150 
+this
+.
+toŞSŒM’uI‹m2
+});
+
+151 
+	gthis
+.
+	gsy¡emT¿yM’u
+.
+	gName
+ = "systemTrayMenu";
+
+152 
+	gthis
+.
+	gsy¡emT¿yM’u
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(116, 126);
+
+156 
+	gthis
+.
+	gtoŞSŒM’uI‹m4
+.
+	gName
+ = "toolStripMenuItem4";
+
+157 
+	gthis
+.
+	gtoŞSŒM’uI‹m4
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(115, 22);
+
+158 
+	gthis
+.
+	gtoŞSŒM’uI‹m4
+.
+	gText
+ = "Sync";
+
+159 
+	gthis
+.
+	gtoŞSŒM’uI‹m4
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+toŞSŒM’uI‹m4_Click
+);
+
+163 
+	gthis
+.
+	gtoŞSŒS•¬©Ü2
+.
+	gName
+ = "toolStripSeparator2";
+
+164 
+	gthis
+.
+	gtoŞSŒS•¬©Ü2
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(112, 6);
+
+168 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+.
+	gFÚt
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+FÚt
+("Tahoma", 8.25F, Sy¡em.D¿wšg.
+FÚtStyË
+.
+BŞd
+, Sy¡em.D¿wšg.
+G¿phicsUn™
+.
+Pošt
+, ((
+by‹
+)(0)));
+
+169 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+.
+	gName
+ = "toolStripMenuItem1";
+
+170 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(115, 22);
+
+171 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+.
+	gText
+ = "Show";
+
+172 
+	gthis
+.
+	gtoŞSŒM’uI‹m1
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+toŞSŒM’uI‹m1_Click
+);
+
+176 
+	gthis
+.
+	gtoŞSŒM’uI‹m3
+.
+	gName
+ = "toolStripMenuItem3";
+
+177 
+	gthis
+.
+	gtoŞSŒM’uI‹m3
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(115, 22);
+
+178 
+	gthis
+.
+	gtoŞSŒM’uI‹m3
+.
+	gText
+ = "Hide";
+
+179 
+	gthis
+.
+	gtoŞSŒM’uI‹m3
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+toŞSŒM’uI‹m3_Click
+);
+
+183 
+	gthis
+.
+	gtoŞSŒS•¬©Ü1
+.
+	gName
+ = "toolStripSeparator1";
+
+184 
+	gthis
+.
+	gtoŞSŒS•¬©Ü1
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(112, 6);
+
+188 
+	gthis
+.
+	gtoŞSŒM’uI‹m5
+.
+	gName
+ = "toolStripMenuItem5";
+
+189 
+	gthis
+.
+	gtoŞSŒM’uI‹m5
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(115, 22);
+
+190 
+	gthis
+.
+	gtoŞSŒM’uI‹m5
+.
+	gText
+ = "About";
+
+191 
+	gthis
+.
+	gtoŞSŒM’uI‹m5
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+toŞSŒM’uI‹m5_Click
+);
+
+195 
+	gthis
+.
+	gtoŞSŒM’uI‹m2
+.
+	gName
+ = "toolStripMenuItem2";
+
+196 
+	gthis
+.
+	gtoŞSŒM’uI‹m2
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(115, 22);
+
+197 
+	gthis
+.
+	gtoŞSŒM’uI‹m2
+.
+	gText
+ = "Exit";
+
+198 
+	gthis
+.
+	gtoŞSŒM’uI‹m2
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+toŞSŒM’uI‹m2_Click
+);
+
+202 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(93, 64);
+
+203 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gMaximum
+ = 
+Ãw
+ 
+decim®
+(new [] {
+
+208 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gMšimum
+ = 
+Ãw
+ 
+decim®
+(new [] {
+
+213 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gName
+ = "autoSyncInterval";
+
+214 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(42, 20);
+
+215 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gTabIndex
+ = 26;
+
+216 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gTextAlign
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+HÜizÚlAlignm’t
+.
+Right
+;
+
+217 
+	gthis
+.
+	gautoSyncIÁ”v®
+.
+	gV®ue
+ = 
+Ãw
+ 
+decim®
+(new [] {
+
+225 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gAutoSize
+ = 
+Œue
+;
+
+226 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 42);
+
+227 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gName
+ = "autoSyncCheckBox";
+
+228 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(75, 17);
+
+229 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gTabIndex
+ = 27;
+
+230 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gText
+ = "Auto Sync";
+
+231 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+232 
+	gthis
+.
+	gautoSyncCheckBox
+.
+	gCheckedChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+autoSyncCheckBox_CheckedChªged
+);
+
+236 
+	gthis
+.
+	gÏb–1
+.
+	gAutoSize
+ = 
+Œue
+;
+
+237 
+	gthis
+.
+	gÏb–1
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(9, 66);
+
+238 
+	gthis
+.
+	gÏb–1
+.
+	gName
+ = "label1";
+
+239 
+	gthis
+.
+	gÏb–1
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(72, 13);
+
+240 
+	gthis
+.
+	gÏb–1
+.
+	gTabIndex
+ = 29;
+
+241 
+	gthis
+.
+	gÏb–1
+.
+	gText
+ = "Sync Interval:";
+
+245 
+	gthis
+.
+	gÏb–4
+.
+	gAutoSize
+ = 
+Œue
+;
+
+246 
+	gthis
+.
+	gÏb–4
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(141, 66);
+
+247 
+	gthis
+.
+	gÏb–4
+.
+	gName
+ = "label4";
+
+248 
+	gthis
+.
+	gÏb–4
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(28, 13);
+
+249 
+	gthis
+.
+	gÏb–4
+.
+	gTabIndex
+ = 30;
+
+250 
+	gthis
+.
+	gÏb–4
+.
+	gText
+ = "mins";
+
+254 
+	gthis
+.
+	ggroupBox1
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)(((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Leá
+)
+
+255 | 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+.
+Right
+)));
+
+256 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+runAtS¹upCheckBox
+);
+
+257 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+ÃxtSyncLab–
+);
+
+258 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+autoSyncIÁ”v®
+);
+
+259 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ïb–4
+);
+
+260 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+autoSyncCheckBox
+);
+
+261 
+	gthis
+.
+	ggroupBox1
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ïb–1
+);
+
+262 
+	gthis
+.
+	ggroupBox1
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(11, 393);
+
+263 
+	gthis
+.
+	ggroupBox1
+.
+	gName
+ = "groupBox1";
+
+264 
+	gthis
+.
+	ggroupBox1
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(274, 111);
+
+265 
+	gthis
+.
+	ggroupBox1
+.
+	gTabIndex
+ = 31;
+
+266 
+	gthis
+.
+	ggroupBox1
+.
+	gTabStİ
+ = 
+çl£
+;
+
+267 
+	gthis
+.
+	ggroupBox1
+.
+	gText
+ = "Automization";
+
+271 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gAutoSize
+ = 
+Œue
+;
+
+272 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(12, 21);
+
+273 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gName
+ = "runAtStartupCheckBox";
+
+274 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(134, 17);
+
+275 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gTabIndex
+ = 32;
+
+276 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gText
+ = "Run…rogram‡t startup";
+
+277 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+278 
+	gthis
+.
+	grunAtS¹upCheckBox
+.
+	gCheckedChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+runAtS¹upCheckBox_CheckedChªged
+);
+
+282 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gAutoSize
+ = 
+Œue
+;
+
+283 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(9, 90);
+
+284 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gName
+ = "nextSyncLabel";
+
+285 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(67, 13);
+
+286 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gTabIndex
+ = 31;
+
+287 
+	gthis
+.
+	gÃxtSyncLab–
+.
+	gText
+ = "Next Sync in";
+
+291 
+	gthis
+.
+	gsyncTim”
+.
+	gIÁ”v®
+ = 1000;
+
+292 
+	gthis
+.
+	gsyncTim”
+.
+	gTick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+syncTim”_Tick
+);
+
+296 
+	gthis
+.
+	ggroupBox2
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+·Ãl1
+);
+
+297 
+	gthis
+.
+	ggroupBox2
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+btSyncD–‘e
+);
+
+298 
+	gthis
+.
+	ggroupBox2
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+tbSyncProfe
+);
+
+299 
+	gthis
+.
+	ggroupBox2
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ïb–5
+);
+
+300 
+	gthis
+.
+	ggroupBox2
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+syncO±iÚBox
+);
+
+301 
+	gthis
+.
+	ggroupBox2
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(11, 229);
+
+302 
+	gthis
+.
+	ggroupBox2
+.
+	gName
+ = "groupBox2";
+
+303 
+	gthis
+.
+	ggroupBox2
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(274, 158);
+
+304 
+	gthis
+.
+	ggroupBox2
+.
+	gTabIndex
+ = 32;
+
+305 
+	gthis
+.
+	ggroupBox2
+.
+	gTabStİ
+ = 
+çl£
+;
+
+306 
+	gthis
+.
+	ggroupBox2
+.
+	gText
+ = "Sync Options";
+
+310 
+	gthis
+.
+	g·Ãl1
+.
+	gBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+BÜd”StyË
+.
+FixedSšgË
+;
+
+311 
+	gthis
+.
+	g·Ãl1
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 67);
+
+312 
+	gthis
+.
+	g·Ãl1
+.
+	gName
+ = "panel1";
+
+313 
+	gthis
+.
+	g·Ãl1
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(260, 1);
+
+314 
+	gthis
+.
+	g·Ãl1
+.
+	gTabIndex
+ = 36;
+
+318 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gAutoSize
+ = 
+Œue
+;
+
+319 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(7, 46);
+
+320 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gName
+ = "btSyncDelete";
+
+321 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(92, 17);
+
+322 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gTabIndex
+ = 35;
+
+323 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gText
+ = "Sync Deletion";
+
+324 
+	gthis
+.
+	gtoŞT
+.
+S‘ToŞT
+(
+this
+.
+btSyncD–‘e
+, "This specifies whether deletions‡re\r\nsynchronized. Enablinghis option\r\nmeans i" +
+
+327 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+328 
+	gthis
+.
+	gbtSyncD–‘e
+.
+	gCheckedChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+btSyncD–‘e_CheckedChªged
+);
+
+332 
+	gthis
+.
+	gtbSyncProfe
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(86, 19);
+
+333 
+	gthis
+.
+	gtbSyncProfe
+.
+	gName
+ = "tbSyncProfile";
+
+334 
+	gthis
+.
+	gtbSyncProfe
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(182, 20);
+
+335 
+	gthis
+.
+	gtbSyncProfe
+.
+	gTabIndex
+ = 34;
+
+336 
+	gthis
+.
+	gtoŞT
+.
+S‘ToŞT
+(
+this
+.
+tbSyncProfe
+, "This is‡…rofile‚ame of your choice.\r\nIt must be unique inƒach computer\r\nand‡" +
+
+338 
+	gthis
+.
+	gtbSyncProfe
+.
+	gTextChªged
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+tbSyncProfe_TextChªged
+);
+
+342 
+	gthis
+.
+	gÏb–5
+.
+	gAutoSize
+ = 
+Œue
+;
+
+343 
+	gthis
+.
+	gÏb–5
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 22);
+
+344 
+	gthis
+.
+	gÏb–5
+.
+	gName
+ = "label5";
+
+345 
+	gthis
+.
+	gÏb–5
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(66, 13);
+
+346 
+	gthis
+.
+	gÏb–5
+.
+	gTabIndex
+ = 33;
+
+347 
+	gthis
+.
+	gÏb–5
+.
+	gText
+ = "Sync Profile:";
+
+351 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gAutoSize
+ = 
+Œue
+;
+
+352 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(6, 16);
+
+353 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gName
+ = "lastSyncLabel";
+
+354 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(69, 13);
+
+355 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gTabIndex
+ = 32;
+
+356 
+	gthis
+.
+	gÏ¡SyncLab–
+.
+	gText
+ = "Last Sync on";
+
+360 
+	gthis
+.
+	ggroupBox3
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+syncCÚsŞe
+);
+
+361 
+	gthis
+.
+	ggroupBox3
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ï¡SyncLab–
+);
+
+362 
+	gthis
+.
+	ggroupBox3
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(11, 91);
+
+363 
+	gthis
+.
+	ggroupBox3
+.
+	gName
+ = "groupBox3";
+
+364 
+	gthis
+.
+	ggroupBox3
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(274, 132);
+
+365 
+	gthis
+.
+	ggroupBox3
+.
+	gTabIndex
+ = 33;
+
+366 
+	gthis
+.
+	ggroupBox3
+.
+	gTabStİ
+ = 
+çl£
+;
+
+367 
+	gthis
+.
+	ggroupBox3
+.
+	gText
+ = "Sync Details";
+
+371 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gBackCŞÜ
+ = 
+Sy¡em
+.
+D¿wšg
+.
+Sy¡emCŞÜs
+.
+Info
+;
+
+372 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(7, 33);
+
+373 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gMuÉše
+ = 
+Œue
+;
+
+374 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gName
+ = "syncConsole";
+
+375 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gSüŞlB¬s
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+SüŞlB¬s
+.
+V”tiÿl
+;
+
+376 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(261, 93);
+
+377 
+	gthis
+.
+	gsyncCÚsŞe
+.
+	gTabIndex
+ = 33;
+
+378 
+	gthis
+.
+	gtoŞT
+.
+S‘ToŞT
+(
+this
+.
+syncCÚsŞe
+, "This window shows information\r\nfromhe†ast sync.");
+
+382 
+	gthis
+.
+	ggroupBox4
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ïb–2
+);
+
+383 
+	gthis
+.
+	ggroupBox4
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+Ïb–3
+);
+
+384 
+	gthis
+.
+	ggroupBox4
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+U£rName
+);
+
+385 
+	gthis
+.
+	ggroupBox4
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+PasswÜd
+);
+
+386 
+	gthis
+.
+	ggroupBox4
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(11, 12);
+
+387 
+	gthis
+.
+	ggroupBox4
+.
+	gName
+ = "groupBox4";
+
+388 
+	gthis
+.
+	ggroupBox4
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(274, 73);
+
+389 
+	gthis
+.
+	ggroupBox4
+.
+	gTabIndex
+ = 34;
+
+390 
+	gthis
+.
+	ggroupBox4
+.
+	gTabStİ
+ = 
+çl£
+;
+
+391 
+	gthis
+.
+	ggroupBox4
+.
+	gText
+ = "Google Account";
+
+395 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gAnchÜ
+ = ((
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AnchÜStyËs
+)((Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+BÙtom
+ | Sy¡em.Wšdows.FÜms.AnchÜStyËs.
+Right
+)));
+
+396 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gAutoSize
+ = 
+Œue
+;
+
+397 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gLoÿtiÚ
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Pošt
+(115, 510);
+
+398 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gName
+ = "resetMatchesButton";
+
+399 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(89, 23);
+
+400 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gTabIndex
+ = 35;
+
+401 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gText
+ = "Reset Matches";
+
+402 
+	gthis
+.
+	gtoŞT
+.
+S‘ToŞT
+(
+this
+.
+»£tM©chesBu‰Ú
+, "This unlinks Outlook contacts withheir\r\ncorresponding Google contatcs. If you\r\n" +
+
+405 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gU£Visu®StyËBackCŞÜ
+ = 
+Œue
+;
+
+406 
+	gthis
+.
+	g»£tM©chesBu‰Ú
+.
+	gClick
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+»£tM©chesBu‰Ú_Click
+);
+
+410 
+	gthis
+.
+	gtoŞT
+.
+	gIsB®loÚ
+ = 
+Œue
+;
+
+414 
+	gthis
+.
+	gAutoSÿËDim’siÚs
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+SizeF
+(6F, 13F);
+
+415 
+	gthis
+.
+	gAutoSÿËMode
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+AutoSÿËMode
+.
+FÚt
+;
+
+416 
+	gthis
+.
+	gCl›ÁSize
+ = 
+Ãw
+ 
+Sy¡em
+.
+D¿wšg
+.
+Size
+(292, 537);
+
+417 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+groupBox4
+);
+
+418 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+groupBox3
+);
+
+419 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+groupBox2
+);
+
+420 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+groupBox1
+);
+
+421 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+syncBu‰Ú
+);
+
+422 
+	gthis
+.
+	gCÚŒŞs
+.
+Add
+(
+this
+.
+»£tM©chesBu‰Ú
+);
+
+423 
+	gthis
+.
+	gFÜmBÜd”StyË
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmBÜd”StyË
+.
+FixedSšgË
+;
+
+424 
+	gthis
+.
+	gIcÚ
+ = ((
+Sy¡em
+.
+D¿wšg
+.
+IcÚ
+)(
+»sourûs
+.
+G‘Objeù
+("$this.Icon")));
+
+425 
+	gthis
+.
+	gMaximizeBox
+ = 
+çl£
+;
+
+426 
+	gthis
+.
+	gMšimizeBox
+ = 
+çl£
+;
+
+427 
+	gthis
+.
+	gName
+ = "SettingsForm";
+
+428 
+	gthis
+.
+	gText
+ = "GO Contact Sync - Settings";
+
+429 
+	gthis
+.
+	gWšdowS‹
+ = 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmWšdowS‹
+.
+Mšimized
+;
+
+430 
+	gthis
+.
+	gFÜmClo£d
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmClo£dEv’tHªdËr
+(
+this
+.
+S‘tšgsFÜm_FÜmClo£d
+);
+
+431 
+	gthis
+.
+	gResize
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+S‘tšgsFÜm_Resize
+);
+
+432 
+	gthis
+.
+	gFÜmClosšg
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Wšdows
+.
+FÜms
+.
+FÜmClosšgEv’tHªdËr
+(
+this
+.
+S‘tšgsFÜm_FÜmClosšg
+);
+
+433 
+	gthis
+.
+	gLßd
+ +ğ
+Ãw
+ 
+Sy¡em
+.
+Ev’tHªdËr
+(
+this
+.
+S‘tšgsFÜm_Lßd
+);
+
+434 
+	gthis
+.
+	gsy¡emT¿yM’u
+.
+ResumeLayout
+(
+çl£
+);
+
+435 ((
+	gSy¡em
+.
+	gCompÚ’tMod–
+.
+	gISuµÜtIn™Ÿlize
+)(
+	gthis
+.
+	gautoSyncIÁ”v®
+)).
+EndIn™
+();
+
+436 
+	gthis
+.
+	ggroupBox1
+.
+ResumeLayout
+(
+çl£
+);
+
+437 
+	gthis
+.
+	ggroupBox1
+.
+P”fÜmLayout
+();
+
+438 
+	gthis
+.
+	ggroupBox2
+.
+ResumeLayout
+(
+çl£
+);
+
+439 
+	gthis
+.
+	ggroupBox2
+.
+P”fÜmLayout
+();
+
+440 
+	gthis
+.
+	ggroupBox3
+.
+ResumeLayout
+(
+çl£
+);
+
+441 
+	gthis
+.
+	ggroupBox3
+.
+P”fÜmLayout
+();
+
+442 
+	gthis
+.
+	ggroupBox4
+.
+ResumeLayout
+(
+çl£
+);
+
+443 
+	gthis
+.
+	ggroupBox4
+.
+P”fÜmLayout
+();
+
+444 
+	gthis
+.
+ResumeLayout
+(
+çl£
+);
+
+445 
+	gthis
+.
+P”fÜmLayout
+();
+
+451 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+TextBox
+ 
+	gPasswÜd
+;
+
+452 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+TextBox
+ 
+	gU£rName
+;
+
+453 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏb–3
+;
+
+454 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏb–2
+;
+
+455 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	gsyncBu‰Ú
+;
+
+456 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+CheckedLi¡Box
+ 
+	gsyncO±iÚBox
+;
+
+457 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+NÙifyIcÚ
+ 
+	gnÙifyIcÚ
+;
+
+458 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Num”icUpDown
+ 
+	gautoSyncIÁ”v®
+;
+
+459 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+CheckBox
+ 
+	gautoSyncCheckBox
+;
+
+460 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏb–1
+;
+
+461 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏb–4
+;
+
+462 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+GroupBox
+ 
+	ggroupBox1
+;
+
+463 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Tim”
+ 
+	gsyncTim”
+;
+
+464 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÃxtSyncLab–
+;
+
+465 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+GroupBox
+ 
+	ggroupBox2
+;
+
+466 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏ¡SyncLab–
+;
+
+467 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+GroupBox
+ 
+	ggroupBox3
+;
+
+468 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+TextBox
+ 
+	gsyncCÚsŞe
+;
+
+469 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+GroupBox
+ 
+	ggroupBox4
+;
+
+470 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Bu‰Ú
+ 
+	g»£tM©chesBu‰Ú
+;
+
+471 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+CÚ‹xtM’uSŒ
+ 
+	gsy¡emT¿yM’u
+;
+
+472 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒM’uI‹m
+ 
+	gtoŞSŒM’uI‹m1
+;
+
+473 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒM’uI‹m
+ 
+	gtoŞSŒM’uI‹m2
+;
+
+474 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒM’uI‹m
+ 
+	gtoŞSŒM’uI‹m3
+;
+
+475 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒS•¬©Ü
+ 
+	gtoŞSŒS•¬©Ü1
+;
+
+476 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒM’uI‹m
+ 
+	gtoŞSŒM’uI‹m4
+;
+
+477 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒS•¬©Ü
+ 
+	gtoŞSŒS•¬©Ü2
+;
+
+478 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+CheckBox
+ 
+	grunAtS¹upCheckBox
+;
+
+479 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞSŒM’uI‹m
+ 
+	gtoŞSŒM’uI‹m5
+;
+
+480 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+TextBox
+ 
+	gtbSyncProfe
+;
+
+481 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Lab–
+ 
+	gÏb–5
+;
+
+482 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+ToŞT
+ 
+	gtoŞT
+;
+
+483 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+CheckBox
+ 
+	gbtSyncD–‘e
+;
+
+484 
+´iv©e
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+.
+Pª–
+ 
+	g·Ãl1
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\SettingsForm.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gCompÚ’tMod–
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD©a
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+7 
+usšg
+ 
+	gSy¡em
+.
+	gWšdows
+.
+	gFÜms
+;
+
+8 
+usšg
+ 
+	gMiüosoá
+.
+	gWš32
+;
+
+9 
+usšg
+ 
+	gSy¡em
+.
+	gTh»adšg
+;
+
+10 
+usšg
+ 
+	gSy¡em
+.
+	gText
+.
+	gReguÏrEx´essiÚs
+;
+
+12 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+14 
+š‹º®
+ 
+·¹Ÿl
+ cÏs 
+	cS‘tšgsFÜm
+ : 
+FÜm
+
+
+16 
+š‹º®
+ 
+SynüÚiz”
+ 
+_sync
+;
+
+17 
+´iv©e
+ 
+SyncO±iÚ
+ 
+	g_syncO±iÚ
+;
+
+18 
+´iv©e
+ 
+D©eTime
+ 
+	gÏ¡Sync
+;
+
+19 
+´iv©e
+ 
+boŞ
+ 
+	g»que¡Clo£
+ = 
+çl£
+;
+
+21 
+d–eg©e
+ 
+TextHªdËr
+(
+¡ršg
+ 
+‹xt
+);
+
+22 
+d–eg©e
+ 
+Sw™chHªdËr
+(
+boŞ
+ 
+v®ue
+);
+
+24 
+public
+ 
+S‘tšgsFÜm
+()
+
+26 
+In™ŸlizeCompÚ’t
+();
+
+28 
+PİuÏ‹SyncO±iÚBox
+();
+
+30 
+LßdS‘tšgs
+();
+
+32 
+	gÏ¡Sync
+ = 
+D©eTime
+.
+Now
+.
+AddSecÚds
+(15è- 
+Ãw
+ 
+TimeS·n
+(0, ()
+autoSyncIÁ”v®
+.
+V®ue
+, 0);
+
+33 
+	gÏ¡SyncLab–
+.
+	gText
+ = "Not synced";
+
+35 
+V®id©eSyncBu‰Ú
+();
+
+38 
+´iv©e
+ 
+PİuÏ‹SyncO±iÚBox
+()
+
+40 
+¡ršg
+ 
+	g¡r
+;
+
+41 
+	gi
+ = 0; i < 20; i++)
+
+43 
+	g¡r
+ = ((
+SyncO±iÚ
+)
+i
+).
+ToSŒšg
+();
+
+44 ià(
+	g¡r
+ =ğ
+i
+.
+ToSŒšg
+())
+
+48 
+M©chCŞËùiÚ
+ 
+	gm©ches
+ = 
+Regex
+.
+M©ches
+(
+¡r
+, "[A-Z]");
+
+49 
+	gk
+ = 0; k < 
+	gm©ches
+.
+	gCouÁ
+; k++)
+
+51 
+	g¡r
+ = 
+¡r
+.
+R•Ïû
+(¡r[
+m©ches
+[
+k
+].
+Index
+].
+ToSŒšg
+(), " " + str[matches[k].Index]);
+
+52 
+	gm©ches
+ = 
+Regex
+.
+M©ches
+(
+¡r
+, "[A-Z]");
+
+54 
+	g¡r
+ = 
+¡r
+.
+R•Ïû
+(" ", " ");
+
+56 
+	g¡r
+ = 
+¡r
+.
+Sub¡ršg
+(1);
+
+58 
+	gsyncO±iÚBox
+.
+	gI‹ms
+.
+Add
+(
+¡r
+);
+
+62 
+´iv©e
+ 
+LßdS‘tšgs
+()
+
+65 
+S‘SyncO±iÚ
+(0);
+
+68 
+Regi¡ryKey
+ 
+	g»gKeyAµRoÙ
+ = 
+Regi¡ry
+.
+Cu¼’tU£r
+.
+C»©eSubKey
+(@"Software\Webgear\GOContactSync");
+
+69 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("SyncO±iÚ"è!ğ
+nuÎ
+)
+
+71 
+_syncO±iÚ
+ = (
+SyncO±iÚ
+)
+»gKeyAµRoÙ
+.
+G‘V®ue
+("SyncOption");
+
+72 
+S‘SyncO±iÚ
+(()
+_syncO±iÚ
+);
+
+74 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("SyncProfe"è!ğ
+nuÎ
+)
+
+75 
+tbSyncProfe
+.
+Text
+ = (
+¡ršg
+)
+»gKeyAµRoÙ
+.
+G‘V®ue
+("SyncProfile");
+
+76 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("U£ºame"è!ğ
+nuÎ
+)
+
+78 
+U£rName
+.
+Text
+ = 
+»gKeyAµRoÙ
+.
+G‘V®ue
+("U£ºame"è
+as
+ 
+¡ršg
+;
+
+79 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("PasswÜd"è!ğ
+nuÎ
+)
+
+80 
+PasswÜd
+.
+Text
+ = 
+Enüy±iÚ
+.
+Deüy±PasswÜd
+(
+U£rName
+.Text, 
+»gKeyAµRoÙ
+.
+G‘V®ue
+("PasswÜd"è
+as
+ 
+¡ršg
+);
+
+82 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoSync"è!ğ
+nuÎ
+)
+
+83 
+autoSyncCheckBox
+.
+Checked
+ = 
+CÚv”t
+.
+ToBoŞ—n
+(
+»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoSync"));
+
+84 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoSyncIÁ”v®"è!ğ
+nuÎ
+)
+
+85 
+autoSyncIÁ”v®
+.
+V®ue
+ = 
+CÚv”t
+.
+ToDecim®
+(
+»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoSyncInterval"));
+
+86 ià(
+	g»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoS¹"è!ğ
+nuÎ
+)
+
+87 
+runAtS¹upCheckBox
+.
+Checked
+ = 
+CÚv”t
+.
+ToBoŞ—n
+(
+»gKeyAµRoÙ
+.
+G‘V®ue
+("AutoStart"));
+
+89 
+autoSyncCheckBox_CheckedChªged
+(
+nuÎ
+,‚ull);
+
+91 
+´iv©e
+ 
+SaveS‘tšgs
+()
+
+93 
+Regi¡ryKey
+ 
+	g»gKeyAµRoÙ
+ = 
+Regi¡ry
+.
+Cu¼’tU£r
+.
+C»©eSubKey
+(@"Software\Webgear\GOContactSync");
+
+94 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("SyncO±iÚ", ()
+_syncO±iÚ
+);
+
+95 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+tbSyncProfe
+.
+Text
+))
+
+96 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("SyncProfe", 
+tbSyncProfe
+.
+Text
+);
+
+97 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+U£rName
+.
+Text
+))
+
+99 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("U£ºame", 
+U£rName
+.
+Text
+);
+
+100 ià(!
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+PasswÜd
+.
+Text
+))
+
+101 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("PasswÜd", 
+Enüy±iÚ
+.
+Enüy±PasswÜd
+(
+U£rName
+.
+Text
+, 
+PasswÜd
+.Text));
+
+103 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("AutoSync", 
+autoSyncCheckBox
+.
+Checked
+.
+ToSŒšg
+());
+
+104 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("AutoSyncIÁ”v®", 
+autoSyncIÁ”v®
+.
+V®ue
+.
+ToSŒšg
+());
+
+105 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("AutoS¹", 
+runAtS¹upCheckBox
+.
+Checked
+);
+
+108 
+´iv©e
+ 
+boŞ
+ 
+	gV®idC»d‘Ÿls
+
+
+110 
+	gg‘
+
+
+112 ià(
+	gU£rName
+.
+	gText
+.
+	gL’gth
+ !ğ0 && 
+PasswÜd
+.
+Text
+.
+L’gth
+ !ğ0 && 
+tbSyncProfe
+.Text.Length != 0)
+
+113  
+Œue
+;
+
+114  
+	gçl£
+;
+
+118 
+´iv©e
+ 
+bu‰Ú4_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+120 
+Sync
+();
+
+122 
+´iv©e
+ 
+Sync
+()
+
+124 ià(!
+	gV®idC»d‘Ÿls
+)
+
+129 
+Th»adS¹
+ 
+	g¡¬‹r
+ = 
+Ãw
+ Th»adS¹(
+Sync_Th»adS¹”
+);
+
+130 
+Th»ad
+ 
+	gth»ad
+ = 
+Ãw
+ Th»ad(
+¡¬‹r
+);
+
+131 
+	gth»ad
+.
+S¹
+();
+
+134 !
+	gth»ad
+.
+	gIsAlive
+)
+
+135 
+	gTh»ad
+.
+SË•
+(1);
+
+137 
+´iv©e
+ 
+Sync_Th»adS¹”
+()
+
+139 
+Tim”Sw™ch
+(
+çl£
+);
+
+140 
+S‘La¡SyncText
+("Syncing...");
+
+141 
+S‘SyncCÚsŞeText
+(
+D©eTime
+.
+Now
+ + " Synø¡¬‹d" + 
+EnvœÚm’t
+.
+NewLše
+);
+
+142 
+S‘FÜmEÇbËd
+(
+çl£
+);
+
+144 ià(
+	g_sync
+ =ğ
+nuÎ
+)
+
+146 
+_sync
+ = 
+Ãw
+ 
+SynüÚiz”
+();
+
+147 
+	g_sync
+.
+	gLogg”
+ = 
+Ãw
+ 
+Logg”
+();
+
+148 
+	g_sync
+.
+	gDu¶iÿ‹sFound
+ +ğ
+Ãw
+ 
+SynüÚiz”
+.
+NÙifiÿtiÚHªdËr
+(
+_sync_Du¶iÿ‹sFound
+);
+
+149 
+	g_sync
+.
+	gE¼ÜEncouÁ”ed
+ +ğ
+Ãw
+ 
+SynüÚiz”
+.
+NÙifiÿtiÚHªdËr
+(
+_sync_E¼ÜEncouÁ”ed
+);
+
+152 
+	g_sync
+.
+	gSyncProfe
+ = 
+tbSyncProfe
+.
+Text
+;
+
+153 
+	g_sync
+.
+	gSyncO±iÚ
+ = 
+_syncO±iÚ
+;
+
+155 
+	gŒy
+
+
+157 
+	g_sync
+.
+LogšToGoogË
+(
+U£rName
+.
+Text
+, 
+PasswÜd
+.Text);
+
+158 
+	g_sync
+.
+LogšToOuook
+();
+
+160 
+	g_sync
+.
+	gLogg”
+.
+CË¬Log
+();
+
+161 
+	g_sync
+.
+Sync
+();
+
+163 
+S‘La¡SyncText
+("La¡ synûd‡ˆ" + 
+Ï¡Sync
+.
+ToSŒšg
+());
+
+164 
+Aµ’dSyncCÚsŞeText
+((
+_sync
+.
+Logg”
+ 
+as
+ Logg”).
+mes§ges
+);
+
+165 
+Aµ’dSyncCÚsŞeText
+(
+D©eTime
+.
+Now
+ + " Synøcom¶‘e" + 
+EnvœÚm’t
+.
+NewLše
+);
+
+167 
+	gnÙifyIcÚ
+.
+	gB®loÚTT™Ë
+ = "Complete";
+
+168 
+	gnÙifyIcÚ
+.
+	gB®loÚTText
+ = 
+¡ršg
+.
+FÜm©
+("{0}. Synøcom¶‘e.\ÀSynûd: {2} ouˆoà{1}.\ÀD–‘ed: {3}.", 
+D©eTime
+.
+Now
+, 
+_sync
+.
+TÙ®CouÁ
+, _sync.
+SynûdCouÁ
+, _sync.
+D–‘edCouÁ
+);
+
+169 
+	gnÙifyIcÚ
+.
+	gB®loÚTIcÚ
+ = 
+ToŞTIcÚ
+.
+Info
+;
+
+170 
+	gnÙifyIcÚ
+.
+ShowB®loÚT
+(5000);
+
+172 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+174 
+	g_sync
+.
+	gLogg”
+.
+Log
+(
+ex
+.
+Mes§ge
+, 
+Ev’tTy³
+.
+E¼Ü
+);
+
+175 
+Aµ’dSyncCÚsŞeText
+((
+_sync
+.
+Logg”
+ 
+as
+ Logg”).
+mes§ges
+);
+
+176 
+Aµ’dSyncCÚsŞeText
+(
+D©eTime
+.
+Now
+ + " Synøçed" + 
+EnvœÚm’t
+.
+NewLše
+);
+
+178 
+	gnÙifyIcÚ
+.
+	gB®loÚTT™Ë
+ = "Error";
+
+179 
+	gnÙifyIcÚ
+.
+	gB®loÚTText
+ = 
+ex
+.
+Mes§ge
+;
+
+180 
+	gnÙifyIcÚ
+.
+	gB®loÚTIcÚ
+ = 
+ToŞTIcÚ
+.
+E¼Ü
+;
+
+181 
+	gnÙifyIcÚ
+.
+ShowB®loÚT
+(5000);
+
+184 
+	gÏ¡Sync
+ = 
+D©eTime
+.
+Now
+;
+
+185 
+Tim”Sw™ch
+(
+Œue
+);
+
+186 
+S‘FÜmEÇbËd
+(
+Œue
+);
+
+189 
+_sync_E¼ÜEncouÁ”ed
+(
+¡ršg
+ 
+t™Ë
+, sŒšg 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+)
+
+191 
+	gnÙifyIcÚ
+.
+	gB®loÚTT™Ë
+ = 
+t™Ë
+;
+
+192 
+	gnÙifyIcÚ
+.
+	gB®loÚTText
+ = 
+mes§ge
+;
+
+193 
+	gnÙifyIcÚ
+.
+	gB®loÚTIcÚ
+ = 
+ToŞTIcÚ
+.
+E¼Ü
+;
+
+194 
+	gnÙifyIcÚ
+.
+ShowB®loÚT
+(5000);
+
+197 
+_sync_Du¶iÿ‹sFound
+(
+¡ršg
+ 
+t™Ë
+, sŒšg 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+)
+
+199 
+	gnÙifyIcÚ
+.
+	gB®loÚTT™Ë
+ = 
+t™Ë
+;
+
+200 
+	gnÙifyIcÚ
+.
+	gB®loÚTText
+ = 
+mes§ge
+;
+
+201 
+	gnÙifyIcÚ
+.
+	gB®loÚTIcÚ
+ = 
+ToŞTIcÚ
+.
+W¬nšg
+;
+
+202 
+	gnÙifyIcÚ
+.
+ShowB®loÚT
+(5000);
+
+205 
+public
+ 
+S‘FÜmEÇbËd
+(
+boŞ
+ 
+’abËd
+)
+
+207 ià(
+	gthis
+.
+	gInvokeRequœed
+)
+
+209 
+Sw™chHªdËr
+ 
+	gh
+ = 
+Ãw
+ Sw™chHªdËr(
+S‘FÜmEÇbËd
+);
+
+210 
+	gthis
+.
+Invoke
+(
+h
+, 
+Ãw
+ 
+objeù
+[] { 
+’abËd
+ });
+
+213 
+	gEÇbËd
+ = 
+’abËd
+;
+
+215 
+public
+ 
+S‘La¡SyncText
+(
+¡ršg
+ 
+‹xt
+)
+
+217 ià(
+	gthis
+.
+	gInvokeRequœed
+)
+
+219 
+TextHªdËr
+ 
+	gh
+ = 
+Ãw
+ TextHªdËr(
+S‘La¡SyncText
+);
+
+220 
+	gthis
+.
+Invoke
+(
+h
+, 
+Ãw
+ 
+objeù
+[] { 
+‹xt
+ });
+
+223 
+	gÏ¡SyncLab–
+.
+	gText
+ = 
+‹xt
+;
+
+225 
+public
+ 
+S‘SyncCÚsŞeText
+(
+¡ršg
+ 
+‹xt
+)
+
+227 ià(
+	gthis
+.
+	gInvokeRequœed
+)
+
+229 
+TextHªdËr
+ 
+	gh
+ = 
+Ãw
+ TextHªdËr(
+S‘SyncCÚsŞeText
+);
+
+230 
+	gthis
+.
+Invoke
+(
+h
+, 
+Ãw
+ 
+objeù
+[] { 
+‹xt
+ });
+
+233 
+	gsyncCÚsŞe
+.
+	gText
+ = 
+‹xt
+;
+
+235 
+public
+ 
+Aµ’dSyncCÚsŞeText
+(
+¡ršg
+ 
+‹xt
+)
+
+237 ià(
+	gthis
+.
+	gInvokeRequœed
+)
+
+239 
+TextHªdËr
+ 
+	gh
+ = 
+Ãw
+ TextHªdËr(
+Aµ’dSyncCÚsŞeText
+);
+
+240 
+	gthis
+.
+Invoke
+(
+h
+, 
+Ãw
+ 
+objeù
+[] { 
+‹xt
+ });
+
+243 
+	gsyncCÚsŞe
+.
+	gText
+ +ğ
+‹xt
+;
+
+245 
+public
+ 
+Tim”Sw™ch
+(
+boŞ
+ 
+v®ue
+)
+
+247 ià(
+	gthis
+.
+	gInvokeRequœed
+)
+
+249 
+Sw™chHªdËr
+ 
+	gh
+ = 
+Ãw
+ Sw™chHªdËr(
+Tim”Sw™ch
+);
+
+250 
+	gthis
+.
+Invoke
+(
+h
+, 
+Ãw
+ 
+objeù
+[] { 
+v®ue
+ });
+
+255 ià(
+	gv®ue
+)
+
+257 ià(
+	gautoSyncCheckBox
+.
+	gChecked
+)
+
+259 
+	gautoSyncIÁ”v®
+.
+	gEÇbËd
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+260 
+	gsyncTim”
+.
+	gEÇbËd
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+261 
+	gÃxtSyncLab–
+.
+	gVisibË
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+266 
+	gautoSyncIÁ”v®
+.
+	gEÇbËd
+ = 
+v®ue
+;
+
+267 
+	gsyncTim”
+.
+	gEÇbËd
+ = 
+v®ue
+;
+
+268 
+	gÃxtSyncLab–
+.
+	gVisibË
+ = 
+v®ue
+;
+
+273 
+´iv©e
+ 
+S‘tšgsFÜm_FÜmClosšg
+(
+objeù
+ 
+£nd”
+, 
+FÜmClosšgEv’tArgs
+ 
+e
+)
+
+275 ià(!
+	g»que¡Clo£
+)
+
+277 
+SaveS‘tšgs
+();
+
+278 
+	ge
+.
+	gCªûl
+ = 
+Œue
+;
+
+280 
+HideFÜm
+();
+
+282 
+´iv©e
+ 
+S‘tšgsFÜm_FÜmClo£d
+(
+objeù
+ 
+£nd”
+, 
+FÜmClo£dEv’tArgs
+ 
+e
+)
+
+284 ià(
+	g_sync
+ !ğ
+nuÎ
+)
+
+285 
+_sync
+.
+LogoffOuook
+();
+
+287 
+SaveS‘tšgs
+();
+
+289 
+	gnÙifyIcÚ
+.
+Di¥o£
+();
+
+292 
+´iv©e
+ 
+syncO±iÚBox_S–eùedIndexChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+294 
+	gšdex
+ = 
+syncO±iÚBox
+.
+S–eùedIndex
+;
+
+295 ià(
+	gšdex
+ == -1)
+
+298 
+S‘SyncO±iÚ
+(
+šdex
+);
+
+300 
+´iv©e
+ 
+S‘SyncO±iÚ
+(
+šdex
+)
+
+302 
+	g_syncO±iÚ
+ = (
+SyncO±iÚ
+)
+šdex
+;
+
+303 
+	gi
+ = 0; i < 
+	gsyncO±iÚBox
+.
+	gI‹ms
+.
+	gCouÁ
+; i++)
+
+305 ià(
+	gi
+ =ğ
+šdex
+)
+
+306 
+syncO±iÚBox
+.
+S‘I‹mCheckS‹
+(
+i
+, 
+CheckS‹
+.
+Checked
+);
+
+308 
+	gsyncO±iÚBox
+.
+S‘I‹mCheckS‹
+(
+i
+, 
+CheckS‹
+.
+Unchecked
+);
+
+312 
+´iv©e
+ 
+S‘tšgsFÜm_Resize
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+314 ià(
+	gFÜmWšdowS‹
+.
+	gMšimized
+ =ğ
+WšdowS‹
+)
+
+315 
+Hide
+();
+
+319 
+´iv©e
+ 
+nÙifyIcÚ_Mou£DoubËClick
+(
+objeù
+ 
+£nd”
+, 
+Mou£Ev’tArgs
+ 
+e
+)
+
+321 ià(
+	gWšdowS‹
+ =ğ
+FÜmWšdowS‹
+.
+NÜm®
+)
+
+322 
+HideFÜm
+();
+
+324 
+ShowFÜm
+();
+
+327 
+´iv©e
+ 
+autoSyncCheckBox_CheckedChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+329 
+	gautoSyncIÁ”v®
+.
+	gEÇbËd
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+330 
+	gsyncTim”
+.
+	gEÇbËd
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+331 
+	gÃxtSyncLab–
+.
+	gVisibË
+ = 
+autoSyncCheckBox
+.
+Checked
+;
+
+334 
+´iv©e
+ 
+syncTim”_Tick
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+336 ià(
+	gÏ¡Sync
+ !ğ
+nuÎ
+)
+
+338 
+TimeS·n
+ 
+syncTime
+ = 
+D©eTime
+.
+Now
+ - 
+Ï¡Sync
+;
+
+339 
+TimeS·n
+ 
+	glim™
+ = 
+Ãw
+ TimeS·n(0, ()
+autoSyncIÁ”v®
+.
+V®ue
+, 0);
+
+340 ià(
+	gsyncTime
+ < 
+	glim™
+)
+
+342 
+TimeS·n
+ 
+	gdiff
+ = 
+lim™
+ - 
+syncTime
+;
+
+343 
+¡ršg
+ 
+	g¡r
+ = "Next sync in";
+
+344 ià(
+	gdiff
+.
+	gMšu‹s
+ != 0)
+
+345 
+¡r
+ +ğ" " + 
+diff
+.
+Mšu‹s
+ + " min";
+
+346 ià(
+	gdiff
+.
+	gSecÚds
+ != 0)
+
+347 
+¡r
+ +ğ" " + 
+diff
+.
+SecÚds
+ + " s";
+
+348 
+	gÃxtSyncLab–
+.
+	gText
+ = 
+¡r
+;
+
+352 
+Sync
+();
+
+355 
+´iv©e
+ 
+»£tM©chesBu‰Ú_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+357 ià(
+	g_sync
+ =ğ
+nuÎ
+)
+
+359 
+_sync
+ = 
+Ãw
+ 
+SynüÚiz”
+();
+
+360 
+	g_sync
+.
+	gLogg”
+ = 
+Ãw
+ 
+Logg”
+();
+
+363 
+	g_sync
+.
+LogšToGoogË
+(
+U£rName
+.
+Text
+, 
+PasswÜd
+.Text);
+
+364 
+	g_sync
+.
+LogšToOuook
+();
+
+366 
+	g_sync
+.
+Lßd
+();
+
+368 
+	g_sync
+.
+Re£tM©ches
+();
+
+370 
+Aµ’dSyncCÚsŞeText
+(
+D©eTime
+.
+Now
+ + " CÚù uÆšked" + 
+EnvœÚm’t
+.
+NewLše
+);
+
+373 
+´iv©e
+ 
+ShowFÜm
+()
+
+375 
+Show
+();
+
+376 
+	gWšdowS‹
+ = 
+FÜmWšdowS‹
+.
+NÜm®
+;
+
+378 
+´iv©e
+ 
+HideFÜm
+()
+
+380 
+	gWšdowS‹
+ = 
+FÜmWšdowS‹
+.
+Mšimized
+;
+
+381 
+Hide
+();
+
+384 
+´iv©e
+ 
+toŞSŒM’uI‹m1_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+386 
+ShowFÜm
+();
+
+388 
+´iv©e
+ 
+toŞSŒM’uI‹m3_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+390 
+HideFÜm
+();
+
+392 
+´iv©e
+ 
+toŞSŒM’uI‹m2_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+394 
+	g»que¡Clo£
+ = 
+Œue
+;
+
+395 
+Clo£
+();
+
+397 
+´iv©e
+ 
+toŞSŒM’uI‹m5_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+399 
+AboutFÜm
+ 
+	gabout
+ = 
+Ãw
+ AboutForm(
+
+404 
+Image
+.
+FromFe
+("Logo.png")
+
+407 
+	gabout
+.
+Show
+();
+
+409 
+´iv©e
+ 
+toŞSŒM’uI‹m4_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+411 
+Sync
+();
+
+414 
+´iv©e
+ 
+S‘tšgsFÜm_Lßd
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+416 ià(
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+U£rName
+.
+Text
+) ||
+
+417 
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+PasswÜd
+.
+Text
+) ||
+
+418 
+	g¡ršg
+.
+IsNuÎOrEm±y
+(
+tbSyncProfe
+.
+Text
+))
+
+420 
+ShowFÜm
+();
+
+422 
+HideFÜm
+();
+
+425 
+´iv©e
+ 
+runAtS¹upCheckBox_CheckedChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+427 
+Regi¡ryKey
+ 
+	g»gKeyAµRoÙ
+ = 
+Regi¡ry
+.
+Cu¼’tU£r
+.
+C»©eSubKey
+(@"Software\Microsoft\Windows\CurrentVersion\Run");
+
+429 ià(
+	grunAtS¹upCheckBox
+.
+	gChecked
+)
+
+432 
+	g»gKeyAµRoÙ
+.
+S‘V®ue
+("GoogËCÚùSync", 
+AµliÿtiÚ
+.
+ExecubËP©h
+);
+
+437 
+	g»gKeyAµRoÙ
+.
+D–‘eV®ue
+("GoogleContactSync");
+
+441 
+´iv©e
+ 
+U£rName_TextChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+443 
+V®id©eSyncBu‰Ú
+();
+
+445 
+´iv©e
+ 
+PasswÜd_TextChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+447 
+V®id©eSyncBu‰Ú
+();
+
+450 
+´iv©e
+ 
+V®id©eSyncBu‰Ú
+()
+
+452 
+	gsyncBu‰Ú
+.
+	gEÇbËd
+ = 
+V®idC»d‘Ÿls
+;
+
+455 
+´iv©e
+ 
+d–‘eDu¶iÿ‹sBu‰Ú_Click
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+460 
+´iv©e
+ 
+tbSyncProfe_TextChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+462 
+V®id©eSyncBu‰Ú
+();
+
+465 
+´iv©e
+ 
+btSyncD–‘e_CheckedChªged
+(
+objeù
+ 
+£nd”
+, 
+Ev’tArgs
+ 
+e
+)
+
+467 ià(
+	g_sync
+ =ğ
+nuÎ
+)
+
+469 
+_sync
+ = 
+Ãw
+ 
+SynüÚiz”
+();
+
+470 
+	g_sync
+.
+	gLogg”
+ = 
+Ãw
+ 
+Logg”
+();
+
+473 
+	g_sync
+.
+	gSyncD–‘e
+ = 
+btSyncD–‘e
+.
+Checked
+;
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Syncronizer.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gDŸgno¡ics
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+5 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+6 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCl›Á
+;
+
+7 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gEx‹nsiÚs
+;
+
+8 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+10 
+usšg
+ 
+	gSy¡em
+.
+	gIO
+;
+
+11 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gObjeùMod–
+;
+
+13 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+15 
+š‹º®
+ cÏs 
+	cSynüÚiz”
+
+
+17 
+public
+ cÚ¡ 
+	gOuookU£rPrİ”tyMaxL’gth
+ = 32;
+
+18 
+public
+ cÚ¡ 
+¡ršg
+ 
+	gOuookU£rPrİ”tyTem¶©e
+ = "g/con/{0}/";
+
+20 
+´iv©e
+ 
+	g_tÙ®CouÁ
+;
+
+21 
+public
+ 
+	gTÙ®CouÁ
+
+
+23 
+	gg‘
+ {  
+	g_tÙ®CouÁ
+; }
+
+26 
+´iv©e
+ 
+	g_synûdCouÁ
+;
+
+27 
+public
+ 
+	gSynûdCouÁ
+
+
+29 
+	gg‘
+ {  
+	g_synûdCouÁ
+; }
+
+32 
+´iv©e
+ 
+	g_d–‘edCouÁ
+;
+
+33 
+public
+ 
+	gD–‘edCouÁ
+
+
+35 
+	gg‘
+ {  
+	g_d–‘edCouÁ
+; }
+
+39 
+public
+ 
+d–eg©e
+ 
+NÙifiÿtiÚHªdËr
+(
+¡ršg
+ 
+t™Ë
+, sŒšg 
+mes§ge
+, 
+Ev’tTy³
+ 
+ev’tTy³
+);
+
+40 
+public
+ 
+ev’t
+ 
+NÙifiÿtiÚHªdËr
+ 
+	gDu¶iÿ‹sFound
+;
+
+41 
+public
+ 
+ev’t
+ 
+NÙifiÿtiÚHªdËr
+ 
+	gE¼ÜEncouÁ”ed
+;
+
+43 
+´iv©e
+ 
+CÚùsS”viû
+ 
+	g_googËS”viû
+;
+
+44 
+public
+ 
+CÚùsS”viû
+ 
+	gGoogËS”viû
+
+
+46 
+	gg‘
+ {  
+	g_googËS”viû
+; }
+
+49 
+´iv©e
+ 
+	gOuook
+.
+NameS·û
+ 
+	g_ouookName¥aû
+;
+
+51 
+´iv©e
+ 
+	gOuook
+.
+AµliÿtiÚ
+ 
+	g_ouookAµ
+;
+
+52 
+public
+ 
+	gOuook
+.
+AµliÿtiÚ
+ 
+	gOuookAµliÿtiÚ
+
+
+54 
+	gg‘
+ {  
+	g_ouookAµ
+; }
+
+57 
+´iv©e
+ 
+	gOuook
+.
+I‹ms
+ 
+	g_ouookCÚùs
+;
+
+58 
+public
+ 
+	gOuook
+.
+I‹ms
+ 
+	gOuookCÚùs
+
+
+60 
+	gg‘
+ {  
+	g_ouookCÚùs
+; }
+
+63 
+´iv©e
+ 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	g_ouookCÚùDu¶iÿ‹s
+;
+
+64 
+public
+ 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	gOuookCÚùDu¶iÿ‹s
+
+
+66 
+	gg‘
+ {  
+	g_ouookCÚùDu¶iÿ‹s
+; }
+
+67 
+	g£t
+ { 
+	g_ouookCÚùDu¶iÿ‹s
+ = 
+v®ue
+; }
+
+70 
+´iv©e
+ 
+AtomEÁryCŞËùiÚ
+ 
+	g_googËCÚùs
+;
+
+71 
+public
+ 
+AtomEÁryCŞËùiÚ
+ 
+	gGoogËCÚùs
+
+
+73 
+	gg‘
+ {  
+	g_googËCÚùs
+; }
+
+76 
+´iv©e
+ 
+AtomEÁryCŞËùiÚ
+ 
+	g_googËGroups
+;
+
+77 
+public
+ 
+AtomEÁryCŞËùiÚ
+ 
+	gGoogËGroups
+
+
+79 
+	gg‘
+ {  
+	g_googËGroups
+; }
+
+82 
+´iv©e
+ 
+¡ršg
+ 
+	g_´İ”tyP»fix
+;
+
+83 
+public
+ 
+¡ršg
+ 
+	gOuookPrİ”tyP»fix
+
+
+85 
+	gg‘
+ {  
+	g_´İ”tyP»fix
+; }
+
+88 
+public
+ 
+¡ršg
+ 
+	gOuookPrİ”tyNameId
+
+
+90 
+	gg‘
+ {  
+	g_´İ”tyP»fix
+ + "id"; }
+
+98 
+public
+ 
+¡ršg
+ 
+	gOuookPrİ”tyNameSynûd
+
+
+100 
+	gg‘
+ {  
+	g_´İ”tyP»fix
+ + "up"; }
+
+103 
+´iv©e
+ 
+SyncO±iÚ
+ 
+	g_syncO±iÚ
+ = SyncO±iÚ.
+M”geOuookWšs
+;
+
+104 
+public
+ 
+SyncO±iÚ
+ 
+	gSyncO±iÚ
+
+
+106 
+	gg‘
+ {  
+	g_syncO±iÚ
+; }
+
+107 
+	g£t
+ { 
+	g_syncO±iÚ
+ = 
+v®ue
+; }
+
+110 
+´iv©e
+ 
+¡ršg
+ 
+	g_syncProfe
+ = "";
+
+111 
+public
+ 
+¡ršg
+ 
+	gSyncProfe
+
+
+113 
+	gg‘
+ {  
+	g_syncProfe
+; }
+
+114 
+	g£t
+ { 
+	g_syncProfe
+ = 
+v®ue
+; }
+
+124 
+´iv©e
+ 
+CÚùM©chLi¡
+ 
+	g_m©ches
+;
+
+125 
+public
+ 
+CÚùM©chLi¡
+ 
+	gCÚùs
+
+
+127 
+	gg‘
+ {  
+	g_m©ches
+; }
+
+130 
+´iv©e
+ 
+¡ršg
+ 
+	g_authTok’
+;
+
+131 
+public
+ 
+¡ršg
+ 
+	gAuthTok’
+
+
+133 
+	gg‘
+
+
+135  
+	g_authTok’
+;
+
+139 
+´iv©e
+ 
+ILogg”
+ 
+	g_logg”
+;
+
+141 
+public
+ 
+ILogg”
+ 
+	gLogg”
+
+
+143 
+	gg‘
+ {  
+	g_logg”
+; }
+
+144 
+	g£t
+ { 
+	g_logg”
+ = 
+v®ue
+; }
+
+147 
+´iv©e
+ 
+boŞ
+ 
+	g_syncD–‘e
+;
+
+151 
+public
+ 
+boŞ
+ 
+	gSyncD–‘e
+
+
+153 
+	gg‘
+ {  
+	g_syncD–‘e
+; }
+
+154 
+	g£t
+ { 
+	g_syncD–‘e
+ = 
+v®ue
+; }
+
+158 
+public
+ 
+SynüÚiz”
+()
+
+163 
+public
+ 
+SynüÚiz”
+(
+SyncO±iÚ
+ 
+syncO±iÚ
+)
+
+165 
+	g_syncO±iÚ
+ = 
+syncO±iÚ
+;
+
+168 
+public
+ 
+LogšToGoogË
+(
+¡ršg
+ 
+u£ºame
+, sŒšg 
+·sswÜd
+)
+
+170 ià(
+	g_googËS”viû
+ =ğ
+nuÎ
+)
+
+171 
+_googËS”viû
+ = 
+Ãw
+ 
+CÚùsS”viû
+("WebGear.GoogleContactsSync");
+
+173 
+	g_googËS”viû
+.
+£tU£rC»d’tŸls
+(
+u£ºame
+, 
+·sswÜd
+);
+
+174 
+	g_authTok’
+ = 
+_googËS”viû
+.
+Qu”yAuth’tiÿtiÚTok’
+();
+
+176 
+	gmaxU£rIdL’gth
+ = 
+SynüÚiz”
+.
+OuookU£rPrİ”tyMaxL’gth
+ - (SynüÚiz”.
+OuookU£rPrİ”tyTem¶©e
+.
+L’gth
+ - 3 + 2);
+
+177 
+¡ršg
+ 
+	gu£rId
+ = 
+_googËS”viû
+.
+C»d’tŸls
+.
+U£ºame
+;
+
+178 ià(
+	gu£rId
+.
+	gL’gth
+ > 
+	gmaxU£rIdL’gth
+)
+
+179 
+	gu£rId
+ = 
+u£rId
+.
+G‘HashCode
+().
+ToSŒšg
+("X");
+
+181 
+	g_´İ”tyP»fix
+ = 
+¡ršg
+.
+FÜm©
+(
+SynüÚiz”
+.
+OuookU£rPrİ”tyTem¶©e
+, 
+u£rId
+);
+
+184 
+public
+ 
+LogšToOuook
+()
+
+186 ià(
+	g_ouookAµ
+ =ğ
+nuÎ
+)
+
+188 
+_ouookAµ
+ = 
+Ãw
+ 
+Ouook
+.
+AµliÿtiÚ
+();
+
+190 
+	g_ouookName¥aû
+ = 
+_ouookAµ
+.
+G‘Name¥aû
+("mapi");
+
+193 
+	g_ouookName¥aû
+.
+LogÚ
+("Ouook", 
+nuÎ
+, 
+Œue
+, 
+çl£
+);
+
+196 
+public
+ 
+LogoffOuook
+()
+
+198 ià(
+	g_ouookName¥aû
+ !ğ
+nuÎ
+)
+
+200 
+_ouookName¥aû
+.
+Logoff
+();
+
+204 
+public
+ 
+LßdOuookCÚùs
+()
+
+206 
+	gOuook
+.
+MAPIFŞd”
+ 
+	gcÚùsFŞd”
+ = 
+_ouookName¥aû
+.
+G‘DeçuÉFŞd”
+(
+Ouook
+.
+OlDeçuÉFŞd”s
+.
+ŞFŞd”CÚùs
+);
+
+207 
+	g_ouookCÚùs
+ = 
+cÚùsFŞd”
+.
+I‹ms
+;
+
+214 
+´iv©e
+ 
+F‹rOuookCÚùDu¶iÿ‹s
+()
+
+216 
+	g_ouookCÚùDu¶iÿ‹s
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+>();
+
+218 ià(
+	g_ouookCÚùs
+.
+	gCouÁ
+ < 2)
+
+221 
+	gOuook
+.
+CÚùI‹m
+ 
+	gmaš
+, 
+	gÙh”
+;
+
+222 
+boŞ
+ 
+	gfound
+ = 
+Œue
+;
+
+223 
+	gšdex
+ = 0;
+
+225 
+	gfound
+)
+
+227 
+	gfound
+ = 
+çl£
+;
+
+229 
+	gi
+ = 
+šdex
+; i <ğ
+_ouookCÚùs
+.
+CouÁ
+ - 1; i++)
+
+231 
+	gmaš
+ = 
+_ouookCÚùs
+[
+i
+] 
+as
+ 
+Ouook
+.
+CÚùI‹m
+;
+
+234 
+	gj
+ = 
+i
+ + 1; j <ğ
+_ouookCÚùs
+.
+CouÁ
+; j++)
+
+236 
+	gÙh”
+ = 
+_ouookCÚùs
+[
+j
+] 
+as
+ 
+Ouook
+.
+CÚùI‹m
+;
+
+238 ià(
+	gÙh”
+.
+	gFeAs
+ =ğ
+maš
+.
+FeAs
+ &&
+
+239 
+Ùh”
+.
+Ema1Add»ss
+ =ğ
+maš
+.Email1Address)
+
+241 
+_ouookCÚùDu¶iÿ‹s
+.
+Add
+(
+Ùh”
+);
+
+242 
+	g_ouookCÚùs
+.
+Remove
+(
+j
+);
+
+243 
+	gfound
+ = 
+Œue
+;
+
+244 
+	gšdex
+ = 
+i
+;
+
+248 ià(
+	gfound
+)
+
+254 
+public
+ 
+LßdGoogËCÚùs
+()
+
+256 
+CÚùsQu”y
+ 
+	gqu”y
+ = 
+Ãw
+ CÚùsQu”y(CÚùsQu”y.
+C»©eCÚùsUri
+("default"));
+
+257 
+	gqu”y
+.
+	gNumb”ToR‘r›ve
+ = 256;
+
+258 
+	gqu”y
+.
+	gS¹Index
+ = 0;
+
+259 
+	gqu”y
+.
+	gShowD–‘ed
+ = 
+çl£
+;
+
+262 
+CÚùsF“d
+ 
+	gãed
+;
+
+263 
+	gãed
+ = 
+_googËS”viû
+.
+Qu”y
+(
+qu”y
+);
+
+264 
+	g_googËCÚùs
+ = 
+ãed
+.
+EÁr›s
+;
+
+265 
+	gãed
+.
+	gEÁr›s
+.
+	gCouÁ
+ =ğ
+qu”y
+.
+Numb”ToR‘r›ve
+)
+
+267 
+qu”y
+.
+S¹Index
+ = 
+_googËCÚùs
+.
+CouÁ
+;
+
+268 
+	gãed
+ = 
+_googËS”viû
+.
+Qu”y
+(
+qu”y
+);
+
+269 
+fÜ—ch
+ (
+AtomEÁry
+ 
+a
+ 
+š
+ 
+ãed
+.
+EÁr›s
+)
+
+271 
+	g_googËCÚùs
+.
+Add
+(
+a
+);
+
+275 
+public
+ 
+LßdGoogËGroups
+()
+
+277 
+GroupsQu”y
+ 
+	gqu”y
+ = 
+Ãw
+ GroupsQu”y(GroupsQu”y.
+C»©eGroupsUri
+("default"));
+
+278 
+	gqu”y
+.
+	gNumb”ToR‘r›ve
+ = 256;
+
+279 
+	gqu”y
+.
+	gS¹Index
+ = 0;
+
+280 
+	gqu”y
+.
+	gShowD–‘ed
+ = 
+çl£
+;
+
+282 
+GroupsF“d
+ 
+	gãed
+;
+
+283 
+	gãed
+ = 
+_googËS”viû
+.
+Qu”y
+(
+qu”y
+);
+
+284 
+	g_googËGroups
+ = 
+ãed
+.
+EÁr›s
+;
+
+285 
+	gãed
+.
+	gEÁr›s
+.
+	gCouÁ
+ =ğ
+qu”y
+.
+Numb”ToR‘r›ve
+)
+
+287 
+qu”y
+.
+S¹Index
+ = 
+_googËGroups
+.
+CouÁ
+;
+
+288 
+	gãed
+ = 
+_googËS”viû
+.
+Qu”y
+(
+qu”y
+);
+
+289 
+fÜ—ch
+ (
+AtomEÁry
+ 
+a
+ 
+š
+ 
+ãed
+.
+EÁr›s
+)
+
+291 
+	g_googËGroups
+.
+Add
+(
+a
+);
+
+296 
+public
+ 
+Lßd
+()
+
+298 
+LßdOuookCÚùs
+();
+
+299 
+LßdGoogËCÚùs
+();
+
+300 
+LßdGoogËGroups
+();
+
+302 
+	gŒy
+
+
+304 
+	g_m©ches
+ = 
+CÚùsM©ch”
+.
+M©chCÚùs
+(
+this
+);
+
+306 
+ÿtch
+ (
+Du¶iÿ‹D©aExû±iÚ
+ 
+ex
+)
+
+308 
+	gLogg”
+.
+Log
+(
+ex
+.
+Mes§ge
+, 
+Ev’tTy³
+.
+E¼Ü
+);
+
+309 ià(
+	gDu¶iÿ‹sFound
+ !ğ
+nuÎ
+)
+
+310 
+Du¶iÿ‹sFound
+("Ouook du¶iÿ‹ found", 
+ex
+.
+Mes§ge
+, 
+Ev’tTy³
+.
+E¼Ü
+);
+
+314 
+public
+ 
+Sync
+()
+
+316 
+	g_synûdCouÁ
+ = 0;
+
+317 
+	g_d–‘edCouÁ
+ = 0;
+
+319 
+Lßd
+();
+
+321 ià(
+	g_m©ches
+ =ğ
+nuÎ
+)
+
+324 ià(
+	g_syncProfe
+.
+	gL’gth
+ == 0)
+
+326 
+Logg”
+.
+Log
+("Mu¡ s‘‡ synø´ofe. Thi should bdifã»Á oÀ—ch u£r/compu‹¸you synøÚ.", 
+Ev’tTy³
+.
+E¼Ü
+);
+
+330 
+	g_tÙ®CouÁ
+ = 
+_m©ches
+.
+CouÁ
+;
+
+332 
+	gCÚùsM©ch”
+.
+SyncGroups
+(
+this
+);
+
+334 
+	gCÚùsM©ch”
+.
+SyncCÚùs
+(
+this
+);
+
+336 
+SaveCÚùs
+(
+_m©ches
+);
+
+339 
+public
+ 
+SaveCÚùs
+(
+CÚùM©chLi¡
+ 
+cÚùs
+)
+
+341 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m©ch
+ 
+š
+ 
+cÚùs
+)
+
+343 
+	gŒy
+
+
+345 
+SaveCÚù
+(
+m©ch
+);
+
+347 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+349 ià(
+	gE¼ÜEncouÁ”ed
+ !ğ
+nuÎ
+)
+
+351 
+Debug
+.
+Wr™eLše
+Ğ
+SŒšg
+.
+FÜm©
+Ğ"E¼Ü Savšg CÚù: {0}", 
+ex
+.
+Mes§ge
+));
+
+352 
+	gDebug
+.
+Wr™eLše
+("Stack Trace:");
+
+353 
+	gDebug
+.
+Wr™eLše
+(
+ex
+.
+SckT¿û
+);
+
+355 
+E¼ÜEncouÁ”ed
+("E¼Ü", 
+ex
+.
+Mes§ge
+, 
+Ev’tTy³
+.
+E¼Ü
+);
+
+360 
+	gthrow
+;
+
+364 
+public
+ 
+SaveCÚù
+(
+CÚùM©ch
+ 
+m©ch
+)
+
+366 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ !ğ
+nuÎ
+ && 
+m©ch
+.
+OuookCÚù
+ !=‚ull)
+
+371 ià(
+m©ch
+.
+GoogËCÚù
+.
+IsDœty
+(è|| !m©ch.
+OuookCÚù
+.
+Saved
+)
+
+372 
+_synûdCouÁ
+++;
+
+374 ià(
+	gm©ch
+.
+	gGoogËCÚù
+.
+IsDœty
+())
+
+377 
+SaveGoogËCÚù
+(
+m©ch
+);
+
+378 ià(
+	gLogg”
+ !ğ
+nuÎ
+)
+
+379 
+Logg”
+.
+Log
+("Saved GoogË cÚù: \"" + 
+m©ch
+.
+GoogËCÚù
+.
+T™Ë
+.
+Text
+ + "\"", 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+382 ià(!
+	gm©ch
+.
+	gOuookCÚù
+.
+	gSaved
+)
+
+384 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+385 
+	gCÚùPrİ”t›sUts
+.
+S‘GoogËOuookCÚùId
+(
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+387 
+CÚùEÁry
+ 
+	gupd©edEÁry
+ = 
+m©ch
+.
+GoogËCÚù
+.
+Upd©e
+(è
+as
+ ContactEntry;
+
+388 
+	gm©ch
+.
+	gGoogËCÚù
+ = 
+upd©edEÁry
+;
+
+390 
+	gCÚùPrİ”t›sUts
+.
+S‘OuookGoogËCÚùId
+(
+this
+, 
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+391 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+392 ià(
+	gLogg”
+ !ğ
+nuÎ
+)
+
+393 
+Logg”
+.
+Log
+("Saved Ouook cÚù: \"" + 
+m©ch
+.
+OuookCÚù
+.
+FeAs
+ + "\"", 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+399 
+SaveCÚùPhÙos
+(
+m©ch
+);
+
+401 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ =ğ
+nuÎ
+ && 
+m©ch
+.
+OuookCÚù
+ !=‚ull)
+
+403 ià(
+CÚùPrİ”t›sUts
+.
+G‘OuookGoogËCÚùId
+(
+this
+, 
+m©ch
+.
+OuookCÚù
+è!ğ
+nuÎ
+ && 
+_syncD–‘e
+)
+
+405 
+_d–‘edCouÁ
+++;
+
+406 
+¡ršg
+ 
+	gÇme
+ = 
+m©ch
+.
+OuookCÚù
+.
+FeAs
+;
+
+408 
+	gm©ch
+.
+	gOuookCÚù
+.
+D–‘e
+();
+
+409 ià(
+	gLogg”
+ !ğ
+nuÎ
+)
+
+410 
+Logg”
+.
+Log
+("D–‘ed Ouook cÚù: \"" + 
+Çme
+ + "\"", 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+413 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ !ğ
+nuÎ
+ && 
+m©ch
+.
+OuookCÚù
+ ==‚ull)
+
+415 ià(
+CÚùPrİ”t›sUts
+.
+G‘GoogËOuookCÚùId
+(
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+è!ğ
+nuÎ
+ && 
+_syncD–‘e
+)
+
+417 
+_d–‘edCouÁ
+++;
+
+419 
+	gm©ch
+.
+	gGoogËCÚù
+.
+D–‘e
+();
+
+420 ià(
+	gLogg”
+ !ğ
+nuÎ
+)
+
+421 
+Logg”
+.
+Log
+("D–‘ed GoogË cÚù: \"" + 
+m©ch
+.
+GoogËCÚù
+.
+T™Ë
+.
+Text
+ + "\"", 
+Ev’tTy³
+.
+InfÜm©iÚ
+);
+
+427 ià(
+	gLogg”
+ !ğ
+nuÎ
+)
+
+428 
+Logg”
+.
+Log
+("BÙh GoogË‡nd Ouook cÚù: \"" + 
+m©ch
+.
+GoogËCÚù
+.
+T™Ë
+.
+Text
+ + "\" havb“Àchªged! NÙ im¶em’‹d y‘.", 
+Ev’tTy³
+.
+W¬nšg
+);
+
+431 
+public
+ 
+SaveGoogËCÚù
+(
+CÚùM©ch
+ 
+m©ch
+)
+
+434 ià(
+	gm©ch
+.
+	gGoogËCÚù
+.
+	gId
+.
+	gUri
+ =ğ
+nuÎ
+)
+
+437 
+Uri
+ 
+ãedUri
+ = 
+Ãw
+ Uri(
+CÚùsQu”y
+.
+C»©eCÚùsUri
+("default"));
+
+439 
+	gŒy
+
+
+441 
+	gCÚùPrİ”t›sUts
+.
+S‘GoogËOuookCÚùId
+(
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+443 
+CÚùEÁry
+ 
+	gü—‹dEÁry
+ = (CÚùEÁry)
+_googËS”viû
+.
+In£¹
+(
+ãedUri
+, 
+m©ch
+.
+GoogËCÚù
+);
+
+444 
+	gm©ch
+.
+	gGoogËCÚù
+ = 
+ü—‹dEÁry
+;
+
+446 
+	gCÚùPrİ”t›sUts
+.
+S‘OuookGoogËCÚùId
+(
+this
+, 
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+447 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+449 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+451 
+MemÜySŒ—m
+ 
+	gms
+ = 
+Ãw
+ MemoryStream();
+
+452 
+	gm©ch
+.
+	gGoogËCÚù
+.
+SaveToXml
+(
+ms
+);
+
+454 
+SŒ—mR—d”
+ 
+	g¤
+ = 
+Ãw
+ SŒ—mR—d”(
+ms
+);
+
+456 
+	gms
+.
+S“k
+(0, 
+S“kOrigš
+.
+Begš
+);
+
+457 
+	gDebug
+.
+Wr™eLše
+Ğ
+SŒšg
+.
+FÜm©
+Ğ"E¼Ü savšg googË cÚù: {0}", 
+ex
+.
+Mes§ge
+));
+
+458 
+	gDebug
+.
+Wr™eLše
+Ğ
+¤
+.
+R—dToEnd
+());
+
+460 
+	gthrow
+;
+
+465 
+	gŒy
+
+
+468 
+	gCÚùPrİ”t›sUts
+.
+S‘GoogËOuookCÚùId
+(
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+, m©ch.
+OuookCÚù
+);
+
+471 
+CÚùEÁry
+ 
+	gupd©edEÁry
+ = 
+m©ch
+.
+GoogËCÚù
+.
+Upd©e
+(è
+as
+ ContactEntry;
+
+472 
+	gm©ch
+.
+	gGoogËCÚù
+ = 
+upd©edEÁry
+;
+
+474 
+	gCÚùPrİ”t›sUts
+.
+S‘OuookGoogËCÚùId
+(
+this
+, 
+m©ch
+.
+OuookCÚù
+, m©ch.
+GoogËCÚù
+);
+
+475 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+477 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+480 
+	gthrow
+;
+
+484 
+public
+ 
+SaveGoogËCÚù
+(
+CÚùEÁry
+ 
+googËCÚù
+)
+
+487 ià(
+	ggoogËCÚù
+.
+	gId
+.
+	gUri
+ =ğ
+nuÎ
+)
+
+490 
+Uri
+ 
+ãedUri
+ = 
+Ãw
+ Uri(
+CÚùsQu”y
+.
+C»©eCÚùsUri
+("default"));
+
+492 
+	gŒy
+
+
+494 
+CÚùEÁry
+ 
+	gü—‹dEÁry
+ = (CÚùEÁry)
+_googËS”viû
+.
+In£¹
+(
+ãedUri
+, 
+googËCÚù
+);
+
+496 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+499 
+	gthrow
+;
+
+504 
+	gŒy
+
+
+508 
+CÚùEÁry
+ 
+	gupd©edEÁry
+ = 
+googËCÚù
+.
+Upd©e
+(è
+as
+ ContactEntry;
+
+510 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+513 
+	gthrow
+;
+
+518 
+public
+ 
+SaveCÚùPhÙos
+(
+CÚùM©ch
+ 
+m©ch
+)
+
+520 
+boŞ
+ 
+	ghasGoogËPhÙo
+ = 
+Ut™›s
+.
+HasPhÙo
+(
+m©ch
+.
+GoogËCÚù
+);
+
+521 
+boŞ
+ 
+	ghasOuookPhÙo
+ = 
+Ut™›s
+.
+HasPhÙo
+(
+m©ch
+.
+OuookCÚù
+);
+
+523 ià(!
+	ghasGoogËPhÙo
+ && !
+	ghasOuookPhÙo
+)
+
+525 ià(
+	ghasGoogËPhÙo
+ && !
+	ghasOuookPhÙo
+)
+
+528 
+Image
+ 
+	ggoogËPhÙo
+ = 
+Ut™›s
+.
+G‘GoogËPhÙo
+(
+this
+, 
+m©ch
+.
+GoogËCÚù
+);
+
+529 
+	gUt™›s
+.
+S‘OuookPhÙo
+(
+m©ch
+.
+OuookCÚù
+, 
+googËPhÙo
+);
+
+530 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+532 
+	ggoogËPhÙo
+.
+Di¥o£
+();
+
+534 ià(!
+	ghasGoogËPhÙo
+ && 
+	ghasOuookPhÙo
+)
+
+537 
+Image
+ 
+	gouookPhÙo
+ = 
+Ut™›s
+.
+G‘OuookPhÙo
+(
+m©ch
+.
+OuookCÚù
+);
+
+538 
+	gouookPhÙo
+ = 
+Ut™›s
+.
+CrİImageGoogËFÜm©
+(
+ouookPhÙo
+);
+
+539 
+boŞ
+ 
+	g§ved
+ = 
+Ut™›s
+.
+SaveGoogËPhÙo
+(
+this
+, 
+m©ch
+.
+GoogËCÚù
+, 
+ouookPhÙo
+);
+
+540 ià(!
+	g§ved
+)
+
+541 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+("Could‚ot save");
+
+543 
+	gouookPhÙo
+.
+Di¥o£
+();
+
+628 
+public
+ 
+GroupEÁry
+ 
+SaveGoogËGroup
+(GroupEÁry 
+group
+)
+
+631 ià(
+	ggroup
+.
+	gId
+.
+	gUri
+ =ğ
+nuÎ
+)
+
+634 
+Uri
+ 
+ãedUri
+ = 
+Ãw
+ Uri(
+GroupsQu”y
+.
+C»©eGroupsUri
+("default"));
+
+636 
+	gŒy
+
+
+638 
+GroupEÁry
+ 
+	gü—‹dEÁry
+ = 
+_googËS”viû
+.
+In£¹
+(
+ãedUri
+, 
+group
+è
+as
+ 
+	gGroupEÁry
+;
+
+639  
+	gü—‹dEÁry
+;
+
+641 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+644 
+	gthrow
+;
+
+649 
+	gŒy
+
+
+652 
+GroupEÁry
+ 
+	gupd©edEÁry
+ = 
+group
+.
+Upd©e
+(è
+as
+ GroupEntry;
+
+653  
+	gupd©edEÁry
+;
+
+655 
+ÿtch
+ (
+Exû±iÚ
+ 
+ex
+)
+
+658 
+	gthrow
+;
+
+720 
+public
+ 
+Ov”wr™eCÚùGroups
+(
+Ouook
+.
+CÚùI‹m
+ 
+ma¡”
+, 
+CÚùEÁry
+ 
+¦ave
+)
+
+722 
+	gCŞËùiÚ
+<
+	gGroupEÁry
+> 
+	gcu¼’tGroups
+ = 
+Ut™›s
+.
+G‘GoogËGroups
+(
+this
+, 
+¦ave
+);
+
+725 
+	g¡ršg
+[] 
+	gÿts
+ = 
+Ut™›s
+.
+G‘OuookGroups
+(
+ma¡”
+);
+
+728 
+	gCŞËùiÚ
+<
+	gGroupEÁry
+> 
+	g»move
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+GroupEÁry
+>();
+
+729 
+boŞ
+ 
+	gfound
+;
+
+730 
+fÜ—ch
+ (
+GroupEÁry
+ 
+group
+ 
+š
+ 
+cu¼’tGroups
+)
+
+732 
+	gfound
+ = 
+çl£
+;
+
+733 
+fÜ—ch
+ (
+¡ršg
+ 
+ÿt
+ 
+š
+ 
+ÿts
+)
+
+735 ià(
+	ggroup
+.
+	gT™Ë
+.
+	gText
+ =ğ
+ÿt
+)
+
+737 
+found
+ = 
+Œue
+;
+
+741 ià(!
+	gfound
+)
+
+742 
+	g»move
+.
+Add
+(
+group
+);
+
+744 
+	g»move
+.
+	gCouÁ
+ != 0)
+
+746 
+Ut™›s
+.
+RemoveGoogËGroup
+(
+¦ave
+, 
+»move
+[0]);
+
+747 
+	g»move
+.
+RemoveAt
+(0);
+
+751 
+GroupEÁry
+ 
+	gg
+;
+
+752 
+fÜ—ch
+ (
+¡ršg
+ 
+ÿt
+ 
+š
+ 
+ÿts
+)
+
+754 ià(!
+	gUt™›s
+.
+CÚšsGroup
+(
+this
+, 
+¦ave
+, 
+ÿt
+))
+
+757 
+	gg
+ = 
+G‘GoogËGroupByName
+(
+ÿt
+);
+
+758 ià(
+	gg
+ =ğ
+nuÎ
+)
+
+760 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+(
+¡ršg
+.
+FÜm©
+("GoogË Group w”suµo£dØbü—‹d…riÜØ§všg", 
+ÿt
+));
+
+762 
+	gUt™›s
+.
+AddGoogËGroup
+(
+¦ave
+, 
+g
+);
+
+812 
+public
+ 
+Ov”wr™eCÚùGroups
+(
+CÚùEÁry
+ 
+ma¡”
+, 
+Ouook
+.
+CÚùI‹m
+ 
+¦ave
+)
+
+814 
+	gCŞËùiÚ
+<
+	gGroupEÁry
+> 
+	gÃwGroups
+ = 
+Ut™›s
+.
+G‘GoogËGroups
+(
+this
+, 
+ma¡”
+);
+
+816 
+	gLi¡
+<
+	g¡ršg
+> 
+	gÃwC©s
+ = 
+Ãw
+ 
+Li¡
+<
+¡ršg
+>(
+ÃwGroups
+.
+CouÁ
+);
+
+817 
+fÜ—ch
+ (
+GroupEÁry
+ 
+group
+ 
+š
+ 
+ÃwGroups
+)
+
+819 
+	gÃwC©s
+.
+Add
+(
+group
+.
+T™Ë
+.
+Text
+);
+
+822 
+	g¦ave
+.
+	gC©egÜ›s
+ = 
+¡ršg
+.
+Još
+(", ", 
+ÃwC©s
+.
+ToA¼ay
+());
+
+829 
+public
+ 
+Re£tM©ches
+()
+
+831 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m©ch
+ 
+š
+ 
+CÚùs
+)
+
+833 
+Re£tM©ch
+(
+m©ch
+);
+
+836 
+	gCÚùs
+.
+CË¬
+();
+
+838 
+public
+ 
+Re£tM©ch
+(
+CÚùM©ch
+ 
+m©ch
+)
+
+840 ià(
+	gm©ch
+.
+	gGoogËCÚù
+ !ğ
+nuÎ
+)
+
+842 
+CÚùPrİ”t›sUts
+.
+Re£tGoogËOuookCÚùId
+(
+SyncProfe
+, 
+m©ch
+.
+GoogËCÚù
+);
+
+843 
+SaveGoogËCÚù
+(
+m©ch
+.
+GoogËCÚù
+);
+
+845 ià(
+	gm©ch
+.
+	gOuookCÚù
+ !ğ
+nuÎ
+)
+
+847 
+CÚùPrİ”t›sUts
+.
+Re£tOuookGoogËCÚùId
+(
+this
+, 
+m©ch
+.
+OuookCÚù
+);
+
+848 
+	gm©ch
+.
+	gOuookCÚù
+.
+Save
+();
+
+852 
+public
+ 
+CÚùM©ch
+ 
+CÚùByPrİ”ty
+(
+¡ršg
+ 
+Çme
+, sŒšg 
+ema
+)
+
+854 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m
+ 
+š
+ 
+CÚùs
+)
+
+856 ià(
+	gm
+.
+	gGoogËCÚù
+ !ğ
+nuÎ
+ &&
+
+857 ((
+m
+.
+GoogËCÚù
+.
+Prim¬yEma
+ !ğ
+nuÎ
+ && m.GoogËCÚù.Prim¬yEma.
+Add»ss
+ =ğ
+ema
+) ||
+
+858 
+m
+.
+GoogËCÚù
+.
+T™Ë
+.
+Text
+ =ğ
+Çme
+))
+
+860  
+m
+;
+
+862 ià(
+	gm
+.
+	gOuookCÚù
+ !ğ
+nuÎ
+ && (
+
+863 (
+m
+.
+OuookCÚù
+.
+Ema1Add»ss
+ !ğ
+nuÎ
+ && m.OuookCÚù.Ema1Add»s =ğ
+ema
+) ||
+
+864 
+m
+.
+OuookCÚù
+.
+FeAs
+ =ğ
+Çme
+))
+
+866  
+m
+;
+
+869  
+	gnuÎ
+;
+
+871 
+public
+ 
+CÚùM©ch
+ 
+CÚùEma
+(
+¡ršg
+ 
+ema
+)
+
+873 
+fÜ—ch
+ (
+CÚùM©ch
+ 
+m
+ 
+š
+ 
+CÚùs
+)
+
+875 ià(
+	gm
+.
+	gGoogËCÚù
+ !ğ
+nuÎ
+ &&
+
+876 (
+m
+.
+GoogËCÚù
+.
+Prim¬yEma
+ !ğ
+nuÎ
+ && m.GoogËCÚù.Prim¬yEma.
+Add»ss
+ =ğ
+ema
+))
+
+878  
+m
+;
+
+880 ià(
+	gm
+.
+	gOuookCÚù
+ !ğ
+nuÎ
+ && (
+
+881 
+m
+.
+OuookCÚù
+.
+Ema1Add»ss
+ !ğ
+nuÎ
+ && m.OuookCÚù.Ema1Add»s =ğ
+ema
+))
+
+883  
+m
+;
+
+886  
+	gnuÎ
+;
+
+895 
+public
+ 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+OuookCÚùByPrİ”ty
+(
+¡ršg
+ 
+Çme
+, sŒšg 
+ema
+)
+
+897 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	gcŞ
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+>();
+
+898 
+fÜ—ch
+ (
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+ 
+š
+ 
+OuookCÚùs
+)
+
+900 ià(
+	gouookCÚù
+ !ğ
+nuÎ
+ && (
+
+901 (
+ouookCÚù
+.
+Ema1Add»ss
+ !ğ
+nuÎ
+ && ouookCÚù.Ema1Add»s =ğ
+ema
+) ||
+
+902 
+ouookCÚù
+.
+FeAs
+ =ğ
+Çme
+))
+
+904 
+cŞ
+.
+Add
+(
+ouookCÚù
+);
+
+907  
+	gcŞ
+;
+
+915 
+public
+ 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+OuookCÚùByEma
+(
+¡ršg
+ 
+ema
+)
+
+919 
+	gCŞËùiÚ
+<
+	gOuook
+.
+	gCÚùI‹m
+> 
+	gcŞ
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+>();
+
+920 
+	gOuook
+.
+CÚùI‹m
+ 
+	g™em
+ = 
+nuÎ
+;
+
+921 
+	gŒy
+
+
+923 
+	g™em
+ = 
+OuookCÚùs
+.
+Fšd
+("[Ema1Add»ss] = \"" + 
+ema
+ + "\""è
+as
+ 
+Ouook
+.
+CÚùI‹m
+;
+
+924 ià(
+	g™em
+ !ğ
+nuÎ
+)
+
+926 
+cŞ
+.
+Add
+(
+™em
+);
+
+929 
+	g™em
+ = 
+OuookCÚùs
+.
+FšdNext
+(è
+as
+ 
+Ouook
+.
+CÚùI‹m
+;
+
+930 ià(
+	g™em
+ !ğ
+nuÎ
+)
+
+931 
+cŞ
+.
+Add
+(
+™em
+);
+
+932 } 
+	g™em
+ !ğ
+nuÎ
+);
+
+935 
+ÿtch
+ (
+Exû±iÚ
+)
+
+940  
+	gcŞ
+;
+
+965 
+public
+ 
+GroupEÁry
+ 
+G‘GoogËGroupById
+(
+¡ršg
+ 
+id
+)
+
+967  
+	g_googËGroups
+.
+FšdById
+(
+Ãw
+ 
+AtomId
+(
+id
+)è
+as
+ 
+	gGroupEÁry
+;
+
+977 
+public
+ 
+GroupEÁry
+ 
+G‘GoogËGroupByName
+(
+¡ršg
+ 
+Çme
+)
+
+979 
+fÜ—ch
+ (
+GroupEÁry
+ 
+group
+ 
+š
+ 
+_googËGroups
+)
+
+981 ià(
+	ggroup
+.
+	gT™Ë
+.
+	gText
+ =ğ
+Çme
+)
+
+982  
+group
+;
+
+984  
+	gnuÎ
+;
+
+986 
+public
+ 
+GroupEÁry
+ 
+C»©eGroup
+(
+¡ršg
+ 
+Çme
+)
+
+988 
+GroupEÁry
+ 
+	ggroup
+ = 
+Ãw
+ GroupEntry();
+
+989 
+	ggroup
+.
+	gT™Ë
+.
+	gText
+ = 
+Çme
+;
+
+990 
+	ggroup
+.
+	gDœty
+ = 
+Œue
+;
+
+991  
+	ggroup
+;
+
+994 
+public
+ 
+boŞ
+ 
+A»Equ®
+(
+Ouook
+.
+CÚùI‹m
+ 
+c1
+, Ouook.CÚùI‹m 
+c2
+)
+
+996  
+	gc1
+.
+	gEma1Add»ss
+ =ğ
+c2
+.
+Ema1Add»ss
+;
+
+998 
+public
+ 
+IndexOf
+(
+CŞËùiÚ
+<
+Ouook
+.
+CÚùI‹m
+> 
+cŞ
+, Ouook.CÚùI‹m 
+ouookCÚù
+)
+
+1001 
+	gi
+ = 0; i < 
+	gcŞ
+.
+	gCouÁ
+; i++)
+
+1003 ià(
+A»Equ®
+(
+cŞ
+[
+i
+], 
+ouookCÚù
+))
+
+1004  
+	gi
+;
+
+1010 
+š‹º®
+ 
+	eSyncO±iÚ
+
+
+1012 
+	gM”geProm±
+,
+
+1013 
+	gM”geOuookWšs
+,
+
+1014 
+	gM”geGoogËWšs
+,
+
+1015 
+	gOuookToGoogËOÆy
+,
+
+1016 
+	gGoogËToOuookOÆy
+,
+
+	@E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Utilities.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gG’”ic
+;
+
+3 
+usšg
+ 
+	gSy¡em
+.
+	gText
+;
+
+4 
+usšg
+ 
+	gSy¡em
+.
+	gD¿wšg
+;
+
+5 
+usšg
+ 
+	gSy¡em
+.
+	gN‘
+;
+
+6 
+usšg
+ 
+	gSy¡em
+.
+	gIO
+;
+
+7 
+usšg
+ 
+	gGoogË
+.
+	gGD©a
+.
+	gCÚùs
+;
+
+8 
+usšg
+ 
+	gOuook
+ = 
+Miüosoá
+.
+Offiû
+.
+IÁ”İ
+.
+Ouook
+;
+
+9 
+usšg
+ 
+	gSy¡em
+.
+	gTh»adšg
+;
+
+10 
+usšg
+ 
+	gSy¡em
+.
+	gCŞËùiÚs
+.
+	gObjeùMod–
+;
+
+12 
+Çme¥aû
+ 
+	gWebG—r
+.
+	gGoogËCÚùsSync
+
+
+14 
+š‹º®
+ şas 
+	cUt™›s
+
+
+16 
+´iv©e
+ 
+¡ršg
+ 
+	g‹mpPhÙoP©h
+ = 
+AµDomaš
+.
+Cu¼’tDomaš
+.
+Ba£DœeùÜy
+ + "\\TempOutlookContactPhoto.jpg";
+
+18 
+public
+ 
+	gby‹
+[] 
+B™m­ToBy‹s
+(
+B™m­
+ 
+b™m­
+)
+
+21 
+MemÜySŒ—m
+ 
+	g¡»am
+ = 
+Ãw
+ MemoryStream();
+
+22 
+	gb™m­
+.
+Save
+(
+¡»am
+, 
+Sy¡em
+.
+D¿wšg
+.
+Imagšg
+.
+ImageFÜm©
+.
+Bmp
+);
+
+23  
+	g¡»am
+.
+ToA¼ay
+();
+
+26 
+public
+ 
+boŞ
+ 
+HasPhÙo
+(
+CÚùEÁry
+ 
+googËCÚù
+)
+
+28 ià(
+	ggoogËCÚù
+.
+	gPhÙoUri
+ =ğ
+nuÎ
+)
+
+29  
+çl£
+;
+
+30  
+	gŒue
+;
+
+32 
+public
+ 
+boŞ
+ 
+HasPhÙo
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+34  
+	gouookCÚù
+.
+	gHasPiùu»
+;
+
+37 
+public
+ 
+boŞ
+ 
+SaveGoogËPhÙo
+(
+SynüÚiz”
+ 
+sync
+, 
+CÚùEÁry
+ 
+googËCÚù
+, 
+Image
+ 
+image
+)
+
+39 ià(
+	ggoogËCÚù
+.
+	gPhÙoEd™Uri
+ =ğ
+nuÎ
+)
+
+40 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+("Must„eload contact from google.");
+
+42 
+	gŒy
+
+
+44 
+WebCl›Á
+ 
+	gş›Á
+ = 
+Ãw
+ WebClient();
+
+45 
+	gş›Á
+.
+	gH—d”s
+.
+Add
+(
+H‰pReque¡H—d”
+.
+AuthÜiz©iÚ
+, "GoogËLogš‡uth=" + 
+sync
+.
+AuthTok’
+);
+
+46 
+	gş›Á
+.
+	gH—d”s
+.
+Add
+(
+H‰pReque¡H—d”
+.
+CÚ‹ÁTy³
+, "image/*");
+
+47 
+B™m­
+ 
+	gpic
+ = 
+Ãw
+ B™m­(
+image
+);
+
+48 
+SŒ—m
+ 
+	gs
+ = 
+ş›Á
+.
+O³nWr™e
+(
+googËCÚù
+.
+PhÙoEd™Uri
+.
+AbsŞu‹Uri
+, "PUT");
+
+49 
+	gby‹
+[] 
+	gby‹s
+ = 
+B™m­ToBy‹s
+(
+pic
+);
+
+50 
+	gs
+.
+Wr™e
+(
+by‹s
+, 0, by‹s.
+L’gth
+);
+
+51 
+	gs
+.
+Flush
+();
+
+52 
+	gs
+.
+Clo£
+();
+
+53 
+	gs
+.
+Di¥o£
+();
+
+54 
+	gş›Á
+.
+Di¥o£
+();
+
+55 
+	gpic
+.
+Di¥o£
+();
+
+57 
+	gÿtch
+
+
+59  
+	gçl£
+;
+
+61  
+	gŒue
+;
+
+63 
+public
+ 
+Image
+ 
+G‘GoogËPhÙo
+(
+SynüÚiz”
+ 
+sync
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+65 ià(!
+HasPhÙo
+(
+googËCÚù
+))
+
+66  
+	gnuÎ
+;
+
+68 
+	gŒy
+
+
+70 
+WebCl›Á
+ 
+	gş›Á
+ = 
+Ãw
+ WebClient();
+
+71 
+	gş›Á
+.
+	gH—d”s
+.
+Add
+(
+H‰pReque¡H—d”
+.
+AuthÜiz©iÚ
+, "GoogËLogš‡uth=" + 
+sync
+.
+AuthTok’
+);
+
+72 
+SŒ—m
+ 
+	g¡»am
+ = 
+ş›Á
+.
+O³nR—d
+(
+googËCÚù
+.
+PhÙoUri
+.
+AbsŞu‹Uri
+);
+
+73 
+Bš¬yR—d”
+ 
+	g»ad”
+ = 
+Ãw
+ Bš¬yR—d”(
+¡»am
+);
+
+74 
+Image
+ 
+	gimage
+ = Image.
+FromSŒ—m
+(
+¡»am
+);
+
+75 
+	g»ad”
+.
+Clo£
+();
+
+76 
+	g¡»am
+.
+Clo£
+();
+
+77 
+	g¡»am
+.
+Di¥o£
+();
+
+78 
+	gş›Á
+.
+Di¥o£
+();
+
+80  
+	gimage
+;
+
+82 
+	gÿtch
+
+
+84  
+	gnuÎ
+;
+
+88 
+public
+ 
+boŞ
+ 
+S‘OuookPhÙo
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+¡ršg
+ 
+fuÎImageP©h
+)
+
+90 
+	gŒy
+
+
+92 
+	gouookCÚù
+.
+AddPiùu»
+(
+fuÎImageP©h
+);
+
+93 
+	gouookCÚù
+.
+Save
+();
+
+94  
+	gŒue
+;
+
+96 
+	gÿtch
+
+
+98  
+	gçl£
+;
+
+101 
+public
+ 
+boŞ
+ 
+S‘OuookPhÙo
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+Image
+ 
+image
+)
+
+103 
+	gŒy
+
+
+105 
+	gimage
+.
+Save
+(
+‹mpPhÙoP©h
+);
+
+106  
+S‘OuookPhÙo
+(
+ouookCÚù
+, 
+‹mpPhÙoP©h
+);
+
+108 
+	gÿtch
+
+
+110  
+	gçl£
+;
+
+113 
+public
+ 
+Image
+ 
+G‘OuookPhÙo
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+115 ià(!
+HasPhÙo
+(
+ouookCÚù
+))
+
+116  
+	gnuÎ
+;
+
+118 
+	gŒy
+
+
+120 
+fÜ—ch
+ (
+Ouook
+.
+A‰achm’t
+ 
+a
+ 
+š
+ 
+ouookCÚù
+.
+A‰achm’ts
+)
+
+123 ifĞ
+	ga
+.
+	gDi¥ÏyName
+.
+ToUµ”
+().
+CÚšs
+( "CONTACTPICTURE"))
+
+125 
+	ga
+.
+SaveAsFe
+(
+‹mpPhÙoP©h
+);
+
+126  
+	gImage
+.
+FromFe
+(
+‹mpPhÙoP©h
+);
+
+129  
+	gnuÎ
+;
+
+131 
+	gÿtch
+
+
+135  
+	gnuÎ
+;
+
+139 
+public
+ 
+Image
+ 
+CrİImageGoogËFÜm©
+(Imag
+Üigš®
+)
+
+143 
+	gwidth
+, 
+	gheight
+, 
+	gdiff
+;
+
+144 
+Pošt
+ 
+	gp
+;
+
+145 
+ReùªgË
+ 
+	gr
+;
+
+147 ià(
+	gÜigš®
+.
+	gHeight
+ =ğ
+Üigš®
+.
+Width
+)
+
+148  
+Üigš®
+;
+
+149 ià(
+	gÜigš®
+.
+	gHeight
+ > origš®.
+	gWidth
+)
+
+152 
+	gwidth
+ = 
+Üigš®
+.
+Width
+;
+
+153 
+	gheight
+ = 
+width
+;
+
+155 
+	gdiff
+ = 
+Üigš®
+.
+Height
+ - 
+height
+;
+
+156 
+	gp
+ = 
+Ãw
+ 
+Pošt
+(0, 
+diff
+ / 2);
+
+157 
+	gr
+ = 
+Ãw
+ 
+ReùªgË
+(
+p
+,‚ew 
+Size
+(
+width
+, 
+height
+));
+
+159  
+CrİImage
+(
+Üigš®
+, 
+r
+);
+
+164 
+	gheight
+ = 
+Üigš®
+.
+Height
+;
+
+165 
+	gwidth
+ = 
+height
+;
+
+167 
+	gdiff
+ = 
+Üigš®
+.
+Width
+ - 
+width
+;
+
+168 
+	gp
+ = 
+Ãw
+ 
+Pošt
+(
+diff
+ / 2, 0);
+
+169 
+	gr
+ = 
+Ãw
+ 
+ReùªgË
+(
+p
+,‚ew 
+Size
+(
+width
+, 
+height
+));
+
+171  
+CrİImage
+(
+Üigš®
+, 
+r
+);
+
+174 
+public
+ 
+Image
+ 
+CrİImage
+(Imag
+Üigš®
+, 
+ReùªgË
+ 
+üİA»a
+)
+
+176 
+B™m­
+ 
+	gbmpImage
+ = 
+Ãw
+ B™m­(
+Üigš®
+);
+
+177 
+B™m­
+ 
+	gbmpCrİ
+ = 
+bmpImage
+.
+ClÚe
+(
+üİA»a
+, bmpImage.
+Pix–FÜm©
+);
+
+178  (
+	gImage
+)(
+	gbmpCrİ
+);
+
+181 
+public
+ 
+D–‘eTempPhÙo
+()
+
+183 
+	gŒy
+
+
+185 ià(
+	gFe
+.
+Exi¡s
+(
+‹mpPhÙoP©h
+))
+
+186 
+	gFe
+.
+D–‘e
+(
+‹mpPhÙoP©h
+);
+
+188 
+	gÿtch
+ { }
+
+191 
+public
+ 
+boŞ
+ 
+CÚšsGroup
+(
+SynüÚiz”
+ 
+sync
+, 
+CÚùEÁry
+ 
+googËCÚù
+, 
+¡ršg
+ 
+groupName
+)
+
+193 
+GroupEÁry
+ 
+	ggroupEÁry
+ = 
+sync
+.
+G‘GoogËGroupByName
+(
+groupName
+);
+
+194 ià(
+	ggroupEÁry
+ =ğ
+nuÎ
+)
+
+195  
+çl£
+;
+
+196  
+CÚšsGroup
+(
+googËCÚù
+, 
+groupEÁry
+);
+
+198 
+public
+ 
+boŞ
+ 
+CÚšsGroup
+(
+CÚùEÁry
+ 
+googËCÚù
+, 
+GroupEÁry
+ 
+groupEÁry
+)
+
+200 
+fÜ—ch
+ (
+GroupMemb”sh
+ 
+m
+ 
+š
+ 
+googËCÚù
+.GroupMembership)
+
+202 ià(
+	gm
+.
+	gHRef
+ =ğ
+groupEÁry
+.
+Id
+.
+AbsŞu‹Uri
+)
+
+203  
+Œue
+;
+
+205  
+	gçl£
+;
+
+207 
+public
+ 
+boŞ
+ 
+CÚšsGroup
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+¡ršg
+ 
+group
+)
+
+209 ià(
+	gouookCÚù
+.
+	gC©egÜ›s
+ =ğ
+nuÎ
+)
+
+210  
+çl£
+;
+
+212  
+	gouookCÚù
+.
+	gC©egÜ›s
+.
+CÚšs
+(
+group
+);
+
+215 
+public
+ 
+	gCŞËùiÚ
+<
+	gGroupEÁry
+> 
+G‘GoogËGroups
+(
+SynüÚiz”
+ 
+sync
+, 
+CÚùEÁry
+ 
+googËCÚù
+)
+
+217 
+	gc
+ = 
+googËCÚù
+.
+GroupMemb”sh
+.
+CouÁ
+;
+
+218 
+	gCŞËùiÚ
+<
+	gGroupEÁry
+> 
+	ggroups
+ = 
+Ãw
+ 
+CŞËùiÚ
+<
+GroupEÁry
+>();
+
+219 
+¡ršg
+ 
+	gid
+;
+
+220 
+GroupEÁry
+ 
+	ggroup
+;
+
+221 
+	gi
+ = 0; i < 
+	gc
+; i++)
+
+223 
+	gid
+ = 
+googËCÚù
+.
+GroupMemb”sh
+[
+i
+].
+HRef
+;
+
+224 
+	ggroup
+ = 
+sync
+.
+G‘GoogËGroupById
+(
+id
+);
+
+226 
+	ggroups
+.
+Add
+(
+group
+);
+
+228  
+	ggroups
+;
+
+230 
+public
+ 
+AddGoogËGroup
+(
+CÚùEÁry
+ 
+googËCÚù
+, 
+GroupEÁry
+ 
+groupEÁry
+)
+
+232 ià(
+CÚšsGroup
+(
+googËCÚù
+, 
+groupEÁry
+))
+
+235 
+GroupMemb”sh
+ 
+	gm
+ = 
+Ãw
+ GroupMembership();
+
+236 
+	gm
+.
+	gHRef
+ = 
+groupEÁry
+.
+Id
+.
+AbsŞu‹Uri
+;
+
+237 
+	ggoogËCÚù
+.
+	gGroupMemb”sh
+.
+Add
+(
+m
+);
+
+239 
+public
+ 
+RemoveGoogËGroup
+(
+CÚùEÁry
+ 
+googËCÚù
+, 
+GroupEÁry
+ 
+groupEÁry
+)
+
+241 ià(!
+CÚšsGroup
+(
+googËCÚù
+, 
+groupEÁry
+))
+
+248 
+GroupMemb”sh
+ 
+	gmem
+;
+
+249 
+	gi
+ = 0; i < 
+	ggoogËCÚù
+.
+	gGroupMemb”sh
+.
+	gCouÁ
+; i++)
+
+251 
+	gmem
+ = 
+googËCÚù
+.
+GroupMemb”sh
+[
+i
+];
+
+252 ià(
+	gmem
+.
+	gHRef
+ =ğ
+groupEÁry
+.
+Id
+.
+AbsŞu‹Uri
+)
+
+254 
+googËCÚù
+.
+GroupMemb”sh
+.
+Remove
+(
+mem
+);
+
+258 
+throw
+ 
+Ãw
+ 
+Exû±iÚ
+("Did‚ot find group");
+
+261 
+public
+ 
+	g¡ršg
+[] 
+G‘OuookGroups
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+)
+
+263 ià(
+	gouookCÚù
+.
+	gC©egÜ›s
+ =ğ
+nuÎ
+)
+
+264  
+Ãw
+ 
+¡ršg
+[] { };
+
+266 
+	g¡ršg
+[] 
+	gÿ‹gÜ›s
+ = 
+ouookCÚù
+.
+C©egÜ›s
+.
+S¶™
+(',');
+
+267 
+	gi
+ = 0; i < 
+	gÿ‹gÜ›s
+.
+	gL’gth
+; i++)
+
+269 
+	gÿ‹gÜ›s
+[
+i
+] = 
+ÿ‹gÜ›s
+[i].
+Trim
+();
+
+271  
+	gÿ‹gÜ›s
+;
+
+273 
+public
+ 
+AddOuookGroup
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+¡ršg
+ 
+group
+)
+
+275 ià(
+CÚšsGroup
+(
+ouookCÚù
+, 
+group
+))
+
+279 ià(
+	gouookCÚù
+.
+	gC©egÜ›s
+ =ğ
+nuÎ
+)
+
+280 
+ouookCÚù
+.
+C©egÜ›s
+ = "";
+
+281 ià(
+	gouookCÚù
+.
+	gC©egÜ›s
+ != "")
+
+282 
+ouookCÚù
+.
+C©egÜ›s
+ +ğ", " + 
+group
+;
+
+284 
+	gouookCÚù
+.
+	gC©egÜ›s
+ +ğ
+group
+;
+
+286 
+public
+ 
+RemoveOuookGroup
+(
+Ouook
+.
+CÚùI‹m
+ 
+ouookCÚù
+, 
+¡ršg
+ 
+group
+)
+
+288 ià(!
+CÚšsGroup
+(
+ouookCÚù
+, 
+group
+))
+
+291 
+	gouookCÚù
+.
+	gC©egÜ›s
+ = 
+ouookCÚù
+.
+C©egÜ›s
+.
+R•Ïû
+(", " + 
+group
+, "");
+
+292 
+	gouookCÚù
+.
+	gC©egÜ›s
+ = 
+ouookCÚù
+.
+C©egÜ›s
+.
+R•Ïû
+(
+group
+, "");
+
+	@
+1
+.
+1
+/usr/include
+24
+2174
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\AboutForm.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\AboutForm.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolver.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolverForm.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ConflictResolverForm.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPreview.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPreview.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactPropertiesUtils.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactSync.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ContactsMatcher.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DeleteDuplicatesForm.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DeleteDuplicatesForm.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\DuplicateDataException.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Encryption.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\IConflictResolver.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\ILogger.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Program.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\AssemblyInfo.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\Resources.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Properties\Settings.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\SettingsForm.Designer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\SettingsForm.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Syncronizer.cs
+E:\Program\c#\downFromInternet\gocontactsync-code\GoogleContactsSync\Utilities.cs

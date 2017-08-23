@@ -1,0 +1,17 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.EDMDesigner.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.EDMDesigner.Core.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.Core.UI.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.Core.UI.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Release\ICSharpCode.Data.Core.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\ICSharpCode.Data.EDMDesigner.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\ChooseDatabaseConnectionUserControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\ChooseDatabaseObjectsUserControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\EDMWizardErrorUserControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\ChooseDatabaseConnectionUserControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\ChooseDatabaseObjectsUserControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\Windows\EDMWizard\EDMWizardErrorUserControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\ICSharpCode.Data.EDMDesigner.Core_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\ICSharpCode.Data.EDMDesigner.Core.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\ICSharpCode.Data.EDMDesigner.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Release\ICSharpCode.Data.EDMDesigner.Core.pdb

@@ -1,0 +1,9 @@
+E:\project\c#\CSV\CSV\bin\Debug\CSV.dll
+E:\project\c#\CSV\CSV\bin\Debug\CSV.pdb
+E:\project\c#\CSV\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+E:\project\c#\CSV\CSV\obj\Debug\CSV.dll
+E:\project\c#\CSV\CSV\obj\Debug\CSV.pdb
+E:\360file\Program\c#\CSV\CSV\bin\Debug\CSV.dll
+E:\360file\Program\c#\CSV\CSV\bin\Debug\CSV.pdb
+E:\360file\Program\c#\CSV\CSV\obj\Debug\CSV.dll
+E:\360file\Program\c#\CSV\CSV\obj\Debug\CSV.pdb

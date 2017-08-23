@@ -1,0 +1,12 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\SourceAnalysis\SharpDevelop.SourceAnalysis.targets
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.pdb

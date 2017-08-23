@@ -1,0 +1,14 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.SharpDevelop.Widgets.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.SharpDevelop.Widgets.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\NumericUpDown.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\themes\generic.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ZoomScrollViewer.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.pdb

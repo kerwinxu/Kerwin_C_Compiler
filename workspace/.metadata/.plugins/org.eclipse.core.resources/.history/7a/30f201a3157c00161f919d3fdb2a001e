@@ -1,0 +1,36 @@
+package KerwinWin;
+
+import java.awt.Color;
+
+import robocode.Robot;
+import robocode.ScannedRobotEvent;
+
+/**
+ * 
+* @ClassName: Sample2  
+* @Description: TODO(这里用一句话描述这个类的作用)  
+* @author kerwin kerwin.cn@gmail.com
+* @date 2016年9月16日 下午9:40:56  
+* 这个类实现2点
+* 1、一开始360度扫描。
+* 2、锁定第一个敌方坦克位置。
+* 3、有个预测坦克下一步位置的方法
+* 4、有个根据各种参数发射炮弹的方法。
+ */
+
+public class Sample2 extends Robot {
+	//确定坦克的基本行为
+	public void run()
+	{
+		while(true){
+			turnGunRight(360);
+		}
+	}
+	//当扫描到其他坦克时的行为。
+	public void onScannedRobot(ScannedRobotEvent e)
+	{
+		fire(1);
+	}
+	
+
+}

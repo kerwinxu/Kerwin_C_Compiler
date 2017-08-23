@@ -1,0 +1,11 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\GitAddIn.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\GitAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\GitAddIn.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\Src\GitOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\Src\GitOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.pdb

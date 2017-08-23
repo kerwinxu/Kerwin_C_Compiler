@@ -1,0 +1,16 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controls.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controls.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\Profiler.Controls.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\CompareView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\CompareView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ExtendedTimeLineControl.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\QueryView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ExtendedTimeLineControl.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\QueryView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\Themes\Generic.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.pdb

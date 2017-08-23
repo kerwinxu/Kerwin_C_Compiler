@@ -1,0 +1,5 @@
+E:\project\c#\我自己编写的类库\IocpServer\obj\Debug\ResolveAssemblyReference.cache
+E:\project\c#\我自己编写的类库\IocpServer\bin\Debug\IocpServer.dll
+E:\project\c#\我自己编写的类库\IocpServer\bin\Debug\IocpServer.pdb
+E:\project\c#\我自己编写的类库\IocpServer\obj\Debug\IocpServer.dll
+E:\project\c#\我自己编写的类库\IocpServer\obj\Debug\IocpServer.pdb

@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\CppBinding\CppBinding.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\CppBinding\CppBinding.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\CppBinding\CppBinding.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\ApplicationOptions.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\LinkerOptions.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\PreprocessorOptions.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\ApplicationOptions.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\LinkerOptions.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\Project\PreprocessorOptions.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\CppBinding_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\CppBinding.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\CppBinding.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Debug\CppBinding.pdb

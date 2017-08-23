@@ -1,0 +1,9 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" binpathtype="Auto">
+    <assembly path="Gnu.Getopt.Tests\bin\Debug\Gnu.Getopt.Tests.exe" />
+  </Config>
+  <Config name="Release" binpathtype="Auto">
+    <assembly path="Gnu.Getopt.Tests\bin\Release\Gnu.Getopt.Tests.exe" />
+  </Config>
+</NUnitProject>

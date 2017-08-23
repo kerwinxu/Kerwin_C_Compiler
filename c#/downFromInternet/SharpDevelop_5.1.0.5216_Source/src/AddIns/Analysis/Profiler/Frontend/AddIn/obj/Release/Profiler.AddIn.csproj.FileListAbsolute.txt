@@ -1,0 +1,16 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\Profiler\ICSharpCode.Profiler.AddIn.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\Profiler\ICSharpCode.Profiler.AddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Profiler.AddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Dialogs\ProfileExecutableForm.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Dialogs\ProfilerControlWindow.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\OptionPanels\General.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Views\ComparisonView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Views\ProfilerView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Dialogs\ProfileExecutableForm.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Dialogs\ProfilerControlWindow.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\OptionPanels\General.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Views\ComparisonView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\Src\Views\ProfilerView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\ICSharpCode.Profiler.AddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\ICSharpCode.Profiler.AddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Release\ICSharpCode.Profiler.AddIn.dll

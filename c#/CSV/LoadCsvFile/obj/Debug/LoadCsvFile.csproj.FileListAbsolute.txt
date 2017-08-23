@@ -1,0 +1,11 @@
+E:\360file\Program\c#\CSV\LoadCsvFile\bin\Debug\LoadCsvFile.exe.config
+E:\360file\Program\c#\CSV\LoadCsvFile\bin\Debug\LoadCsvFile.exe
+E:\360file\Program\c#\CSV\LoadCsvFile\bin\Debug\LoadCsvFile.pdb
+E:\360file\Program\c#\CSV\LoadCsvFile\bin\Debug\CSV.dll
+E:\360file\Program\c#\CSV\LoadCsvFile\bin\Debug\CSV.pdb
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.csprojResolveAssemblyReference.cache
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.Form1.resources
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.Properties.Resources.resources
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.csproj.GenerateResource.Cache
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.exe
+E:\360file\Program\c#\CSV\LoadCsvFile\obj\Debug\LoadCsvFile.pdb

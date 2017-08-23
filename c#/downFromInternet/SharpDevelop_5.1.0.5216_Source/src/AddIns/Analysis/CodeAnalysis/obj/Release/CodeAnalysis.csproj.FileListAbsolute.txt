@@ -1,0 +1,11 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisProjectOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisProjectOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.dll

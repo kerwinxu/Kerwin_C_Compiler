@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\XamlBinding\XamlBinding.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\XamlBinding\ICSharpCode.XamlBinding.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\BackendBindings\XamlBinding\ICSharpCode.XamlBinding.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\XamlBinding.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\XamlOutlineContentHost.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\Options\CodeCompletion.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\XamlOutlineContentHost.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\ICSharpCode.XamlBinding_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\ICSharpCode.XamlBinding_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\Options\CodeCompletion.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\ICSharpCode.XamlBinding.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\ICSharpCode.XamlBinding.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Debug\ICSharpCode.XamlBinding.pdb

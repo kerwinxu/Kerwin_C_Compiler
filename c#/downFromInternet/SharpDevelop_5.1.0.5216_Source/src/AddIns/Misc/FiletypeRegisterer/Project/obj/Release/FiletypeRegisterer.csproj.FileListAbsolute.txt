@@ -1,0 +1,12 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\addin.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\FiletypeRegisterer.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\cs.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\cmbx.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\java.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\prjx.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\resx.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\vb.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\xfrm.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\filetypes\xml.ico
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\FiletypeRegisterer\ICSharpCode.FiletypeRegisterer.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Release\ICSharpCode.FiletypeRegisterer.dll

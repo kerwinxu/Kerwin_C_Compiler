@@ -1,0 +1,6 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Core.xml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Core.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\Core\Project\obj\Release\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\Core\Project\obj\Release\ICSharpCode.Core.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\Core\Project\obj\Release\ICSharpCode.Core.pdb

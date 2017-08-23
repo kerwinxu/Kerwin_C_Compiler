@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gnu.Getopt", "Gnu.Getopt\Gnu.Getopt.csproj", "{379BC478-7D84-4E0E-A4B8-197905C824AE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gnu.Getopt.Tests", "Gnu.Getopt.Tests\Gnu.Getopt.Tests.csproj", "{2A0076D5-2C27-4FB0-A23A-43BB0484F0A5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{379BC478-7D84-4E0E-A4B8-197905C824AE}.Debug.ActiveCfg = Debug|.NET
+		{379BC478-7D84-4E0E-A4B8-197905C824AE}.Debug.Build.0 = Debug|.NET
+		{379BC478-7D84-4E0E-A4B8-197905C824AE}.Release.ActiveCfg = Release|.NET
+		{379BC478-7D84-4E0E-A4B8-197905C824AE}.Release.Build.0 = Release|.NET
+		{2A0076D5-2C27-4FB0-A23A-43BB0484F0A5}.Debug.ActiveCfg = Debug|.NET
+		{2A0076D5-2C27-4FB0-A23A-43BB0484F0A5}.Debug.Build.0 = Debug|.NET
+		{2A0076D5-2C27-4FB0-A23A-43BB0484F0A5}.Release.ActiveCfg = Release|.NET
+		{2A0076D5-2C27-4FB0-A23A-43BB0484F0A5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		COPYING.LIB = COPYING.LIB
+		Gnu.Getopt.FxCop = Gnu.Getopt.FxCop
+		Gnu.Getopt.ndoc = Gnu.Getopt.ndoc
+		Gnu.Getopt.nunit = Gnu.Getopt.nunit
+		Gnu.Getopt.snk = Gnu.Getopt.snk
+		readme.txt = readme.txt
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

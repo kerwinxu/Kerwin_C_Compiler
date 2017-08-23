@@ -1,0 +1,14 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeQuality\CodeQuality.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeQuality\ICSharpCode.CodeQuality.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\CodeQuality.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\NodeDescription.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\NodeDescription.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\DependencyMatrixView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\MainView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\ICSharpCode.CodeQuality_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\ICSharpCode.CodeQuality_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\DependencyMatrixView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\Gui\MainView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\ICSharpCode.CodeQuality.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Release\ICSharpCode.CodeQuality.dll

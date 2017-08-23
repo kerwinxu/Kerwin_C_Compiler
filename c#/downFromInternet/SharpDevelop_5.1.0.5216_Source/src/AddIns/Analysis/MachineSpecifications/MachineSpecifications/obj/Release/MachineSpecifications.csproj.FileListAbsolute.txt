@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\CommandLine.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\License.txt
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Machine.Specifications.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Machine.Specifications.Reporting.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-clr4.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-x86-clr4.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-x86.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec.exe
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Spark.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\MachineSpecifications.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\MachineSpecifications\MachineSpecifications.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Release\MachineSpecifications.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Release\MachineSpecifications.dll

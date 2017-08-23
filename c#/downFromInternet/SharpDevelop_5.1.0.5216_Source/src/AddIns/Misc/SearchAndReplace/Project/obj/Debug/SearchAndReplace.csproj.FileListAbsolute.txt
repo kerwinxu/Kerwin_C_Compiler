@@ -1,0 +1,10 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\SearchAndReplace\SearchAndReplace.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\SearchAndReplace\SearchAndReplace.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\SearchAndReplace\SearchAndReplace.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\SearchAndReplace.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\Gui\ResultsTreeView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\Gui\ResultsTreeView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\SearchAndReplace_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\SearchAndReplace.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\SearchAndReplace.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\SearchAndReplace.pdb

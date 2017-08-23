@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\SharpDevelop.EnvDTE.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\SharpDevelop.EnvDTE.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.vbprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.pdb

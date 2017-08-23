@@ -1,0 +1,15 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\CollectedDataView.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\CollectedDataView.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\OptionPage.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\StartPageMessage.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\OptionPage.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\StartPageMessage.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.pdb

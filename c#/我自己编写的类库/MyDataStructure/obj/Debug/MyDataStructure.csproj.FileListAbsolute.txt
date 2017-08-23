@@ -1,0 +1,38 @@
+E:\project\条形码设计打印管理专家\条形码设计打印管理专家\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\project\条形码设计打印管理专家\条形码设计打印管理专家\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\project\条形码设计打印管理专家\条形码设计打印管理专家\MyDataStructure\obj\Debug\ResolveAssemblyReference.cache
+E:\project\条形码设计打印管理专家\条形码设计打印管理专家\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\project\条形码设计打印管理专家\条形码设计打印管理专家\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\project\条形码设计打印管理专家\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\project\条形码设计打印管理专家\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\project\条形码设计打印管理专家\MyDataStructure\obj\Debug\ResolveAssemblyReference.cache
+E:\project\条形码设计打印管理专家\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\project\条形码设计打印管理专家\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\project\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\project\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\project\MyDataStructure\obj\Debug\ResolveAssemblyReference.cache
+E:\project\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\project\MyDataStructure\obj\Debug\MyDataStructure.pdb
+C:\Documents and Settings\barcode2\桌面\project\MyDataStructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\barcode2\桌面\project\MyDataStructure\obj\Debug\MyDataStructure.dll
+C:\Documents and Settings\barcode2\桌面\project\MyDataStructure\bin\Debug\MyDataStructure.dll
+C:\Documents and Settings\barcode2\桌面\project\MyDataStructure\bin\Debug\MyDataStructure.pdb
+C:\Documents and Settings\barcode2\桌面\project\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\project\c#\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\project\c#\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\project\c#\MyDataStructure\obj\Debug\ResolveAssemblyReference.cache
+E:\project\c#\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\project\c#\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\云盘同步文件夹\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\云盘同步文件夹\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\云盘同步文件夹\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\云盘同步文件夹\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\360file\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.dll
+E:\360file\project\c#\我自己编写的类库\MyDataStructure\bin\Debug\MyDataStructure.pdb
+E:\360file\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.dll
+E:\360file\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.pdb
+E:\360file\project\c#\我自己编写的类库\MyDataStructure\obj\Debug\MyDataStructure.csprojResolveAssemblyReference.cache

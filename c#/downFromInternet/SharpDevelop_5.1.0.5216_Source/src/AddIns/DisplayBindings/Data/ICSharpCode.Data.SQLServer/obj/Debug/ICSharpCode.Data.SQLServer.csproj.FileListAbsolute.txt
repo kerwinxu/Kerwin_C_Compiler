@@ -1,0 +1,9 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.pdb

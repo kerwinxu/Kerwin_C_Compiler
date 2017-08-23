@@ -1,0 +1,10 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeCoverage\CodeCoverage.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Analysis\CodeCoverage\CodeCoverage.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\CodeCoverage.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\Src\CodeCoverageOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\Src\CodeCoverageProjectOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\Src\CodeCoverageOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\Src\CodeCoverageProjectOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\CodeCoverage_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\CodeCoverage.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Release\CodeCoverage.dll

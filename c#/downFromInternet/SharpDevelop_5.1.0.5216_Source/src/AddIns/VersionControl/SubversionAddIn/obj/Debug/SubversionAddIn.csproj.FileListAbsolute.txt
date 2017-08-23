@@ -1,0 +1,13 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\SubversionAddIn\ICSharpCode.Svn.addin
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\Src\Gui\SubversionOptionsPanel.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\Src\Gui\SubversionOptionsPanel.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\ICSharpCode.Svn.InfoPanel.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csproj.GenerateResource.Cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.pdb

@@ -1,0 +1,9 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.Core.Presentation.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\ICSharpCode.Core.Presentation.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\ICSharpCode.Core.Presentation_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\ICSharpCode.Core.Presentation_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\themes\Aero.NormalColor.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\themes\generic.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\ICSharpCode.Core.Presentation.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.Core.Presentation\obj\Release\ICSharpCode.Core.Presentation.dll

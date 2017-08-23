@@ -1,0 +1,5 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\PackageManagement\PackageManagement.PowerShell.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\PackageManagement\PackageManagement.PowerShell.pdb
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\Debug\PackageManagement.PowerShell.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\Debug\PackageManagement.PowerShell.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\Debug\PackageManagement.PowerShell.pdb

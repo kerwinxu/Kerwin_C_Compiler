@@ -1,0 +1,12 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\bin\ICSharpCode.SharpDevelop.Widgets.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ICSharpCode.SharpDevelop.Widgets.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ColorPicker.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.lref
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ColorPicker.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\NumericUpDown.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\themes\generic.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ZoomScrollViewer.baml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ICSharpCode.SharpDevelop.Widgets.g.resources
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Release\ICSharpCode.SharpDevelop.Widgets.dll

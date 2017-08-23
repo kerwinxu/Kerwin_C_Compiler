@@ -1,0 +1,11 @@
+C:\Documents and Settings\barcode2\桌面\条形码设计打印管理专家 2013-4-17 完整版\zxing\csharp\bin\x86\zxing.dll
+C:\Documents and Settings\barcode2\桌面\条形码设计打印管理专家 2013-4-17 完整版\zxing\csharp\bin\x86\MyDataStructure.dll
+C:\Documents and Settings\barcode2\桌面\条形码设计打印管理专家 2013-4-17 完整版\zxing\csharp\bin\x86\MyDataStructure.pdb
+C:\Documents and Settings\barcode2\桌面\条形码设计打印管理专家 2013-4-17 完整版\zxing\csharp\obj\x86\ResolveAssemblyReference.cache
+C:\Documents and Settings\barcode2\桌面\条形码设计打印管理专家 2013-4-17 完整版\zxing\csharp\obj\x86\zxing.dll
+E:\project\zxing\csharp\bin\x86\zxing.dll
+E:\project\zxing\csharp\bin\x86\MyDataStructure.dll
+E:\project\zxing\csharp\bin\x86\MyDataStructure.pdb
+E:\project\zxing\csharp\obj\x86\ResolveAssemblyReference.cache
+E:\project\zxing\csharp\obj\x86\zxing.dll
+E:\project\c#\下载的源码\zxing\csharp\obj\x86\zxing.dll

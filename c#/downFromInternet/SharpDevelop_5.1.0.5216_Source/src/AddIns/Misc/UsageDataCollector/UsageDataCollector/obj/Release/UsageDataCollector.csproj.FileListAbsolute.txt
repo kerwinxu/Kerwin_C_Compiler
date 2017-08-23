@@ -1,0 +1,4 @@
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.xml
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.dll
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Release\UsageDataCollector.csprojResolveAssemblyReference.cache
+E:\Program\c#\downFromInternet\SharpDevelop_5.1.0.5216_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Release\UsageDataCollector.dll

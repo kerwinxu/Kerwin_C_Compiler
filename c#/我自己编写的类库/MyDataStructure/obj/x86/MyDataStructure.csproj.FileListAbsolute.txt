@@ -1,0 +1,6 @@
+E:\project\MyDataStructure\bin\x86\MyDataStructure.dll
+E:\project\MyDataStructure\obj\x86\ResolveAssemblyReference.cache
+E:\project\MyDataStructure\obj\x86\MyDataStructure.dll
+E:\project\c#\MyDataStructure\bin\x86\MyDataStructure.dll
+E:\project\c#\MyDataStructure\obj\x86\ResolveAssemblyReference.cache
+E:\project\c#\MyDataStructure\obj\x86\MyDataStructure.dll
