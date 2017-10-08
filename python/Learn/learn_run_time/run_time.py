@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Author:  kerwin.cn@gmail.com
 # Created Time:2017-03-21 12:02:16
-# Last Change:  2017-03-21 12:09:08
+# Last Change:  2017-09-14 14:27:34
 # File Name: run_time.py
 
 import time
@@ -29,3 +29,4 @@ def random_sort(n):
 
 if __name__ == "__main__":
     random_sort(2000000)
+    Compile parameters = {"Nginx":"./configure --prefix=/usr/local/nginx --with-http_dav_module --with-http_stub_status_module --with-http_ssl_module --with-http_addition_module --with-http_sub_module --with-http_flv_module --with-http_mp4_module --with-pcre=/usr/local/pcre-8.38"}
